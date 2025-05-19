@@ -1,0 +1,3042 @@
+{
+                
+                    "startTime" : 0,
+                    "endTime" : 0.4171734,
+                    "duration" : 417.1734,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.4171734,
+                    "endTime" : 0.5360069,
+                    "duration" : 118.8335,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Copenhagen",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.5360069,
+                    "endTime" : 0.6487789,
+                    "duration" : 112.772,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.6487789,
+                    "endTime" : 0.8017654,
+                    "duration" : 152.9865,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.8017654,
+                    "endTime" : 1.014938,
+                    "duration" : 213.1729,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.014938,
+                    "endTime" : 1.083353,
+                    "duration" : 68.41469,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 1.083353,
+                    "endTime" : 1.350513,
+                    "duration" : 267.1604,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.350513,
+                    "endTime" : 1.364449,
+                    "duration" : 13.93509,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 1.364449,
+                    "endTime" : 1.443577,
+                    "duration" : 79.12827,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Berlin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.443577,
+                    "endTime" : 1.906019,
+                    "duration" : 462.4424,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Madrid",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : 1.906019,
+                    "endTime" : 2.144476,
+                    "duration" : 238.4567,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 2.144476,
+                    "endTime" : 2.667459,
+                    "duration" : 522.9835,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Bucharest",
+                    "virus" : "Red"
+                
+                },
+{
+                
+                    "startTime" : 2.667459,
+                    "endTime" : 2.964788,
+                    "duration" : 297.3289,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 2.964788,
+                    "endTime" : 3.457823,
+                    "duration" : 493.0344,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "London",
+                    "virus" : "Blue"
+                
+                },
+{
+                
+                    "startTime" : 3.457823,
+                    "endTime" : 3.74194,
+                    "duration" : 284.1168,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 3.74194,
+                    "endTime" : 4.266092,
+                    "duration" : 524.1528,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "EventCard",
+                    "event" : "Mobile Hospital",
+                    "eventID" : "26"
+                
+                },
+{
+                
+                    "startTime" : 4.266092,
+                    "endTime" : 4.527269,
+                    "duration" : 261.1771,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 4.527269,
+                    "endTime" : 4.650229,
+                    "duration" : 122.9591,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Vienna",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : 6.979818,
+                    "endTime" : 7.086721,
+                    "duration" : 106.9031,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 7.086721,
+                    "endTime" : 7.145571,
+                    "duration" : 58.84933,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 7.145571,
+                    "endTime" : 7.354944,
+                    "duration" : 209.3735,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 7.354944,
+                    "endTime" : 7.44449,
+                    "duration" : 89.5462,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 7.44449,
+                    "endTime" : 7.628756,
+                    "duration" : 184.2651,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 7.628756,
+                    "endTime" : 7.714701,
+                    "duration" : 85.94513,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 7.714701,
+                    "endTime" : 7.781446,
+                    "duration" : 66.74576,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 7.781446,
+                    "endTime" : 7.853319,
+                    "duration" : 71.87271,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "London",
+                    "virus" : "Blue",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 7.853319,
+                    "endTime" : 7.914766,
+                    "duration" : 61.44714,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Vienna",
+                    "virus" : "Yellow",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 7.914766,
+                    "endTime" : 8.175425,
+                    "duration" : 260.6583,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "London",
+                    "virus" : "Blue",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 8.175425,
+                    "endTime" : 8.242785,
+                    "duration" : 67.35992,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 8.242785,
+                    "endTime" : 8.310041,
+                    "duration" : 67.25693,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Not in city",
+                    "city" : "Not in city"
+                
+                },
+{
+                
+                    "startTime" : 8.310041,
+                    "endTime" : 8.371244,
+                    "duration" : 61.203,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Not in city",
+                    "city" : "Not in city"
+                
+                },
+{
+                
+                    "startTime" : 8.371244,
+                    "endTime" : 8.505518,
+                    "duration" : 134.2735,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 8.505518,
+                    "endTime" : 8.667986,
+                    "duration" : 162.468,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 8.667986,
+                    "endTime" : 8.858553,
+                    "duration" : 190.567,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 8.858553,
+                    "endTime" : 9.121134,
+                    "duration" : 262.5809,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 9.121134,
+                    "endTime" : 9.294062,
+                    "duration" : 172.9279,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 9.294062,
+                    "endTime" : 9.46155,
+                    "duration" : 167.4881,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 9.46155,
+                    "endTime" : 9.545481,
+                    "duration" : 83.93097,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Yellow",
+                    "city" : "Budapest"
+                
+                },
+{
+                
+                    "startTime" : 9.545481,
+                    "endTime" : 9.609884,
+                    "duration" : 64.40353,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 9.609884,
+                    "endTime" : 9.689348,
+                    "duration" : 79.46396,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Yellow",
+                    "city" : "Budapest"
+                
+                },
+{
+                
+                    "startTime" : 9.689348,
+                    "endTime" : 9.750048,
+                    "duration" : 60.69946,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 9.750048,
+                    "endTime" : 10.04453,
+                    "duration" : 294.4832,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 10.04453,
+                    "endTime" : 10.1162,
+                    "duration" : 71.67053,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.1162,
+                    "endTime" : 10.26616,
+                    "duration" : 149.9634,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Paris",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 3
+                
+                },
+{
+                
+                    "startTime" : 10.26616,
+                    "endTime" : 10.40788,
+                    "duration" : 141.716,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 10.40788,
+                    "endTime" : 10.54016,
+                    "duration" : 132.2746,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.54016,
+                    "endTime" : 10.6011,
+                    "duration" : 60.93979,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Not in city",
+                    "city" : "Not in city"
+                
+                },
+{
+                
+                    "startTime" : 10.6011,
+                    "endTime" : 10.82633,
+                    "duration" : 225.2312,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Not in city",
+                    "city" : "Not in city"
+                
+                },
+{
+                
+                    "startTime" : 10.82633,
+                    "endTime" : 10.89357,
+                    "duration" : 67.24548,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.89357,
+                    "endTime" : 11.03127,
+                    "duration" : 137.6953,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.03127,
+                    "endTime" : 11.32584,
+                    "duration" : 294.5709,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.32584,
+                    "endTime" : 11.38697,
+                    "duration" : 61.13052,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 11.38697,
+                    "endTime" : 11.65914,
+                    "duration" : 272.1672,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : 2,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.65914,
+                    "endTime" : 11.7328,
+                    "duration" : 73.66562,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 11.7328,
+                    "endTime" : 11.79,
+                    "duration" : 57.20139,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : 2,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.79,
+                    "endTime" : 12.00016,
+                    "duration" : 210.1593,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 12.00016,
+                    "endTime" : 12.2627,
+                    "duration" : 262.5389,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Red",
+                    "city" : "Warsaw"
+                
+                },
+{
+                
+                    "startTime" : 12.2627,
+                    "endTime" : 12.62983,
+                    "duration" : 367.1303,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 12.62983,
+                    "endTime" : 12.84114,
+                    "duration" : 211.3075,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Red",
+                    "city" : "Warsaw"
+                
+                },
+{
+                
+                    "startTime" : 12.84114,
+                    "endTime" : 13.20754,
+                    "duration" : 366.3979,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 13.20754,
+                    "endTime" : 13.8225,
+                    "duration" : 614.9635,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : 1,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 13.8225,
+                    "endTime" : 13.8805,
+                    "duration" : 57.99866,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 13.8805,
+                    "endTime" : 13.93647,
+                    "duration" : 55.96924,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "InfectionCard",
+                    "city" : "Minsk"
+                
+                },
+{
+                
+                    "startTime" : 13.93647,
+                    "endTime" : 15.04514,
+                    "duration" : 1108.673,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 15.04514,
+                    "endTime" : 15.91075,
+                    "duration" : 865.6121,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "InfectionCard",
+                    "city" : "Madrid"
+                
+                },
+{
+                
+                    "startTime" : 15.91075,
+                    "endTime" : 17.01698,
+                    "duration" : 1106.228,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 17.01698,
+                    "endTime" : 17.09872,
+                    "duration" : 81.73752,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : 1,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 17.09872,
+                    "endTime" : 17.64765,
+                    "duration" : 548.9273,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 17.64765,
+                    "endTime" : 18.09599,
+                    "duration" : 448.3414,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Direct Flight",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 18.09599,
+                    "endTime" : 18.25032,
+                    "duration" : 154.3312,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 18.25032,
+                    "endTime" : 18.87935,
+                    "duration" : 629.0321,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 18.87935,
+                    "endTime" : 19.19131,
+                    "duration" : 311.9545,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.19131,
+                    "endTime" : 19.25509,
+                    "duration" : 63.78555,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.25509,
+                    "endTime" : 19.2958,
+                    "duration" : 40.71426,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.2958,
+                    "endTime" : 19.36421,
+                    "duration" : 68.40515,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.36421,
+                    "endTime" : 19.49409,
+                    "duration" : 129.8752,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.49409,
+                    "endTime" : 19.96839,
+                    "duration" : 474.3042,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.96839,
+                    "endTime" : 20.05527,
+                    "duration" : 86.87592,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Paris",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 3
+                
+                },
+{
+                
+                    "startTime" : 20.05527,
+                    "endTime" : 20.1227,
+                    "duration" : 67.43622,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 20.1227,
+                    "endTime" : 20.20845,
+                    "duration" : 85.75058,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Paris",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 3
+                
+                },
+{
+                
+                    "startTime" : 20.20845,
+                    "endTime" : 20.37115,
+                    "duration" : 162.7007,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 20.37115,
+                    "endTime" : 20.88697,
+                    "duration" : 515.8196,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 20.88697,
+                    "endTime" : 21.09124,
+                    "duration" : 204.2694,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 21.09124,
+                    "endTime" : 21.15995,
+                    "duration" : 68.70651,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 21.15995,
+                    "endTime" : 21.23544,
+                    "duration" : 75.49286,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 21.23544,
+                    "endTime" : 21.42871,
+                    "duration" : 193.2716,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 21.42871,
+                    "endTime" : 21.49246,
+                    "duration" : 63.74359,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Yellow",
+                    "city" : "Budapest"
+                
+                },
+{
+                
+                    "startTime" : 21.49246,
+                    "endTime" : 22.13788,
+                    "duration" : 645.42,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.13788,
+                    "endTime" : 22.3104,
+                    "duration" : 172.5235,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Yellow",
+                    "city" : "Budapest"
+                
+                },
+{
+                
+                    "startTime" : 22.3104,
+                    "endTime" : 22.70698,
+                    "duration" : 396.5797,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"true","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.70698,
+                    "endTime" : 22.78594,
+                    "duration" : 78.9566,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"true","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Yellow",
+                    "city" : "Budapest"
+                
+                },
+{
+                
+                    "startTime" : 22.78594,
+                    "endTime" : 23.04176,
+                    "duration" : 255.825,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"true","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 23.04176,
+                    "endTime" : 24.20254,
+                    "duration" : 1160.782,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"true","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Treat Disease",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 24.20254,
+                    "endTime" : 24.61041,
+                    "duration" : 407.8636,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"true","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 24.61041,
+                    "endTime" : 24.67077,
+                    "duration" : 60.35995,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"true","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Yellow",
+                    "city" : "Budapest"
+                
+                },
+{
+                
+                    "startTime" : 24.67077,
+                    "endTime" : 27.13886,
+                    "duration" : 2468.09,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 27.13886,
+                    "endTime" : 27.19605,
+                    "duration" : 57.19376,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 27.19605,
+                    "endTime" : 27.44871,
+                    "duration" : 252.6588,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 27.44871,
+                    "endTime" : 28.08548,
+                    "duration" : 636.7683,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 28.08548,
+                    "endTime" : 28.2205,
+                    "duration" : 135.025,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 28.2205,
+                    "endTime" : 28.28847,
+                    "duration" : 67.96646,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 28.28847,
+                    "endTime" : 28.35755,
+                    "duration" : 69.07654,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 28.35755,
+                    "endTime" : 28.47362,
+                    "duration" : 116.0774,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Not in city",
+                    "city" : "Not in city"
+                
+                },
+{
+                
+                    "startTime" : 28.47362,
+                    "endTime" : 28.54079,
+                    "duration" : 67.16537,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 28.54079,
+                    "endTime" : 28.60964,
+                    "duration" : 68.84766,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 28.60964,
+                    "endTime" : 28.68807,
+                    "duration" : 78.43018,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 28.68807,
+                    "endTime" : 28.76008,
+                    "duration" : 72.01385,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Budapest",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : 28.76008,
+                    "endTime" : 28.88946,
+                    "duration" : 129.3831,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 28.88946,
+                    "endTime" : 28.9502,
+                    "duration" : 60.73761,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : 1,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 28.9502,
+                    "endTime" : 29.02831,
+                    "duration" : 78.11356,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 29.02831,
+                    "endTime" : 30.09974,
+                    "duration" : 1071.43,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 30.09974,
+                    "endTime" : 30.16862,
+                    "duration" : 68.87436,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 30.16862,
+                    "endTime" : 30.30545,
+                    "duration" : 136.8332,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 30.30545,
+                    "endTime" : 30.39126,
+                    "duration" : 85.8078,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 30.39126,
+                    "endTime" : 30.74592,
+                    "duration" : 354.66,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 30.74592,
+                    "endTime" : 31.03182,
+                    "duration" : 285.9039,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "InfectionCard",
+                    "city" : "Budapest"
+                
+                },
+{
+                
+                    "startTime" : 31.03182,
+                    "endTime" : 31.56406,
+                    "duration" : 532.2342,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "InfectionCard",
+                    "city" : "Amsterdam"
+                
+                },
+{
+                
+                    "startTime" : 31.56406,
+                    "endTime" : 31.64132,
+                    "duration" : 77.25906,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Helsinki",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 31.64132,
+                    "endTime" : 31.71177,
+                    "duration" : 70.45746,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Moscow",
+                    "color" : "Red",
+                    "cubesRed" : 2,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 31.71177,
+                    "endTime" : 31.9104,
+                    "duration" : 198.6237,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 31.9104,
+                    "endTime" : 32.11471,
+                    "duration" : 204.3095,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Stockholm",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 32.11471,
+                    "endTime" : 32.24583,
+                    "duration" : 131.1264,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Budapest",
+                            "currentCityID" : 10,
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 2,
+                            "actions" : {"moveAction":"false","flyAction":"false","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"false"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 32.24583,
+                    "endTime" : 32.6638,
+                    "duration" : 417.9611,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 2,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"true","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "InfectionCard",
+                    "city" : "Madrid"
+                
+                },
+{
+                
+                    "startTime" : 32.6638,
+                    "endTime" : 32.71746,
+                    "duration" : 53.66516,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 2,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"true","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Copenhagen",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 32.71746,
+                    "endTime" : 32.861,
+                    "duration" : 143.5394,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 2,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"true","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 32.861,
+                    "endTime" : 33.24854,
+                    "duration" : 387.5427,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 2,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"true","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 33.24854,
+                    "endTime" : 33.32661,
+                    "duration" : 78.07159,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 2,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"true","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Amsterdam",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 1
+                
+                },
+{
+                
+                    "startTime" : 33.32661,
+                    "endTime" : 33.38334,
+                    "duration" : 56.72455,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 2,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"true","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },

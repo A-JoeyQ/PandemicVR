@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2358c3762fc173243a68e33bf316b11f
+timeCreated: 1517178562
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Mats/mat_dirt_small.prefab
+  uploadId: 226932

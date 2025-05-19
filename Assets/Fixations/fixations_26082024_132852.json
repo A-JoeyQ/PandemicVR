@@ -1,0 +1,2914 @@
+{
+                
+                    "startTime" : 0,
+                    "endTime" : 0.4713211,
+                    "duration" : 471.3211,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.4713211,
+                    "endTime" : 0.7315979,
+                    "duration" : 260.2768,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.7315979,
+                    "endTime" : 9.420891,
+                    "duration" : 8689.293,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 9.420891,
+                    "endTime" : 9.454704,
+                    "duration" : 33.81348,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Lisbon",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 9.454704,
+                    "endTime" : 10.43635,
+                    "duration" : 981.6437,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.43635,
+                    "endTime" : 10.49333,
+                    "duration" : 56.98395,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Lisbon",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 10.49333,
+                    "endTime" : 10.67416,
+                    "duration" : 180.8319,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.67416,
+                    "endTime" : 10.8903,
+                    "duration" : 216.1331,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Lisbon",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 10.8903,
+                    "endTime" : 11.03014,
+                    "duration" : 139.8392,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 11.03014,
+                    "endTime" : 11.20303,
+                    "duration" : 172.8897,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Lisbon",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.20303,
+                    "endTime" : 11.31358,
+                    "duration" : 110.5576,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 11.31358,
+                    "endTime" : 11.44688,
+                    "duration" : 133.2932,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Lisbon",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.44688,
+                    "endTime" : 11.48445,
+                    "duration" : 37.57477,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 11.48445,
+                    "endTime" : 11.62139,
+                    "duration" : 136.94,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Lisbon",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.62139,
+                    "endTime" : 11.78259,
+                    "duration" : 161.1938,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 11.78259,
+                    "endTime" : 12.07343,
+                    "duration" : 290.8478,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Lisbon",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 12.07343,
+                    "endTime" : 12.15833,
+                    "duration" : 84.89227,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 12.15833,
+                    "endTime" : 12.19522,
+                    "duration" : 36.89575,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Lisbon",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 12.19522,
+                    "endTime" : 12.77631,
+                    "duration" : 581.0852,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 12.83135,
+                    "endTime" : 12.88274,
+                    "duration" : 51.38397,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 13.21777,
+                    "endTime" : 14.1256,
+                    "duration" : 907.8217,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.1256,
+                    "endTime" : 14.17817,
+                    "duration" : 52.57416,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : 1,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.17817,
+                    "endTime" : 14.33301,
+                    "duration" : 154.8386,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.33301,
+                    "endTime" : 14.3774,
+                    "duration" : 44.39545,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.3774,
+                    "endTime" : 14.48176,
+                    "duration" : 104.3549,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.48176,
+                    "endTime" : 14.68295,
+                    "duration" : 201.1871,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.74416,
+                    "endTime" : 15.49183,
+                    "duration" : 747.6654,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 15.49183,
+                    "endTime" : 15.54519,
+                    "duration" : 53.35999,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 15.54519,
+                    "endTime" : 15.69595,
+                    "duration" : 150.7568,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Paris",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 15.69595,
+                    "endTime" : 15.7953,
+                    "duration" : 99.3576,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 15.7953,
+                    "endTime" : 15.94742,
+                    "duration" : 152.1149,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Berlin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 15.94742,
+                    "endTime" : 16.00052,
+                    "duration" : 53.10059,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 16.00052,
+                    "endTime" : 16.04571,
+                    "duration" : 45.1889,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 16.04571,
+                    "endTime" : 16.32029,
+                    "duration" : 274.5819,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 16.32029,
+                    "endTime" : 16.36874,
+                    "duration" : 48.44666,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 16.36874,
+                    "endTime" : 16.47437,
+                    "duration" : 105.629,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 16.47437,
+                    "endTime" : 16.68944,
+                    "duration" : 215.0726,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 16.68944,
+                    "endTime" : 17.06482,
+                    "duration" : 375.3815,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 17.06482,
+                    "endTime" : 17.62264,
+                    "duration" : 557.8232,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 17.62264,
+                    "endTime" : 17.6787,
+                    "duration" : 56.05316,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 17.6787,
+                    "endTime" : 17.9678,
+                    "duration" : 289.1006,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 17.9678,
+                    "endTime" : 18.2898,
+                    "duration" : 322.0062,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 18.2898,
+                    "endTime" : 18.56706,
+                    "duration" : 277.2598,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 18.56706,
+                    "endTime" : 19.06905,
+                    "duration" : 501.9913,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.06905,
+                    "endTime" : 19.37314,
+                    "duration" : 304.0848,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.37314,
+                    "endTime" : 19.74184,
+                    "duration" : 368.7057,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.74184,
+                    "endTime" : 19.99734,
+                    "duration" : 255.4932,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.99734,
+                    "endTime" : 20.2134,
+                    "duration" : 216.0645,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 20.2134,
+                    "endTime" : 20.56051,
+                    "duration" : 347.1069,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 20.56051,
+                    "endTime" : 20.67135,
+                    "duration" : 110.8398,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 20.67135,
+                    "endTime" : 20.71372,
+                    "duration" : 42.37366,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 20.71372,
+                    "endTime" : 20.771,
+                    "duration" : 57.27386,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 20.771,
+                    "endTime" : 20.86587,
+                    "duration" : 94.87152,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 20.86587,
+                    "endTime" : 20.92226,
+                    "duration" : 56.38885,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 20.92226,
+                    "endTime" : 21.03232,
+                    "duration" : 110.0616,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 21.03232,
+                    "endTime" : 22.08584,
+                    "duration" : 1053.52,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 22.08584,
+                    "endTime" : 22.30843,
+                    "duration" : 222.5952,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.30843,
+                    "endTime" : 22.36646,
+                    "duration" : 58.02155,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 22.36646,
+                    "endTime" : 22.40683,
+                    "duration" : 40.37476,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.40683,
+                    "endTime" : 22.46074,
+                    "duration" : 53.9093,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 22.46074,
+                    "endTime" : 22.51998,
+                    "duration" : 59.24225,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.51998,
+                    "endTime" : 22.78402,
+                    "duration" : 264.0381,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 22.78402,
+                    "endTime" : 22.84274,
+                    "duration" : 58.71582,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.84274,
+                    "endTime" : 22.9501,
+                    "duration" : 107.3608,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 22.9501,
+                    "endTime" : 23.01785,
+                    "duration" : 67.74902,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 23.01785,
+                    "endTime" : 23.05904,
+                    "duration" : 41.19873,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 23.05904,
+                    "endTime" : 23.16006,
+                    "duration" : 101.0208,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 23.16006,
+                    "endTime" : 24.9138,
+                    "duration" : 1753.731,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 24.9138,
+                    "endTime" : 25.62566,
+                    "duration" : 711.8607,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 25.62566,
+                    "endTime" : 25.68507,
+                    "duration" : 59.4101,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 25.68507,
+                    "endTime" : 27.02894,
+                    "duration" : 1343.872,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 27.02894,
+                    "endTime" : 27.58611,
+                    "duration" : 557.1671,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : 1,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 27.58611,
+                    "endTime" : 27.97743,
+                    "duration" : 391.3269,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 27.97743,
+                    "endTime" : 28.02917,
+                    "duration" : 51.74255,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 28.02917,
+                    "endTime" : 28.26497,
+                    "duration" : 235.7941,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 28.26497,
+                    "endTime" : 28.59843,
+                    "duration" : 333.4579,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 28.59843,
+                    "endTime" : 28.6573,
+                    "duration" : 58.86841,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 28.6573,
+                    "endTime" : 28.85388,
+                    "duration" : 196.5866,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 28.85388,
+                    "endTime" : 28.95163,
+                    "duration" : 97.7478,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 28.95163,
+                    "endTime" : 29.39392,
+                    "duration" : 442.2913,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 29.39392,
+                    "endTime" : 29.43564,
+                    "duration" : 41.71753,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 29.43564,
+                    "endTime" : 29.57224,
+                    "duration" : 136.6043,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 29.57224,
+                    "endTime" : 29.62686,
+                    "duration" : 54.61884,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 29.62686,
+                    "endTime" : 30.1349,
+                    "duration" : 508.0338,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 30.1349,
+                    "endTime" : 30.39463,
+                    "duration" : 259.7351,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 30.39463,
+                    "endTime" : 30.6089,
+                    "duration" : 214.2715,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Prague",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 30.6089,
+                    "endTime" : 32.8973,
+                    "duration" : 2288.399,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 33.56573,
+                    "endTime" : 34.2823,
+                    "duration" : 716.568,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 34.2823,
+                    "endTime" : 34.42977,
+                    "duration" : 147.4686,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 34.42977,
+                    "endTime" : 34.48264,
+                    "duration" : 52.8717,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 34.48264,
+                    "endTime" : 34.71066,
+                    "duration" : 228.0121,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 34.71066,
+                    "endTime" : 35.47437,
+                    "duration" : 763.71,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 35.47437,
+                    "endTime" : 35.73505,
+                    "duration" : 260.6812,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 35.73505,
+                    "endTime" : 37.01507,
+                    "duration" : 1280.022,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 37.01507,
+                    "endTime" : 37.11575,
+                    "duration" : 100.6775,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 37.11575,
+                    "endTime" : 37.54042,
+                    "duration" : 424.675,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 37.54042,
+                    "endTime" : 37.69482,
+                    "duration" : 154.4037,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 37.69482,
+                    "endTime" : 37.79632,
+                    "duration" : 101.4938,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 37.79632,
+                    "endTime" : 37.84799,
+                    "duration" : 51.67389,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 37.84799,
+                    "endTime" : 38.72624,
+                    "duration" : 878.2501,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 38.72624,
+                    "endTime" : 38.87688,
+                    "duration" : 150.6424,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 38.87688,
+                    "endTime" : 38.92458,
+                    "duration" : 47.69135,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 38.92458,
+                    "endTime" : 39.18738,
+                    "duration" : 262.8021,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 39.18738,
+                    "endTime" : 40.30506,
+                    "duration" : 1117.683,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 40.30506,
+                    "endTime" : 40.35439,
+                    "duration" : 49.33167,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 40.35439,
+                    "endTime" : 43.35593,
+                    "duration" : 3001.541,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 44.09013,
+                    "endTime" : 44.36494,
+                    "duration" : 274.8108,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 44.36494,
+                    "endTime" : 44.80157,
+                    "duration" : 436.6379,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Amsterdam",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 44.80157,
+                    "endTime" : 46.9311,
+                    "duration" : 2129.524,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Prague",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 47.23703,
+                    "endTime" : 47.28927,
+                    "duration" : 52.23846,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Prague",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 47.28927,
+                    "endTime" : 47.39233,
+                    "duration" : 103.0655,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 47.39233,
+                    "endTime" : 47.87704,
+                    "duration" : 484.7031,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 48.05775,
+                    "endTime" : 49.06283,
+                    "duration" : 1005.074,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 49.06283,
+                    "endTime" : 49.09471,
+                    "duration" : 31.88324,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Madrid",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 49.09471,
+                    "endTime" : 49.61829,
+                    "duration" : 523.5825,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Virologist",
+                            "name" : "Charlie",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 2,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },

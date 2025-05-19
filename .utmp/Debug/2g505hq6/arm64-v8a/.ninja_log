@@ -1,0 +1,21 @@
+# ninja log v5
+90	972	7471431600884290	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a490f17ae95724a3
+1	5111	7471431642404682	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2758337319cfe41
+51	4862	7471431639856693	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	dced7d6a0699a9a8
+973	1793	7471431607342175	C:/Users/Furhatinator/Documents/GitHub/PandemicTouchTable/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/2g505hq6/obj/arm64-v8a/libswappywrapper.so	4bacb9ede0e2573a
+43	4964	7471431640928319	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f3844ceaf3c1a162
+12	4899	7471431640228951	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ce65e4d2f0271e51
+59	4817	7471431639360430	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c23493fc0a4f4bb6
+71	4912	7471431640359030	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	38b6f406fbadfe6c
+33	5069	7471431641954516	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7c7d7723c22a29f7
+5111	5270	7471431643549221	C:/Users/Furhatinator/Documents/GitHub/PandemicTouchTable/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/2g505hq6/obj/arm64-v8a/libgame.so	baf8c28381685be8
+95	1438	7472579933535451	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a490f17ae95724a3
+1439	2489	7472579945271051	C:/Users/Furhatinator/Documents/GitHub/PandemicTouchTable/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/2g505hq6/obj/arm64-v8a/libswappywrapper.so	4bacb9ede0e2573a
+52	2779	7472579948891602	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c23493fc0a4f4bb6
+64	2792	7472579949216913	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	dced7d6a0699a9a8
+74	2810	7472579949401778	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	38b6f406fbadfe6c
+18	2873	7472579950073016	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ce65e4d2f0271e51
+37	2881	7472579950143397	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f3844ceaf3c1a162
+26	2962	7472579951029518	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7c7d7723c22a29f7
+8	3005	7472579951454807	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2758337319cfe41
+3006	3158	7472579952555135	C:/Users/Furhatinator/Documents/GitHub/PandemicTouchTable/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/2g505hq6/obj/arm64-v8a/libgame.so	baf8c28381685be8

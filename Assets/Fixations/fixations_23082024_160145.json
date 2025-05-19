@@ -1,0 +1,4807 @@
+{
+                
+                    "startTime" : 0,
+                    "endTime" : 0.405406,
+                    "duration" : 405.406,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.405406,
+                    "endTime" : 0.458931,
+                    "duration" : 53.52497,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.458931,
+                    "endTime" : 0.6582804,
+                    "duration" : 199.3494,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Stockholm",
+                    "virus" : "Red"
+                
+                },
+{
+                
+                    "startTime" : 0.6582804,
+                    "endTime" : 0.8545151,
+                    "duration" : 196.2347,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.8545151,
+                    "endTime" : 0.9040318,
+                    "duration" : 49.51668,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Helsinki",
+                    "virus" : "Red"
+                
+                },
+{
+                
+                    "startTime" : 0.9040318,
+                    "endTime" : 1.250672,
+                    "duration" : 346.6406,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.250672,
+                    "endTime" : 3.273636,
+                    "duration" : 2022.964,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 3.273636,
+                    "endTime" : 3.579571,
+                    "duration" : 305.9349,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 3.579571,
+                    "endTime" : 3.954411,
+                    "duration" : 374.8398,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 3.954411,
+                    "endTime" : 4.009483,
+                    "duration" : 55.07278,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Madrid",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 4.009483,
+                    "endTime" : 5.151112,
+                    "duration" : 1141.628,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 5.151112,
+                    "endTime" : 5.726835,
+                    "duration" : 575.7236,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 5.726835,
+                    "endTime" : 8.27467,
+                    "duration" : 2547.834,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 8.27467,
+                    "endTime" : 8.332026,
+                    "duration" : 57.35588,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 8.332026,
+                    "endTime" : 11.55145,
+                    "duration" : 3219.421,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 11.55145,
+                    "endTime" : 11.59667,
+                    "duration" : 45.22324,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.59667,
+                    "endTime" : 11.6499,
+                    "duration" : 53.23219,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.6499,
+                    "endTime" : 14.10906,
+                    "duration" : 2459.158,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.10906,
+                    "endTime" : 14.16421,
+                    "duration" : 55.15289,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.16421,
+                    "endTime" : 14.64139,
+                    "duration" : 477.1729,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.64139,
+                    "endTime" : 14.69363,
+                    "duration" : 52.24419,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.69363,
+                    "endTime" : 14.80779,
+                    "duration" : 114.1605,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.80779,
+                    "endTime" : 14.86051,
+                    "duration" : 52.71912,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.86051,
+                    "endTime" : 14.97606,
+                    "duration" : 115.5472,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.97606,
+                    "endTime" : 15.02934,
+                    "duration" : 53.28751,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 15.02934,
+                    "endTime" : 15.14525,
+                    "duration" : 115.9058,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 15.14525,
+                    "endTime" : 16.16077,
+                    "duration" : 1015.518,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Vienna",
+                    "virus" : "Yellow",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 16.16077,
+                    "endTime" : 16.32614,
+                    "duration" : 165.3671,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 16.32614,
+                    "endTime" : 16.4431,
+                    "duration" : 116.9682,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Vienna",
+                    "virus" : "Yellow",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 16.4431,
+                    "endTime" : 16.49602,
+                    "duration" : 52.91557,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Glasgow",
+                    "virus" : "Blue",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 16.49602,
+                    "endTime" : 16.60908,
+                    "duration" : 113.0638,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 17.11089,
+                    "endTime" : 17.80549,
+                    "duration" : 694.6068,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 17.80549,
+                    "endTime" : 18.28855,
+                    "duration" : 483.0532,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 18.28855,
+                    "endTime" : 18.79347,
+                    "duration" : 504.921,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 18.79347,
+                    "endTime" : 18.905,
+                    "duration" : 111.5303,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 18.905,
+                    "endTime" : 19.01197,
+                    "duration" : 106.9756,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.23927,
+                    "endTime" : 19.28276,
+                    "duration" : 43.49899,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 19.28276,
+                    "endTime" : 19.98151,
+                    "duration" : 698.7495,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.98151,
+                    "endTime" : 20.04168,
+                    "duration" : 60.16922,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 20.04168,
+                    "endTime" : 21.02182,
+                    "duration" : 980.1331,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 21.02182,
+                    "endTime" : 21.07716,
+                    "duration" : 55.34744,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Helsinki",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 21.07716,
+                    "endTime" : 21.29581,
+                    "duration" : 218.6508,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 21.29581,
+                    "endTime" : 21.63161,
+                    "duration" : 335.7925,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Helsinki",
+                    "virus" : "Red",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 21.63161,
+                    "endTime" : 21.68836,
+                    "duration" : 56.75125,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 21.68836,
+                    "endTime" : 21.9974,
+                    "duration" : 309.0401,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Helsinki",
+                    "virus" : "Red",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 21.9974,
+                    "endTime" : 22.09067,
+                    "duration" : 93.26935,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Stockholm",
+                    "virus" : "Red",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 22.09067,
+                    "endTime" : 22.14899,
+                    "duration" : 58.32291,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Helsinki",
+                    "virus" : "Red",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 22.14899,
+                    "endTime" : 22.19108,
+                    "duration" : 42.09137,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.19108,
+                    "endTime" : 22.3427,
+                    "duration" : 151.6228,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 22.3427,
+                    "endTime" : 22.56511,
+                    "duration" : 222.4045,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.56511,
+                    "endTime" : 22.67497,
+                    "duration" : 109.8595,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 22.67497,
+                    "endTime" : 22.84303,
+                    "duration" : 168.0641,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.84303,
+                    "endTime" : 22.8885,
+                    "duration" : 45.46738,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 22.8885,
+                    "endTime" : 22.99552,
+                    "duration" : 107.0175,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.99552,
+                    "endTime" : 23.16368,
+                    "duration" : 168.1595,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 23.16368,
+                    "endTime" : 23.1978,
+                    "duration" : 34.12247,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 23.1978,
+                    "endTime" : 23.30479,
+                    "duration" : 106.9946,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 23.30479,
+                    "endTime" : 23.40261,
+                    "duration" : 97.81265,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 23.40261,
+                    "endTime" : 23.45303,
+                    "duration" : 50.41885,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 23.45303,
+                    "endTime" : 23.50887,
+                    "duration" : 55.84335,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 23.50887,
+                    "endTime" : 23.62286,
+                    "duration" : 113.987,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 23.62286,
+                    "endTime" : 23.67558,
+                    "duration" : 52.72675,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 23.67558,
+                    "endTime" : 23.73269,
+                    "duration" : 57.10983,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 23.73269,
+                    "endTime" : 23.9021,
+                    "duration" : 169.4107,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 23.9021,
+                    "endTime" : 24.01371,
+                    "duration" : 111.6104,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Helsinki",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 24.01371,
+                    "endTime" : 24.17289,
+                    "duration" : 159.1759,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 24.17289,
+                    "endTime" : 24.3432,
+                    "duration" : 170.3148,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Paris",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 24.3432,
+                    "endTime" : 24.40316,
+                    "duration" : 59.95941,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 25.90891,
+                    "endTime" : 25.96186,
+                    "duration" : 52.948,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Paris",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 25.96186,
+                    "endTime" : 26.02098,
+                    "duration" : 59.11636,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 1
+                
+                },
+{
+                
+                    "startTime" : 26.02098,
+                    "endTime" : 26.07461,
+                    "duration" : 53.63464,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 26.07461,
+                    "endTime" : 26.17089,
+                    "duration" : 96.27533,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Paris",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 26.17089,
+                    "endTime" : 26.49392,
+                    "duration" : 323.0324,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 26.49392,
+                    "endTime" : 26.88399,
+                    "duration" : 390.0681,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 26.88399,
+                    "endTime" : 27.04955,
+                    "duration" : 165.5655,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 27.04955,
+                    "endTime" : 27.16077,
+                    "duration" : 111.2213,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 27.16077,
+                    "endTime" : 27.24915,
+                    "duration" : 88.37891,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 27.24915,
+                    "endTime" : 27.30031,
+                    "duration" : 51.15891,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 27.30031,
+                    "endTime" : 27.41216,
+                    "duration" : 111.8507,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 27.41216,
+                    "endTime" : 27.46799,
+                    "duration" : 55.82428,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 27.46799,
+                    "endTime" : 27.81092,
+                    "duration" : 342.9337,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 27.81092,
+                    "endTime" : 27.92376,
+                    "duration" : 112.8426,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 27.92376,
+                    "endTime" : 29.67825,
+                    "duration" : 1754.486,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 29.67825,
+                    "endTime" : 29.73651,
+                    "duration" : 58.25806,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 29.73651,
+                    "endTime" : 30.0542,
+                    "duration" : 317.688,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 30.0542,
+                    "endTime" : 30.14452,
+                    "duration" : 90.32822,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 30.14452,
+                    "endTime" : 30.28814,
+                    "duration" : 143.6157,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 30.28814,
+                    "endTime" : 30.38336,
+                    "duration" : 95.22247,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 30.38336,
+                    "endTime" : 30.53953,
+                    "duration" : 156.1699,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 30.53953,
+                    "endTime" : 30.70466,
+                    "duration" : 165.1306,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 30.70466,
+                    "endTime" : 30.74172,
+                    "duration" : 37.05597,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 30.74172,
+                    "endTime" : 30.85168,
+                    "duration" : 109.9663,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 30.85168,
+                    "endTime" : 30.90718,
+                    "duration" : 55.50003,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 30.90718,
+                    "endTime" : 30.96311,
+                    "duration" : 55.92346,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 31.56811,
+                    "endTime" : 31.68378,
+                    "duration" : 115.6731,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 31.68378,
+                    "endTime" : 31.7392,
+                    "duration" : 55.42374,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 31.7392,
+                    "endTime" : 31.797,
+                    "duration" : 57.79648,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 31.797,
+                    "endTime" : 31.85065,
+                    "duration" : 53.65372,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 32.0748,
+                    "endTime" : 32.13104,
+                    "duration" : 56.24008,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 32.13104,
+                    "endTime" : 32.6317,
+                    "duration" : 500.6599,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 32.6317,
+                    "endTime" : 32.69415,
+                    "duration" : 62.45041,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 32.69415,
+                    "endTime" : 32.74672,
+                    "duration" : 52.57416,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 32.74672,
+                    "endTime" : 32.96338,
+                    "duration" : 216.6519,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 32.96338,
+                    "endTime" : 33.02023,
+                    "duration" : 56.85043,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 33.02023,
+                    "endTime" : 33.13461,
+                    "duration" : 114.3799,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 33.13461,
+                    "endTime" : 33.19018,
+                    "duration" : 55.57632,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 33.19018,
+                    "endTime" : 33.35621,
+                    "duration" : 166.0271,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 33.35621,
+                    "endTime" : 33.41251,
+                    "duration" : 56.30493,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 33.41251,
+                    "endTime" : 33.46983,
+                    "duration" : 57.31964,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 33.46983,
+                    "endTime" : 33.51083,
+                    "duration" : 40.99655,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 33.51083,
+                    "endTime" : 33.56411,
+                    "duration" : 53.27606,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 33.56411,
+                    "endTime" : 33.66009,
+                    "duration" : 95.98541,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 33.66009,
+                    "endTime" : 33.76839,
+                    "duration" : 108.3031,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 33.76839,
+                    "endTime" : 33.84802,
+                    "duration" : 79.62418,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 33.84802,
+                    "endTime" : 34.01495,
+                    "duration" : 166.935,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 34.01495,
+                    "endTime" : 34.06941,
+                    "duration" : 54.45862,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 34.06941,
+                    "endTime" : 34.23204,
+                    "duration" : 162.6244,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 34.23204,
+                    "endTime" : 34.28751,
+                    "duration" : 55.47333,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 34.28751,
+                    "endTime" : 34.38632,
+                    "duration" : 98.8121,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 34.38632,
+                    "endTime" : 35.24838,
+                    "duration" : 862.0605,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 35.24838,
+                    "endTime" : 35.30219,
+                    "duration" : 53.81012,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 35.41359,
+                    "endTime" : 35.58387,
+                    "duration" : 170.2728,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 35.58387,
+                    "endTime" : 35.63818,
+                    "duration" : 54.31366,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 35.63818,
+                    "endTime" : 35.74832,
+                    "duration" : 110.1379,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 35.74832,
+                    "endTime" : 35.91589,
+                    "duration" : 167.5758,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 35.91589,
+                    "endTime" : 35.97288,
+                    "duration" : 56.98395,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 35.97288,
+                    "endTime" : 36.03201,
+                    "duration" : 59.12781,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 36.03201,
+                    "endTime" : 36.0867,
+                    "duration" : 54.69513,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 36.0867,
+                    "endTime" : 36.14639,
+                    "duration" : 59.68857,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 36.14639,
+                    "endTime" : 36.19965,
+                    "duration" : 53.26462,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 36.19965,
+                    "endTime" : 36.48782,
+                    "duration" : 288.1699,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 3,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 36.48782,
+                    "endTime" : 37.42168,
+                    "duration" : 933.8569,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 37.42168,
+                    "endTime" : 38.88333,
+                    "duration" : 1461.651,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 39.18943,
+                    "endTime" : 39.25797,
+                    "duration" : 68.53867,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 39.25797,
+                    "endTime" : 39.401,
+                    "duration" : 143.0321,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 39.401,
+                    "endTime" : 39.45841,
+                    "duration" : 57.41119,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 39.45841,
+                    "endTime" : 39.68561,
+                    "duration" : 227.2034,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : 39.68561,
+                    "endTime" : 39.77738,
+                    "duration" : 91.76636,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 39.77738,
+                    "endTime" : 39.83485,
+                    "duration" : 57.47223,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 39.83485,
+                    "endTime" : 39.88316,
+                    "duration" : 48.31314,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 39.88316,
+                    "endTime" : 40.70689,
+                    "duration" : 823.7305,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 40.70689,
+                    "endTime" : 40.81574,
+                    "duration" : 108.8448,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 40.81574,
+                    "endTime" : 40.91603,
+                    "duration" : 100.2884,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 40.91603,
+                    "endTime" : 40.96815,
+                    "duration" : 52.12784,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 40.96815,
+                    "endTime" : 41.02745,
+                    "duration" : 59.29565,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 41.02745,
+                    "endTime" : 41.69311,
+                    "duration" : 665.657,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 41.69311,
+                    "endTime" : 41.92186,
+                    "duration" : 228.756,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 41.92186,
+                    "endTime" : 41.97574,
+                    "duration" : 53.87497,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 41.97574,
+                    "endTime" : 42.0341,
+                    "duration" : 58.35724,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : 1,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 42.0341,
+                    "endTime" : 42.62187,
+                    "duration" : 587.7762,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 42.62187,
+                    "endTime" : 43.01751,
+                    "duration" : 395.6413,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 43.01751,
+                    "endTime" : 43.0746,
+                    "duration" : 57.08694,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 43.0746,
+                    "endTime" : 43.12872,
+                    "duration" : 54.11911,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 43.12872,
+                    "endTime" : 43.29342,
+                    "duration" : 164.6957,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 43.29342,
+                    "endTime" : 43.33883,
+                    "duration" : 45.41016,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 43.33883,
+                    "endTime" : 43.44877,
+                    "duration" : 109.9434,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 43.44877,
+                    "endTime" : 43.56371,
+                    "duration" : 114.9368,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 43.56371,
+                    "endTime" : 43.72694,
+                    "duration" : 163.2309,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 2,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 43.72694,
+                    "endTime" : 44.40956,
+                    "duration" : 682.6287,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 3,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 44.40956,
+                    "endTime" : 44.49144,
+                    "duration" : 81.87485,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 3,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 44.49144,
+                    "endTime" : 44.58889,
+                    "duration" : 97.45407,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 3,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 44.58889,
+                    "endTime" : 44.69258,
+                    "duration" : 103.6873,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 3,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 44.75212,
+                    "endTime" : 46.15884,
+                    "duration" : 1406.723,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 3,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 46.15884,
+                    "endTime" : 46.32912,
+                    "duration" : 170.2805,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 3,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 46.32912,
+                    "endTime" : 46.38713,
+                    "duration" : 58.0101,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "Pilot",
+                            "name" : "Alpha",
+                            "cardsRed" : 3,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 0
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 46.38713,
+                    "endTime" : 47.04053,
+                    "duration" : 653.3966,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 47.04053,
+                    "endTime" : 47.62395,
+                    "duration" : 583.4274,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 47.62395,
+                    "endTime" : 47.88562,
+                    "duration" : 261.6653,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 47.88562,
+                    "endTime" : 47.94017,
+                    "duration" : 54.55017,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Direct Flight",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 47.94017,
+                    "endTime" : 47.99474,
+                    "duration" : 54.56543,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 47.99474,
+                    "endTime" : 48.05121,
+                    "duration" : 56.47278,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 48.22134,
+                    "endTime" : 48.40795,
+                    "duration" : 186.6074,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 48.40795,
+                    "endTime" : 48.5081,
+                    "duration" : 100.1511,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 48.5081,
+                    "endTime" : 48.55453,
+                    "duration" : 46.43631,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Direct Flight",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 48.55453,
+                    "endTime" : 48.61039,
+                    "duration" : 55.85098,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 48.61039,
+                    "endTime" : 48.89007,
+                    "duration" : 279.686,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 48.89007,
+                    "endTime" : 48.94825,
+                    "duration" : 58.18176,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 48.94825,
+                    "endTime" : 49.00174,
+                    "duration" : 53.48969,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "Direct Flight",
+                    "player" : "1",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 49.00174,
+                    "endTime" : 49.32278,
+                    "duration" : 321.0335,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 49.32278,
+                    "endTime" : 49.57133,
+                    "duration" : 248.558,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 49.57133,
+                    "endTime" : 49.87831,
+                    "duration" : 306.9801,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 49.87831,
+                    "endTime" : 50.29359,
+                    "duration" : 415.2718,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 50.29359,
+                    "endTime" : 50.4316,
+                    "duration" : 138.0157,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 50.4316,
+                    "endTime" : 50.52895,
+                    "duration" : 97.35107,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 50.52895,
+                    "endTime" : 50.75513,
+                    "duration" : 226.181,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 50.75513,
+                    "endTime" : 50.8074,
+                    "duration" : 52.26135,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 50.8074,
+                    "endTime" : 51.09002,
+                    "duration" : 282.6233,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 54.37214,
+                    "endTime" : 54.5214,
+                    "duration" : 149.2615,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 54.5214,
+                    "endTime" : 54.55708,
+                    "duration" : 35.67505,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Dublin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 54.55708,
+                    "endTime" : 54.66441,
+                    "duration" : 107.338,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 54.66441,
+                    "endTime" : 54.70295,
+                    "duration" : 38.53607,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 54.70295,
+                    "endTime" : 54.9604,
+                    "duration" : 257.4463,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Beta",
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },

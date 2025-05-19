@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dcb960cad84abe54590df861697143cc
+timeCreated: 1517178755
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Pawns/pawn_B_cyan.prefab
+  uploadId: 226932

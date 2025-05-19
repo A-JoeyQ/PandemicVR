@@ -1,0 +1,2336 @@
+{
+                
+                    "startTime" : 0,
+                    "endTime" : 0.3535671,
+                    "duration" : 353.5671,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.3535671,
+                    "endTime" : 0.5752583,
+                    "duration" : 221.6911,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.5752583,
+                    "endTime" : 0.6532269,
+                    "duration" : 77.9686,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Berlin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.6532269,
+                    "endTime" : 0.6633148,
+                    "duration" : 10.08797,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.6633148,
+                    "endTime" : 0.7231331,
+                    "duration" : 59.81827,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.7231331,
+                    "endTime" : 0.8824043,
+                    "duration" : 159.2712,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Budapest",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : 0.8824043,
+                    "endTime" : 3.661453,
+                    "duration" : 2779.049,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 3.661453,
+                    "endTime" : 4.614197,
+                    "duration" : 952.7435,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 4.614197,
+                    "endTime" : 5.764029,
+                    "duration" : 1149.832,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 5.764029,
+                    "endTime" : 5.821264,
+                    "duration" : 57.23572,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 5.821264,
+                    "endTime" : 8.853483,
+                    "duration" : 3032.219,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 8.853483,
+                    "endTime" : 9.368483,
+                    "duration" : 514.9994,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 9.368483,
+                    "endTime" : 9.427862,
+                    "duration" : 59.37958,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 9.427862,
+                    "endTime" : 19.28646,
+                    "duration" : 9858.597,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.28646,
+                    "endTime" : 19.33965,
+                    "duration" : 53.18832,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.33965,
+                    "endTime" : 19.40727,
+                    "duration" : 67.62695,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.40727,
+                    "endTime" : 26.90477,
+                    "duration" : 7497.498,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 26.90477,
+                    "endTime" : 26.95891,
+                    "duration" : 54.142,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Moscow",
+                    "color" : "Red",
+                    "cubesRed" : 3,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 26.95891,
+                    "endTime" : 28.02502,
+                    "duration" : 1066.105,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 48.23515,
+                    "endTime" : 48.29494,
+                    "duration" : 59.78394,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Moscow",
+                    "color" : "Red",
+                    "cubesRed" : 3,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 48.34825,
+                    "endTime" : 48.45647,
+                    "duration" : 108.223,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 48.45647,
+                    "endTime" : 48.74766,
+                    "duration" : 291.1835,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 48.74766,
+                    "endTime" : 48.81776,
+                    "duration" : 70.09888,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 48.81776,
+                    "endTime" : 48.99374,
+                    "duration" : 175.9872,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 48.99374,
+                    "endTime" : 49.03873,
+                    "duration" : 44.99054,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 49.03873,
+                    "endTime" : 49.09103,
+                    "duration" : 52.29187,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 49.09103,
+                    "endTime" : 49.30765,
+                    "duration" : 216.6214,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 49.30765,
+                    "endTime" : 49.42382,
+                    "duration" : 116.1728,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 49.42382,
+                    "endTime" : 50.48351,
+                    "duration" : 1059.685,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 50.48351,
+                    "endTime" : 50.53922,
+                    "duration" : 55.71747,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 50.53922,
+                    "endTime" : 50.58369,
+                    "duration" : 44.47174,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 50.58369,
+                    "endTime" : 50.90576,
+                    "duration" : 322.0673,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 50.90576,
+                    "endTime" : 51.15905,
+                    "duration" : 253.2883,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 51.15905,
+                    "endTime" : 51.61082,
+                    "duration" : 451.7746,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 51.61082,
+                    "endTime" : 52.48071,
+                    "duration" : 869.8883,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 52.48071,
+                    "endTime" : 52.74281,
+                    "duration" : 262.0926,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 52.74281,
+                    "endTime" : 52.79795,
+                    "duration" : 55.14526,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 52.79795,
+                    "endTime" : 52.85025,
+                    "duration" : 52.2995,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 52.85025,
+                    "endTime" : 53.26313,
+                    "duration" : 412.8799,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 53.26313,
+                    "endTime" : 53.55402,
+                    "duration" : 290.8859,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 53.55402,
+                    "endTime" : 53.60532,
+                    "duration" : 51.30005,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 53.60532,
+                    "endTime" : 53.75732,
+                    "duration" : 152.0004,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 53.75732,
+                    "endTime" : 53.8158,
+                    "duration" : 58.48694,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 53.8158,
+                    "endTime" : 54.59991,
+                    "duration" : 784.1034,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 54.59991,
+                    "endTime" : 54.71442,
+                    "duration" : 114.5096,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 78.3907,
+                    "endTime" : 78.62232,
+                    "duration" : 231.6208,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 78.62232,
+                    "endTime" : 78.79449,
+                    "duration" : 172.1725,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 78.79449,
+                    "endTime" : 78.86438,
+                    "duration" : 69.88525,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 78.86438,
+                    "endTime" : 79.09815,
+                    "duration" : 233.7723,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 79.09815,
+                    "endTime" : 79.21134,
+                    "duration" : 113.1897,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Athens",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 79.21134,
+                    "endTime" : 79.61526,
+                    "duration" : 403.9154,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 79.61526,
+                    "endTime" : 79.73396,
+                    "duration" : 118.6981,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 79.73396,
+                    "endTime" : 79.80006,
+                    "duration" : 66.10107,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 79.80006,
+                    "endTime" : 79.86948,
+                    "duration" : 69.41986,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 79.86948,
+                    "endTime" : 79.93864,
+                    "duration" : 69.16809,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 79.93864,
+                    "endTime" : 80.1529,
+                    "duration" : 214.2563,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 80.1529,
+                    "endTime" : 80.39905,
+                    "duration" : 246.1472,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 80.39905,
+                    "endTime" : 80.88586,
+                    "duration" : 486.8088,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 80.88586,
+                    "endTime" : 81.0144,
+                    "duration" : 128.54,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 81.0144,
+                    "endTime" : 81.51137,
+                    "duration" : 496.9711,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 81.51137,
+                    "endTime" : 81.56836,
+                    "duration" : 56.99158,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 81.56836,
+                    "endTime" : 81.86391,
+                    "duration" : 295.5551,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 81.86391,
+                    "endTime" : 81.98853,
+                    "duration" : 124.6109,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Copenhagen",
+                    "color" : "Red",
+                    "cubesRed" : 2,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 81.98853,
+                    "endTime" : 82.06161,
+                    "duration" : 73.08197,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 82.06161,
+                    "endTime" : 82.50643,
+                    "duration" : 444.8242,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Berlin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 82.50643,
+                    "endTime" : 82.69752,
+                    "duration" : 191.0858,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 82.69752,
+                    "endTime" : 82.74657,
+                    "duration" : 49.04938,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Amsterdam",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 82.74657,
+                    "endTime" : 82.79553,
+                    "duration" : 48.96545,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Dublin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 82.79553,
+                    "endTime" : 82.90271,
+                    "duration" : 107.1777,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 103.1932,
+                    "endTime" : 103.2426,
+                    "duration" : 49.33929,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 103.2426,
+                    "endTime" : 103.2956,
+                    "duration" : 53.01666,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Paris",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 103.2956,
+                    "endTime" : 103.3466,
+                    "duration" : 50.97198,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 103.3466,
+                    "endTime" : 103.4066,
+                    "duration" : 60.00519,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 2,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 103.4066,
+                    "endTime" : 103.7156,
+                    "duration" : 309.021,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 103.7156,
+                    "endTime" : 103.784,
+                    "duration" : 68.37463,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 103.784,
+                    "endTime" : 103.8941,
+                    "duration" : 110.1227,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 103.8941,
+                    "endTime" : 103.9631,
+                    "duration" : 68.96973,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 103.9631,
+                    "endTime" : 104.0179,
+                    "duration" : 54.79431,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 104.0179,
+                    "endTime" : 104.1306,
+                    "duration" : 112.7472,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Dublin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 104.1306,
+                    "endTime" : 104.2295,
+                    "duration" : 98.89984,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 104.2295,
+                    "endTime" : 104.284,
+                    "duration" : 54.45862,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 104.284,
+                    "endTime" : 104.3354,
+                    "duration" : 51.47552,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 104.3354,
+                    "endTime" : 104.5466,
+                    "duration" : 211.1588,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 104.5466,
+                    "endTime" : 104.6078,
+                    "duration" : 61.21826,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 104.6078,
+                    "endTime" : 104.6591,
+                    "duration" : 51.32294,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 104.6591,
+                    "endTime" : 104.7241,
+                    "duration" : 64.99481,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 104.7241,
+                    "endTime" : 107.1997,
+                    "duration" : 2475.54,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 107.1997,
+                    "endTime" : 107.2709,
+                    "duration" : 71.19751,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 107.2709,
+                    "endTime" : 107.6306,
+                    "duration" : 359.7107,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 107.6306,
+                    "endTime" : 107.6987,
+                    "duration" : 68.09998,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 107.6987,
+                    "endTime" : 107.9653,
+                    "duration" : 266.6168,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 107.9653,
+                    "endTime" : 108.0291,
+                    "duration" : 63.75122,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 108.0291,
+                    "endTime" : 108.0876,
+                    "duration" : 58.59375,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Dublin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 108.0876,
+                    "endTime" : 108.1864,
+                    "duration" : 98.77014,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    "currentPlayer" : {
+                            "role" : "QuarantineSpecialist",
+                            "name" : "Alpha",
+                            "cardsRed" : 0,
+                            "cardsBlue" : 0,
+                            "cardsYellow" : 2
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },

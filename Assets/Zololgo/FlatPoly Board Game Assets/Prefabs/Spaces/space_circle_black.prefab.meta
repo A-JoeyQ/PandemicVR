@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 28d0a86eca4bc5e4c925e8d6442a94a5
+timeCreated: 1517178887
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Spaces/space_circle_black.prefab
+  uploadId: 226932

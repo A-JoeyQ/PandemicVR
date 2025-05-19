@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 777f37ec1c1d2ee45aa497f4794fe3c0
+timeCreated: 1517178510
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Markers/marker_C_cyan.prefab
+  uploadId: 226932

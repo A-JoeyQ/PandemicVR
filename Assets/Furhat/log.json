@@ -1,0 +1,136 @@
+{
+  "logs": [
+    {
+      "timestamp": "48.43362",
+      "eventType": "EStartRound",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      }
+    },
+    {
+      "timestamp": "76.38376",
+      "eventType": "GContextButtonClicked",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "contextButtonSelected": "CloseButton"
+    },
+    {
+      "timestamp": "103.3673",
+      "eventType": "GActionButtonClicked",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "actionSelected": "Move"
+    },
+    {
+      "timestamp": "108.6673",
+      "eventType": "PMoveEvent",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "newCity": 20,
+      "oldCity": 13,
+      "numberOfActionsSpent": 1
+    },
+    {
+      "timestamp": "111.1673",
+      "eventType": "GActionButtonClicked",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "actionSelected": "Treat"
+    },
+    {
+      "timestamp": "112.9173",
+      "eventType": "PTreatDisease",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "city": 20,
+      "virusName": "Blue"
+    },
+    {
+      "timestamp": "116.6006",
+      "eventType": "PTreatDisease",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "city": 20,
+      "virusName": "Blue"
+    },
+    {
+      "timestamp": "118.3174",
+      "eventType": "GActionButtonClicked",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "actionSelected": "Move"
+    },
+    {
+      "timestamp": "120.3673",
+      "eventType": "PMoveEvent",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "newCity": 13,
+      "oldCity": 20,
+      "numberOfActionsSpent": 1
+    },
+    {
+      "timestamp": "120.384",
+      "eventType": "PDealCard",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "epidemicPopped": false,
+      "cardToAdd": 15
+    },
+    {
+      "timestamp": "122.1507",
+      "eventType": "PDealCard",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "epidemicPopped": false,
+      "cardToAdd": 23
+    },
+    {
+      "timestamp": "123.9174",
+      "eventType": "EDrawInfectionCard",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "cityToInfect": 10
+    },
+    {
+      "timestamp": "129.4174",
+      "eventType": "EDrawInfectionCard",
+      "currentPlayer": {
+        "role": "QuarantineSpecialist",
+        "name": "Delta"
+      },
+      "cityToInfect": 12
+    },
+    {
+      "timestamp": "134.9174",
+      "eventType": "PEndTurn",
+      "currentPlayer": {
+        "role": "ContainmentSpecialist",
+        "name": "Alpha"
+      }
+    }
+  ]
+}

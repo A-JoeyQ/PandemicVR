@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98e34e0e6d13ced45863790a32a93a44
+timeCreated: 1517178966
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Spaces/space_hex_white.prefab
+  uploadId: 226932

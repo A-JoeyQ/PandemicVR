@@ -1,0 +1,546 @@
+{
+                
+                    "startTime" : 0,
+                    "endTime" : 0.4325418,
+                    "duration" : 432.5418,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.4325418,
+                    "endTime" : 0.4878445,
+                    "duration" : 55.30262,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.4878445,
+                    "endTime" : 0.5827961,
+                    "duration" : 94.95163,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.5827961,
+                    "endTime" : 0.7581472,
+                    "duration" : 175.3511,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 0.7581472,
+                    "endTime" : 0.9122496,
+                    "duration" : 154.1023,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.9122496,
+                    "endTime" : 1.11982,
+                    "duration" : 207.5701,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.11982,
+                    "endTime" : 1.48318,
+                    "duration" : 363.3604,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 1.48318,
+                    "endTime" : 1.53782,
+                    "duration" : 54.63982,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.53782,
+                    "endTime" : 1.718015,
+                    "duration" : 180.1949,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 1.718015,
+                    "endTime" : 1.794339,
+                    "duration" : 76.32446,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.794339,
+                    "endTime" : 2.003858,
+                    "duration" : 209.5184,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 2.003858,
+                    "endTime" : 2.054825,
+                    "duration" : 50.96722,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 2.054825,
+                    "endTime" : 2.588985,
+                    "duration" : 534.1606,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 2.588985,
+                    "endTime" : 2.693836,
+                    "duration" : 104.8508,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 2.693836,
+                    "endTime" : 2.73572,
+                    "duration" : 41.88347,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 2.73572,
+                    "endTime" : 2.782233,
+                    "duration" : 46.51356,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 2.782233,
+                    "endTime" : 4.786723,
+                    "duration" : 2004.49,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 4.786723,
+                    "endTime" : 4.877923,
+                    "duration" : 91.19987,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 4.877923,
+                    "endTime" : 5.292449,
+                    "duration" : 414.526,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 5.292449,
+                    "endTime" : 5.625936,
+                    "duration" : 333.4866,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 5.625936,
+                    "endTime" : 6.003282,
+                    "duration" : 377.346,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 6.003282,
+                    "endTime" : 10.68046,
+                    "duration" : 4677.177,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.68046,
+                    "endTime" : 10.72357,
+                    "duration" : 43.11562,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 10.72357,
+                    "endTime" : 10.75307,
+                    "duration" : 29.49715,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.75307,
+                    "endTime" : 10.85907,
+                    "duration" : 106.0028,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 10.85907,
+                    "endTime" : 11.73812,
+                    "duration" : 879.0474,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 11.73812,
+                    "endTime" : 11.76791,
+                    "duration" : 29.78325,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Madrid",
+                    "color" : "Yellow",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 11.76791,
+                    "endTime" : 11.91825,
+                    "duration" : 150.3448,
+                    "cures" : {
+                        "red" : False,
+                        "blue" : False,
+                        "yellow" : False
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },

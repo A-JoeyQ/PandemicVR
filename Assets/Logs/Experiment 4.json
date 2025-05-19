@@ -1,0 +1,2537 @@
+[
+    {
+        "timestamp": "0",
+        "eventType": "EResetGame"
+    },
+    {
+        "timestamp": "0.0333252",
+        "eventType": "EAddPlayer",
+        "tablePositionId": 0,
+        "playerRole": "ContainmentSpecialist",
+        "playerName": "Alpha"
+    },
+    {
+        "timestamp": "0.04998779",
+        "eventType": "EAddPlayer",
+        "tablePositionId": 1,
+        "playerRole": "Pilot",
+        "playerName": "Bravo"
+    },
+    {
+        "timestamp": "0.333313",
+        "eventType": "EAddPlayer",
+        "tablePositionId": 2,
+        "playerRole": "Virologist",
+        "playerName": "Charlie"
+    },
+    {
+        "timestamp": "0.3500061",
+        "eventType": "EAddPlayer",
+        "tablePositionId": 3,
+        "playerRole": "QuarantineSpecialist",
+        "playerName": "Delta"
+    },
+    {
+        "timestamp": "0.3666382",
+        "eventType": "EInitialize",
+        "seeds": {
+            "playerCards": "556291631",
+            "infectionCards": "556291631"
+        },
+        "playerCount": "4",
+        "cities": [
+            {
+                "id": 0,
+                "name": "Moscow",
+                "virusColor": "Red",
+                "connectedCities": [
+                    1,
+                    2,
+                    4
+                ]
+            },
+            {
+                "id": 1,
+                "name": "Kiev",
+                "virusColor": "Red",
+                "connectedCities": [
+                    0,
+                    2,
+                    3
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Minsk",
+                "virusColor": "Red",
+                "connectedCities": [
+                    0,
+                    1,
+                    5,
+                    10
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Bucharest",
+                "virusColor": "Red",
+                "connectedCities": [
+                    1,
+                    8,
+                    9
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Helsinki",
+                "virusColor": "Red",
+                "connectedCities": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Warsaw",
+                "virusColor": "Red",
+                "connectedCities": [
+                    2,
+                    6,
+                    7,
+                    16,
+                    17
+                ]
+            },
+            {
+                "id": 6,
+                "name": "Stockholm",
+                "virusColor": "Red",
+                "connectedCities": [
+                    4,
+                    5,
+                    7
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Copenhagen",
+                "virusColor": "Red",
+                "connectedCities": [
+                    5,
+                    6,
+                    18
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Athens",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    3,
+                    9,
+                    12
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Sofia",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    3,
+                    8,
+                    10,
+                    11
+                ]
+            },
+            {
+                "id": 10,
+                "name": "Budapest",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    2,
+                    9,
+                    11
+                ]
+            },
+            {
+                "id": 11,
+                "name": "Vienna",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    9,
+                    10,
+                    12,
+                    13,
+                    16
+                ]
+            },
+            {
+                "id": 12,
+                "name": "Rome",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    8,
+                    11,
+                    13
+                ]
+            },
+            {
+                "id": 13,
+                "name": "Geneva",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    11,
+                    12,
+                    14,
+                    16,
+                    20
+                ]
+            },
+            {
+                "id": 14,
+                "name": "Madrid",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    13,
+                    15,
+                    20
+                ]
+            },
+            {
+                "id": 15,
+                "name": "Lisbon",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    14
+                ]
+            },
+            {
+                "id": 16,
+                "name": "Prague",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    5,
+                    11,
+                    13,
+                    17
+                ]
+            },
+            {
+                "id": 17,
+                "name": "Berlin",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    5,
+                    16,
+                    18,
+                    20
+                ]
+            },
+            {
+                "id": 18,
+                "name": "Hamburg",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    7,
+                    17,
+                    19
+                ]
+            },
+            {
+                "id": 19,
+                "name": "Amsterdam",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    18,
+                    20,
+                    21
+                ]
+            },
+            {
+                "id": 20,
+                "name": "Paris",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    13,
+                    14,
+                    17,
+                    19,
+                    21
+                ]
+            },
+            {
+                "id": 21,
+                "name": "London",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    19,
+                    20,
+                    22,
+                    23
+                ]
+            },
+            {
+                "id": 22,
+                "name": "Glasgow",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    21,
+                    23
+                ]
+            },
+            {
+                "id": 23,
+                "name": "Dublin",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    21,
+                    22
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": "0.3833313",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 12
+    },
+    {
+        "timestamp": "2.133331",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 22
+    },
+    {
+        "timestamp": "3.883331",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 8
+    },
+    {
+        "timestamp": "5.650024",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 6
+    },
+    {
+        "timestamp": "7.400024",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 16
+    },
+    {
+        "timestamp": "9.150055",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 7
+    },
+    {
+        "timestamp": "10.90005",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 20
+    },
+    {
+        "timestamp": "12.66672",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 14
+    },
+    {
+        "timestamp": "14.41675",
+        "eventType": "EAddEpidemicCards"
+    },
+    {
+        "timestamp": "15.41675",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 16
+    },
+    {
+        "timestamp": "20.91678",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 20
+    },
+    {
+        "timestamp": "26.41681",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 22
+    },
+    {
+        "timestamp": "31.91681",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 19
+    },
+    {
+        "timestamp": "37.41687",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 0
+    },
+    {
+        "timestamp": "42.9169",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 3
+    },
+    {
+        "timestamp": "48.41693",
+        "eventType": "EInitializeFirstPlayer",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "startPlayer": "QuarantineSpecialist"
+    },
+    {
+        "timestamp": "48.43362",
+        "eventType": "EStartRound",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        }
+    },
+    {
+        "timestamp": "76.38376",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "103.3673",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "108.6673",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "newCity": 20,
+        "oldCity": 13,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "111.1673",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "112.9173",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "city": 20,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "116.6006",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "city": 20,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "118.3174",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "120.3673",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "newCity": 13,
+        "oldCity": 20,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "120.384",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 15
+    },
+    {
+        "timestamp": "122.1507",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 23
+    },
+    {
+        "timestamp": "123.9174",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "cityToInfect": 10
+    },
+    {
+        "timestamp": "129.4174",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "cityToInfect": 12
+    },
+    {
+        "timestamp": "134.9174",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        }
+    },
+    {
+        "timestamp": "146.2008",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "151.3175",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 16,
+        "oldCity": 13,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "151.3342",
+        "eventType": "PContainSpecialistRemoveWhenEntering",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "city": 16,
+        "cubeRemoved": "Blue"
+    },
+    {
+        "timestamp": "157.5342",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "160.0843",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "city": 16,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "269.8849",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "271.9349",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "city": 16,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "274.4349",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "281.2516",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 13,
+        "oldCity": 16,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "281.2683",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 0
+    },
+    {
+        "timestamp": "283.0183",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 5
+    },
+    {
+        "timestamp": "284.7683",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 11
+    },
+    {
+        "timestamp": "290.2684",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 23
+    },
+    {
+        "timestamp": "295.7684",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        }
+    },
+    {
+        "timestamp": "319.1185",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "320.9186",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "446.1026",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "452.686",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "454.736",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "458.436",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 8
+    },
+    {
+        "timestamp": "461.8527",
+        "eventType": "GPawnClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "playerSelected": "QuarantineSpecialist"
+    },
+    {
+        "timestamp": "464.1861",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 8,
+        "otherPlayer": "QuarantineSpecialist"
+    },
+    {
+        "timestamp": "467.9528",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Share"
+    },
+    {
+        "timestamp": "482.4362",
+        "eventType": "PShareKnowledge",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityId": 8,
+        "playerFrom": "Pilot",
+        "playerTo": "QuarantineSpecialist"
+    },
+    {
+        "timestamp": "626.6204",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "627.6537",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 13
+    },
+    {
+        "timestamp": "630.0704",
+        "eventType": "GPawnClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "playerSelected": "QuarantineSpecialist"
+    },
+    {
+        "timestamp": "634.1371",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 13,
+        "otherPlayer": "QuarantineSpecialist"
+    },
+    {
+        "timestamp": "636.2204",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "639.1038",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 20
+    },
+    {
+        "timestamp": "642.4371",
+        "eventType": "GPawnClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "playerSelected": "QuarantineSpecialist"
+    },
+    {
+        "timestamp": "643.4538",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 20,
+        "otherPlayer": "QuarantineSpecialist"
+    },
+    {
+        "timestamp": "643.4705",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 18
+    },
+    {
+        "timestamp": "645.2372",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 26
+    },
+    {
+        "timestamp": "647.0038",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 2
+    },
+    {
+        "timestamp": "652.5038",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 8
+    },
+    {
+        "timestamp": "658.0039",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        }
+    },
+    {
+        "timestamp": "731.821",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "773.3046",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "814.6882",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "816.9882",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "newCity": 20,
+        "oldCity": 13,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "819.3049",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "824.9882",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "city": 20,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "825.6548",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "826.0882",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "858.0051",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "860.6551",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "860.8552",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "861.0218",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "861.2051",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "915.4888",
+        "eventType": "GCityCardClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityID": 16
+    },
+    {
+        "timestamp": "915.9055",
+        "eventType": "GCityCardClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityID": 16
+    },
+    {
+        "timestamp": "916.3887",
+        "eventType": "GCityCardClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityID": 16
+    },
+    {
+        "timestamp": "916.7888",
+        "eventType": "GCityCardClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityID": 7
+    },
+    {
+        "timestamp": "917.0222",
+        "eventType": "GCityCardClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityID": 7
+    },
+    {
+        "timestamp": "917.3055",
+        "eventType": "GCityCardClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityID": 16
+    },
+    {
+        "timestamp": "917.5888",
+        "eventType": "GCityCardClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityID": 7
+    },
+    {
+        "timestamp": "917.8388",
+        "eventType": "GCityCardClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityID": 16
+    },
+    {
+        "timestamp": "923.9722",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "932.1223",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "973.6391",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Share"
+    },
+    {
+        "timestamp": "1082.756",
+        "eventType": "PShareKnowledge",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityId": 20,
+        "playerFrom": "QuarantineSpecialist",
+        "playerTo": "Virologist"
+    },
+    {
+        "timestamp": "1145.224",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "1216.274",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "EndTurn"
+    },
+    {
+        "timestamp": "1216.291",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 21
+    },
+    {
+        "timestamp": "1218.041",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": true,
+        "cardToAdd": 28
+    },
+    {
+        "timestamp": "1218.057",
+        "eventType": "EEpidemicInitiate",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        }
+    },
+    {
+        "timestamp": "1221.574",
+        "eventType": "EIncreaseInfectionRate",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        }
+    },
+    {
+        "timestamp": "1222.574",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 21
+    },
+    {
+        "timestamp": "1228.074",
+        "eventType": "EIntensify",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        }
+    },
+    {
+        "timestamp": "1232.074",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 10
+    },
+    {
+        "timestamp": "1237.574",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 20
+    },
+    {
+        "timestamp": "1243.074",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        }
+    },
+    {
+        "timestamp": "1286.508",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "1315.675",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "1317.758",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "newCity": 21,
+        "oldCity": 20,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "1319.225",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "1320.441",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "city": 21,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "1341.841",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "city": 21,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "1353.775",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "city": 21,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "1353.792",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 25
+    },
+    {
+        "timestamp": "1355.542",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 11
+    },
+    {
+        "timestamp": "1357.308",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "cityToInfect": 2
+    },
+    {
+        "timestamp": "1362.808",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "cityToInfect": 12
+    },
+    {
+        "timestamp": "1368.308",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        }
+    },
+    {
+        "timestamp": "1391.875",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Fly"
+    },
+    {
+        "timestamp": "1406.525",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "1432.692",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Fly"
+    },
+    {
+        "timestamp": "1441.892",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "1468.342",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Fly"
+    },
+    {
+        "timestamp": "1490.892",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "1502.209",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "1504.642",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 11,
+        "oldCity": 13,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "1506.059",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "1508.709",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 10,
+        "oldCity": 11,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "1508.726",
+        "eventType": "PContainSpecialistRemoveWhenEntering",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "city": 10,
+        "cubeRemoved": "Yellow"
+    },
+    {
+        "timestamp": "1517.926",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "1520.492",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 2,
+        "oldCity": 10,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "1520.509",
+        "eventType": "PContainSpecialistRemoveWhenEntering",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "city": 2,
+        "cubeRemoved": "Red"
+    },
+    {
+        "timestamp": "1529.309",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "1530.343",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "city": 2,
+        "virusName": "Red"
+    },
+    {
+        "timestamp": "1530.359",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 19
+    },
+    {
+        "timestamp": "1532.109",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 13
+    },
+    {
+        "timestamp": "1533.859",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 23
+    },
+    {
+        "timestamp": "1539.359",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 3
+    },
+    {
+        "timestamp": "1544.859",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        }
+    },
+    {
+        "timestamp": "1580.276",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Share"
+    },
+    {
+        "timestamp": "1607.143",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "1612.326",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "1615.11",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 18
+    },
+    {
+        "timestamp": "1618.76",
+        "eventType": "GPawnClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "playerSelected": "Virologist"
+    },
+    {
+        "timestamp": "1620.076",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 18,
+        "otherPlayer": "Virologist"
+    },
+    {
+        "timestamp": "1622.61",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Share"
+    },
+    {
+        "timestamp": "1626.427",
+        "eventType": "PShareKnowledge",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityId": 18,
+        "playerFrom": "Pilot",
+        "playerTo": "Virologist"
+    },
+    {
+        "timestamp": "1744.827",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "1762.044",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 20
+    },
+    {
+        "timestamp": "1763.194",
+        "eventType": "GPawnClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "playerSelected": "Virologist"
+    },
+    {
+        "timestamp": "1764.46",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 20,
+        "otherPlayer": "Virologist"
+    },
+    {
+        "timestamp": "1765.861",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "1766.927",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 13
+    },
+    {
+        "timestamp": "1768.044",
+        "eventType": "GPawnClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "playerSelected": "Virologist"
+    },
+    {
+        "timestamp": "1769.611",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 13,
+        "otherPlayer": "Virologist"
+    },
+    {
+        "timestamp": "1769.627",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 3
+    },
+    {
+        "timestamp": "1771.377",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": true,
+        "cardToAdd": 28
+    },
+    {
+        "timestamp": "1771.394",
+        "eventType": "EEpidemicInitiate",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        }
+    },
+    {
+        "timestamp": "1774.894",
+        "eventType": "EIncreaseInfectionRate",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        }
+    },
+    {
+        "timestamp": "1775.911",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 19
+    },
+    {
+        "timestamp": "1781.411",
+        "eventType": "EOutbreak",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "originOfOutbreak": 19,
+        "infectCities": [
+            18
+        ],
+        "quarantineSpecialistException": [
+            21,
+            19,
+            20,
+            22,
+            23
+        ]
+    },
+    {
+        "timestamp": "1783.411",
+        "eventType": "EIncreaseOutbreak",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        }
+    },
+    {
+        "timestamp": "1784.411",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 16
+    },
+    {
+        "timestamp": "1789.911",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 8
+    },
+    {
+        "timestamp": "1795.411",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 22
+    },
+    {
+        "timestamp": "1800.911",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        }
+    },
+    {
+        "timestamp": "1807.361",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "FindCure"
+    },
+    {
+        "timestamp": "1815.278",
+        "eventType": "PCureDisease",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "curedDisease": "Blue",
+        "selectedCards": [16, 18, 20, 21]
+    },
+    {
+        "timestamp": "1836.628",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "1845.811",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "1847.761",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "1848.078",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "1848.361",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "1854.694",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "1860.211",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "city": 3,
+        "virusName": "Red"
+    },
+    {
+        "timestamp": "1885.028",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "1888.411",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "newCity": 20,
+        "oldCity": 13,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "1891.811",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "1893.195",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "newCity": 19,
+        "oldCity": 20,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "1893.211",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 2
+    },
+    {
+        "timestamp": "1894.961",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 24
+    },
+    {
+        "timestamp": "1896.711",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 0
+    },
+    {
+        "timestamp": "1902.211",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 11
+    },
+    {
+        "timestamp": "1907.711",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 21
+    },
+    {
+        "timestamp": "1913.211",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        }
+    },
+    {
+        "timestamp": "1947.128",
+        "eventType": "GEventCardClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "eventName": "Forecast",
+        "eventID": "25"
+    },
+    {
+        "timestamp": "2087.296",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "2089.063",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "2089.346",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "2093.079",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "newCity": 13,
+        "oldCity": 21,
+        "numberOfActionsSpent": 2
+    },
+    {
+        "timestamp": "2094.512",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "actionSelected": "FindCure"
+    },
+    {
+        "timestamp": "2097.896",
+        "eventType": "PCureDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "curedDisease": "Yellow",
+        "selectedCards" : [8, 11, 14, 15]
+    },
+    {
+        "timestamp": "2118.613",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "2120.379",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "newCity": 20,
+        "oldCity": 13,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "2120.396",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 1
+    },
+    {
+        "timestamp": "2122.163",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 27
+    },
+    {
+        "timestamp": "2123.913",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "cityToInfect": 7
+    },
+    {
+        "timestamp": "2129.413",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "cityToInfect": 6
+    },
+    {
+        "timestamp": "2134.913",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Delta"
+        },
+        "cityToInfect": 13
+    },
+    {
+        "timestamp": "2140.413",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        }
+    },
+    {
+        "timestamp": "2151.38",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Fly"
+    },
+    {
+        "timestamp": "2354.997",
+        "eventType": "GEventCardClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventName": "Forecast",
+        "eventID": "25"
+    },
+    {
+        "timestamp": "2357.914",
+        "eventType": "PForecastCardPlayed",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventInitiator": "QuarantineSpecialist",
+        "cardsToSort": [
+            14,
+            17,
+            4,
+            15,
+            5,
+            9
+        ]
+    },
+    {
+        "timestamp": "2588.099",
+        "eventType": "PForecast",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventInitiator": "QuarantineSpecialist",
+        "topInfectionCards": [
+            14,
+            17,
+            4,
+            15,
+            5,
+            9
+        ]
+    },
+    {
+        "timestamp": "2592.632",
+        "eventType": "GEventCardClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventName": "Resource Planning",
+        "eventID": "27"
+    },
+    {
+        "timestamp": "2595.615",
+        "eventType": "PResourcePlanningCardPlayed",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventInitiator": "QuarantineSpecialist",
+        "cardsToSort": [
+            9,
+            17,
+            28,
+            10
+        ]
+    },
+    {
+        "timestamp": "2611.282",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "contextButtonSelected": "RightArrowButton"
+    },
+    {
+        "timestamp": "2685.266",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "2759.917",
+        "eventType": "PResourcePlanning",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventInitiator": "QuarantineSpecialist",
+        "topPlayerCards": [
+            9,
+            17,
+            10,
+            28
+        ]
+    },
+    {
+        "timestamp": "2791.967",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Fly"
+    },
+    {
+        "timestamp": "3729.306",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "3731.073",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "None"
+    },
+    {
+        "timestamp": "3733.372",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "None"
+    },
+    {
+        "timestamp": "3778.239",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Fly"
+    },
+    {
+        "timestamp": "3783.323",
+        "eventType": "PFlyToCity",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "flyFrom": 2,
+        "flyTo": 12
+    },
+    {
+        "timestamp": "3787.389",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "3791.023",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 13,
+        "oldCity": 12,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "3794.223",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Share"
+    },
+    {
+        "timestamp": "3797.323",
+        "eventType": "PShareKnowledge",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "cityId": 13,
+        "playerFrom": "ContainmentSpecialist",
+        "playerTo": "Pilot"
+    },
+    {
+        "timestamp": "3802.173",
+        "eventType": "GEventCardClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventName": "Call to Mobilize",
+        "eventID": "24"
+    },
+    {
+        "timestamp": "3804.473",
+        "eventType": "PCallToMobilizeCardPlayed",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventInitiator": "Virologist"
+    },
+    {
+        "timestamp": "3811.573",
+        "eventType": "PMobilizeEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventInitiator": "Pilot",
+        "newCity": 5,
+        "oldCity": 13
+    },
+    {
+        "timestamp": "3815.023",
+        "eventType": "PMobilizeEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventInitiator": "ContainmentSpecialist",
+        "newCity": 5,
+        "oldCity": 13
+    },
+    {
+        "timestamp": "3835.156",
+        "eventType": "PMobilizeEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventInitiator": "QuarantineSpecialist",
+        "newCity": 20,
+        "oldCity": 20
+    },
+    {
+        "timestamp": "3836.123",
+        "eventType": "PMobilizeEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "eventInitiator": "Virologist",
+        "newCity": 19,
+        "oldCity": 19
+    },
+    {
+        "timestamp": "3839.423",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Share"
+    },
+    {
+        "timestamp": "3842.623",
+        "eventType": "PShareKnowledge",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "cityId": 5,
+        "playerFrom": "ContainmentSpecialist",
+        "playerTo": "Pilot"
+    },
+    {
+        "timestamp": "3843.623",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 9
+    },
+    {
+        "timestamp": "3845.373",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 17
+    },
+    {
+        "timestamp": "3847.14",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 14
+    },
+    {
+        "timestamp": "3852.64",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 17
+    },
+    {
+        "timestamp": "3858.14",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 4
+    },
+    {
+        "timestamp": "3863.64",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        }
+    },
+    {
+        "timestamp": "3869.94",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction"
+    },
+    {
+        "timestamp": "3873.807",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 0
+    },
+    {
+        "timestamp": "3875.223",
+        "eventType": "GPawnClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "playerSelected": "ContainmentSpecialist"
+    },
+    {
+        "timestamp": "3876.573",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 0,
+        "otherPlayer": "ContainmentSpecialist"
+    },
+    {
+        "timestamp": "3876.59",
+        "eventType": "PContainSpecialistRemoveWhenEntering",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "city": 0,
+        "cubeRemoved": "Red"
+    },
+    {
+        "timestamp": "3879.79",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Share"
+    },
+    {
+        "timestamp": "3882.69",
+        "eventType": "PShareKnowledge",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityId": 0,
+        "playerFrom": "ContainmentSpecialist",
+        "playerTo": "Pilot"
+    },
+    {
+        "timestamp": "3886.257",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Fly"
+    },
+    {
+        "timestamp": "3890.057",
+        "eventType": "PFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "flyFrom": 0,
+        "flyTo": 13
+    },
+    {
+        "timestamp": "3894.823",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "FindCure"
+    },
+    {
+        "timestamp": "3898.173",
+        "eventType": "PCureDisease",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "curedDisease": "Red",
+        "selectedCards": [0, 3, 5, 6]
+    },
+    {
+        "timestamp": "3900.173",
+        "eventType": "EGameOver",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "reason": "PlayersWon"
+    }
+]

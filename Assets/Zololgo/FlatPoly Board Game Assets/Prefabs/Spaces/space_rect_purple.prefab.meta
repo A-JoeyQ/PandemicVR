@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f4ae7a79b626ff74da01c51b4433d773
+timeCreated: 1517178999
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Spaces/space_rect_purple.prefab
+  uploadId: 226932

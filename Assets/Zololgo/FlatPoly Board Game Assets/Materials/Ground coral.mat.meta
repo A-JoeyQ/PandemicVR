@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 99ed25e37154c9942aa0ca5fea6525f0
+timeCreated: 1512342515
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Materials/Ground coral.mat
+  uploadId: 226932

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8da719ae82188f4f9589a803d924090
+timeCreated: 1517178662
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Meeples/Meeple_B_cyan.prefab
+  uploadId: 226932

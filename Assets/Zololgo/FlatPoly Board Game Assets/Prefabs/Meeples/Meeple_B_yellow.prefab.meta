@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d80db0c4784b3848a93bfe025bf2699
+timeCreated: 1517178676
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Meeples/Meeple_B_yellow.prefab
+  uploadId: 226932

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b95ba0e539c82364298972c9169b4bb3, type: 3}
+  m_Name: Virologist
+  m_EditorClassIdentifier: 
+  roleName: Virologist(Testing)
+  roleText: 'When you Discover a Cure, you may replace 1 required card with any 2
+    other cards. Action: Once per turn, remove 1 cube matching the color of a card
+    in your hand.'
+  roleColor: {r: 0.92941177, g: 0.9254902, b: 0.5019608, a: 1}
+  mainArtwork: {fileID: 21300000, guid: 2dbdadf94944ef14f8f8752b1282c023, type: 3}

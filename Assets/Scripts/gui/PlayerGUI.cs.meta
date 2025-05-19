@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 759e0878c7a3f374dade91cf2d85b7f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CurrentInstructionText: {instanceID: 0}
+  - playerNameText: {instanceID: 0}
+  - roleCard: {instanceID: 0}
+  - PlayerCards: {instanceID: 0}
+  - ActionsContainer: {instanceID: 0}
+  - MoveAction: {instanceID: 0}
+  - FlyAction: {instanceID: 0}
+  - CharterAction: {instanceID: 0}
+  - TreatAction: {instanceID: 0}
+  - ShareAction: {instanceID: 0}
+  - FindCureAction: {instanceID: 0}
+  - ResourcePlanningEventCardsEpidemic: {fileID: 3558608632174755047, guid: 3c4ba57701411b54db91741a3510f268, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

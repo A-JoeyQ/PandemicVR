@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 13e35219bf9dc4340910838e527702b1
+timeCreated: 1517178787
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Pawns/pawn_C_green.prefab
+  uploadId: 226932

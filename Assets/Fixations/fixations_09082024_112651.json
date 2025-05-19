@@ -1,0 +1,2236 @@
+{
+                
+                    "startTime" : "0",
+                    "endTime" : "0.2136345",
+                    "duration" : "213.6345",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "0.2136345",
+                    "endTime" : "0.5396767",
+                    "duration" : "326.0422",
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "0.5396767",
+                    "endTime" : "0.7918034",
+                    "duration" : "252.1267",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Athens",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : "0.7918034",
+                    "endTime" : "0.9692125",
+                    "duration" : "177.4092",
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "0.9692125",
+                    "endTime" : "1.152432",
+                    "duration" : "183.2199",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "London",
+                    "virus" : "Blue"
+                
+                },
+{
+                
+                    "startTime" : "1.152432",
+                    "endTime" : "1.318674",
+                    "duration" : "166.2416",
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "1.318674",
+                    "endTime" : "1.376601",
+                    "duration" : "57.92713",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Amsterdam",
+                    "virus" : "Blue"
+                
+                },
+{
+                
+                    "startTime" : "1.376601",
+                    "endTime" : "1.478307",
+                    "duration" : "101.7056",
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "1.478307",
+                    "endTime" : "1.582883",
+                    "duration" : "104.5761",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Amsterdam",
+                    "virus" : "Blue"
+                
+                },
+{
+                
+                    "startTime" : "1.582883",
+                    "endTime" : "1.651381",
+                    "duration" : "68.49861",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "1.651381",
+                    "endTime" : "1.882278",
+                    "duration" : "230.8969",
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "1.882278",
+                    "endTime" : "1.947714",
+                    "duration" : "65.43541",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "1.947714",
+                    "endTime" : "2.086055",
+                    "duration" : "138.3409",
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "2.086055",
+                    "endTime" : "3.220857",
+                    "duration" : "1134.802",
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "3.220857",
+                    "endTime" : "4.214025",
+                    "duration" : "993.1678",
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : "3",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "4.214025",
+                    "endTime" : "5.020184",
+                    "duration" : "806.159",
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "5.020184",
+                    "endTime" : "5.065829",
+                    "duration" : "45.64571",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "5.065829",
+                    "endTime" : "5.246945",
+                    "duration" : "181.1161",
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "2",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "5.246945",
+                    "endTime" : "5.350438",
+                    "duration" : "103.4927",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "5.350438",
+                    "endTime" : "5.606125",
+                    "duration" : "255.6868",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "5.606125",
+                    "endTime" : "5.755517",
+                    "duration" : "149.3921",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "5.755517",
+                    "endTime" : "5.863101",
+                    "duration" : "107.584",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "5.863101",
+                    "endTime" : "5.928362",
+                    "duration" : "65.26089",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "5.928362",
+                    "endTime" : "8.548653",
+                    "duration" : "2620.291",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "8.548653",
+                    "endTime" : "8.584606",
+                    "duration" : "35.95352",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "8.584606",
+                    "endTime" : "8.638214",
+                    "duration" : "53.60794",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "8.638214",
+                    "endTime" : "8.703531",
+                    "duration" : "65.31715",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "8.703531",
+                    "endTime" : "8.807432",
+                    "duration" : "103.9009",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "8.807432",
+                    "endTime" : "8.859646",
+                    "duration" : "52.21367",
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "2",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "8.859646",
+                    "endTime" : "9.224518",
+                    "duration" : "364.872",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "9.224518",
+                    "endTime" : "9.378187",
+                    "duration" : "153.6694",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "9.378187",
+                    "endTime" : "9.477659",
+                    "duration" : "99.47205",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "9.477659",
+                    "endTime" : "9.535431",
+                    "duration" : "57.77168",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "9.535431",
+                    "endTime" : "9.594048",
+                    "duration" : "58.61664",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "9.594048",
+                    "endTime" : "10.09999",
+                    "duration" : "505.9452",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "10.09999",
+                    "endTime" : "10.16177",
+                    "duration" : "61.7733",
+                
+                 
+                    "type" : "City",
+                    "city" : "Kiev",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "10.16177",
+                    "endTime" : "10.27567",
+                    "duration" : "113.9088",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "10.27567",
+                    "endTime" : "10.31931",
+                    "duration" : "43.64014",
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : "1",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "10.31931",
+                    "endTime" : "10.59923",
+                    "duration" : "279.913",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "10.59923",
+                    "endTime" : "10.64229",
+                    "duration" : "43.06602",
+                
+                 
+                    "type" : "City",
+                    "city" : "Moscow",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "10.64229",
+                    "endTime" : "10.69847",
+                    "duration" : "56.17523",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "London",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "10.69847",
+                    "endTime" : "10.78802",
+                    "duration" : "89.55574",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Amsterdam",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "10.78802",
+                    "endTime" : "10.84878",
+                    "duration" : "60.75478",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Athens",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "10.84878",
+                    "endTime" : "10.92878",
+                    "duration" : "79.99611",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "10.92878",
+                    "endTime" : "10.97741",
+                    "duration" : "48.63167",
+                
+                 
+                    "type" : "City",
+                    "city" : "Moscow",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "10.97741",
+                    "endTime" : "11.04755",
+                    "duration" : "70.14275",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "11.04755",
+                    "endTime" : "11.15697",
+                    "duration" : "109.4189",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "11.15697",
+                    "endTime" : "11.23161",
+                    "duration" : "74.63646",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "11.23161",
+                    "endTime" : "11.30279",
+                    "duration" : "71.18416",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "11.30279",
+                    "endTime" : "11.34875",
+                    "duration" : "45.96519",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "11.34875",
+                    "endTime" : "11.78468",
+                    "duration" : "435.9226",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "11.78468",
+                    "endTime" : "11.89567",
+                    "duration" : "110.9886",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "11.89567",
+                    "endTime" : "12.07042",
+                    "duration" : "174.7551",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "12.07042",
+                    "endTime" : "12.1398",
+                    "duration" : "69.38171",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "12.1398",
+                    "endTime" : "12.469",
+                    "duration" : "329.1969",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "12.469",
+                    "endTime" : "13.02156",
+                    "duration" : "552.557",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "13.02156",
+                    "endTime" : "13.24518",
+                    "duration" : "223.6195",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "13.24518",
+                    "endTime" : "13.31205",
+                    "duration" : "66.87164",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "13.31205",
+                    "endTime" : "13.46867",
+                    "duration" : "156.6238",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "13.46867",
+                    "endTime" : "13.73924",
+                    "duration" : "270.5707",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "13.73924",
+                    "endTime" : "13.96399",
+                    "duration" : "224.7467",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "13.96399",
+                    "endTime" : "14.5929",
+                    "duration" : "628.912",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "14.5929",
+                    "endTime" : "14.65874",
+                    "duration" : "65.83405",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "14.65874",
+                    "endTime" : "15.04016",
+                    "duration" : "381.4201",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "15.04016",
+                    "endTime" : "15.19164",
+                    "duration" : "151.4874",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "15.19164",
+                    "endTime" : "15.2612",
+                    "duration" : "69.55338",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "15.2612",
+                    "endTime" : "15.86055",
+                    "duration" : "599.3576",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "15.86055",
+                    "endTime" : "16.00117",
+                    "duration" : "140.6136",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "16.00117",
+                    "endTime" : "16.31896",
+                    "duration" : "317.7967",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "16.31896",
+                    "endTime" : "16.44507",
+                    "duration" : "126.1024",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "16.44507",
+                    "endTime" : "16.56236",
+                    "duration" : "117.2905",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "16.56236",
+                    "endTime" : "17.64957",
+                    "duration" : "1087.217",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "17.64957",
+                    "endTime" : "17.70881",
+                    "duration" : "59.23462",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "17.70881",
+                    "endTime" : "17.82019",
+                    "duration" : "111.3834",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "17.82019",
+                    "endTime" : "19.33323",
+                    "duration" : "1513.035",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "19.33323",
+                    "endTime" : "19.67691",
+                    "duration" : "343.6794",
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "19.67691",
+                    "endTime" : "19.80997",
+                    "duration" : "133.0681",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "19.80997",
+                    "endTime" : "19.96724",
+                    "duration" : "157.2609",
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "19.96724",
+                    "endTime" : "20.03591",
+                    "duration" : "68.67599",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "20.03591",
+                    "endTime" : "20.08658",
+                    "duration" : "50.6649",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Treat Disease",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "20.08658",
+                    "endTime" : "20.34695",
+                    "duration" : "260.3702",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "20.34695",
+                    "endTime" : "20.52685",
+                    "duration" : "179.9011",
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : "1",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "20.52685",
+                    "endTime" : "20.64762",
+                    "duration" : "120.7733",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "20.64762",
+                    "endTime" : "20.6979",
+                    "duration" : "50.2758",
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : "1",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "20.6979",
+                    "endTime" : "21.14205",
+                    "duration" : "444.1566",
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "21.14205",
+                    "endTime" : "21.25256",
+                    "duration" : "110.5022",
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : "1",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "21.25256",
+                    "endTime" : "21.31108",
+                    "duration" : "58.51936",
+                
+                 
+                    "type" : "City",
+                    "city" : "Sofia",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "21.31108",
+                    "endTime" : "21.43699",
+                    "duration" : "125.9098",
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "21.43699",
+                    "endTime" : "21.51255",
+                    "duration" : "75.56534",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "21.51255",
+                    "endTime" : "22.05035",
+                    "duration" : "537.7998",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "22.05035",
+                    "endTime" : "22.10203",
+                    "duration" : "51.6777",
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "22.10203",
+                    "endTime" : "22.16853",
+                    "duration" : "66.4978",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "22.16853",
+                    "endTime" : "22.88591",
+                    "duration" : "717.3862",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "22.88591",
+                    "endTime" : "26.62658",
+                    "duration" : "3740.666",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "26.62658",
+                    "endTime" : "26.67708",
+                    "duration" : "50.50278",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "26.67708",
+                    "endTime" : "26.84902",
+                    "duration" : "171.9437",
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "2",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "26.84902",
+                    "endTime" : "27.27648",
+                    "duration" : "427.4559",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "27.27648",
+                    "endTime" : "27.36455",
+                    "duration" : "88.06992",
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "2",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "27.36455",
+                    "endTime" : "27.68435",
+                    "duration" : "319.7975",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "27.68435",
+                    "endTime" : "27.79128",
+                    "duration" : "106.9298",
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "2",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "27.79128",
+                    "endTime" : "27.87396",
+                    "duration" : "82.67975",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "27.87396",
+                    "endTime" : "27.97919",
+                    "duration" : "105.2322",
+                
+                 
+                    "type" : "City",
+                    "city" : "Bucharest",
+                    "color" : "Red",
+                    "cubesRed" : "1",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "27.97919",
+                    "endTime" : "28.10023",
+                    "duration" : "121.0365",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "28.10023",
+                    "endTime" : "28.16155",
+                    "duration" : "61.32507",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "28.16155",
+                    "endTime" : "28.23879",
+                    "duration" : "77.2438",
+                
+                 
+                    "type" : "City",
+                    "city" : "Prague",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "3"
+                
+                },
+{
+                
+                    "startTime" : "28.23879",
+                    "endTime" : "28.29268",
+                    "duration" : "53.89023",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "28.29268",
+                    "endTime" : "28.42171",
+                    "duration" : "129.0207",
+                
+                 
+                    "type" : "City",
+                    "city" : "Rome",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "28.42171",
+                    "endTime" : "29.14811",
+                    "duration" : "726.4061",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "29.14811",
+                    "endTime" : "29.20137",
+                    "duration" : "53.2608",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "29.20137",
+                    "endTime" : "29.27114",
+                    "duration" : "69.77081",
+                
+                 
+                    "type" : "City",
+                    "city" : "Budapest",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "29.27114",
+                    "endTime" : "29.31996",
+                    "duration" : "48.81287",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "29.31996",
+                    "endTime" : "29.39104",
+                    "duration" : "71.08688",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "29.39104",
+                    "endTime" : "29.45086",
+                    "duration" : "59.81827",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "29.45086",
+                    "endTime" : "29.49565",
+                    "duration" : "44.78455",
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "2",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "29.49565",
+                    "endTime" : "29.61242",
+                    "duration" : "116.7755",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "29.61242",
+                    "endTime" : "29.71379",
+                    "duration" : "101.3641",
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "2",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "29.71379",
+                    "endTime" : "29.77254",
+                    "duration" : "58.75015",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "29.77254",
+                    "endTime" : "31.58654",
+                    "duration" : "1814.003",
+                
+                 
+                    "type" : "City",
+                    "city" : "Geneva",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "2",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "31.58654",
+                    "endTime" : "31.64101",
+                    "duration" : "54.47006",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "31.64101",
+                    "endTime" : "31.6958",
+                    "duration" : "54.78668",
+                
+                 
+                    "type" : "City",
+                    "city" : "Vienna",
+                    "color" : "Yellow",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "31.6958",
+                    "endTime" : "31.7752",
+                    "duration" : "79.40674",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "31.7752",
+                    "endTime" : "32.3103",
+                    "duration" : "535.101",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Direct Flight",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "32.3103",
+                    "endTime" : "32.49692",
+                    "duration" : "186.615",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Treat Disease",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "32.49692",
+                    "endTime" : "32.5843",
+                    "duration" : "87.38708",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Share Knowledge",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "32.5843",
+                    "endTime" : "32.66694",
+                    "duration" : "82.63397",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "32.66694",
+                    "endTime" : "36.22172",
+                    "duration" : "3554.779",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Share Knowledge",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "36.22172",
+                    "endTime" : "36.99818",
+                    "duration" : "776.4587",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Treat Disease",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "36.99818",
+                    "endTime" : "37.5064",
+                    "duration" : "508.2245",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Direct Flight",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "37.5064",
+                    "endTime" : "38.05664",
+                    "duration" : "550.2396",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Drive/Ferry",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "38.05664",
+                    "endTime" : "38.10306",
+                    "duration" : "46.41724",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "38.10306",
+                    "endTime" : "38.35257",
+                    "duration" : "249.5117",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Share Knowledge",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "38.35257",
+                    "endTime" : "39.14724",
+                    "duration" : "794.6701",
+                
+                 
+                    "type" : "Action",
+                    "action" : "End Turn",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "39.14724",
+                    "endTime" : "39.2197",
+                    "duration" : "72.46399",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "39.2197",
+                    "endTime" : "42.18864",
+                    "duration" : "2968.933",
+                
+                 
+                    "type" : "Action",
+                    "action" : "End Turn",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "42.18864",
+                    "endTime" : "42.27223",
+                    "duration" : "83.59528",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "42.27223",
+                    "endTime" : "42.6245",
+                    "duration" : "352.2644",
+                
+                 
+                    "type" : "City",
+                    "city" : "Moscow",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "42.6245",
+                    "endTime" : "42.6511",
+                    "duration" : "26.6037",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "42.6511",
+                    "endTime" : "42.71022",
+                    "duration" : "59.12018",
+                
+                 
+                    "type" : "City",
+                    "city" : "Moscow",
+                    "color" : "Red",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "42.71022",
+                    "endTime" : "42.99315",
+                    "duration" : "282.9285",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "42.99315",
+                    "endTime" : "43.46355",
+                    "duration" : "470.3979",
+                
+                 
+                    "type" : "City",
+                    "city" : "Stockholm",
+                    "color" : "Red",
+                    "cubesRed" : "1",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "43.46355",
+                    "endTime" : "43.5052",
+                    "duration" : "41.65649",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "43.5052",
+                    "endTime" : "43.67649",
+                    "duration" : "171.2875",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Warsaw",
+                    "virus" : "Red",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "43.67649",
+                    "endTime" : "43.75626",
+                    "duration" : "79.77295",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Amsterdam",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "43.75626",
+                    "endTime" : "45.11111",
+                    "duration" : "1354.843",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "45.11111",
+                    "endTime" : "45.40466",
+                    "duration" : "293.5486",
+                
+                 
+                    "type" : "City",
+                    "city" : "Stockholm",
+                    "color" : "Red",
+                    "cubesRed" : "1",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "45.40466",
+                    "endTime" : "45.45689",
+                    "duration" : "52.23083",
+                
+                 
+                    "type" : "City",
+                    "city" : "Helsinki",
+                    "color" : "Red",
+                    "cubesRed" : "2",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "45.45689",
+                    "endTime" : "45.7282",
+                    "duration" : "271.3089",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "45.80769",
+                    "endTime" : "45.93074",
+                    "duration" : "123.0545",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Charter Flight",
+                    "player" : "2",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : "45.93074",
+                    "endTime" : "45.97291",
+                    "duration" : "42.16766",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Treat Disease",
+                    "player" : "2",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : "45.97291",
+                    "endTime" : "46.0033",
+                    "duration" : "30.38788",
+                
+                 
+                    "type" : "Action",
+                    "action" : "Share Knowledge",
+                    "player" : "2",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : "46.0033",
+                    "endTime" : "46.19154",
+                    "duration" : "188.2401",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "46.19154",
+                    "endTime" : "46.35303",
+                    "duration" : "161.499",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "2",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : "46.35303",
+                    "endTime" : "46.85169",
+                    "duration" : "498.6572",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Bucharest",
+                    "virus" : "Red",
+                    "player" : "2",
+                    "playerRole" : "Pilot"
+                
+                },
+{
+                
+                    "startTime" : "46.85169",
+                    "endTime" : "50.10612",
+                    "duration" : "3254.425",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "50.10612",
+                    "endTime" : "50.15659",
+                    "duration" : "50.47607",
+                
+                 
+                    "type" : "City",
+                    "city" : "Glasgow",
+                    "color" : "Blue",
+                    "cubesRed" : "0",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "50.15659",
+                    "endTime" : "52.21812",
+                    "duration" : "2061.523",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "52.21812",
+                    "endTime" : "52.34501",
+                    "duration" : "126.8921",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Madrid",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : "52.34501",
+                    "endTime" : "55.4906",
+                    "duration" : "3145.592",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "55.4906",
+                    "endTime" : "55.56412",
+                    "duration" : "73.51685",
+                
+                 
+                    "type" : "City",
+                    "city" : "Stockholm",
+                    "color" : "Red",
+                    "cubesRed" : "1",
+                    "cubesYellow" : "0",
+                    "cubesBlue" : "0"
+                
+                },
+{
+                
+                    "startTime" : "55.56412",
+                    "endTime" : "55.75903",
+                    "duration" : "194.9158",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "55.75903",
+                    "endTime" : "55.95528",
+                    "duration" : "196.2509",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "London",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "55.95528",
+                    "endTime" : "56.29189",
+                    "duration" : "336.6089",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Warsaw",
+                    "virus" : "Red",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "56.29189",
+                    "endTime" : "56.34655",
+                    "duration" : "54.65698",
+                
+                 
+                    "type" : "Action",
+                    "action" : "End Turn",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "56.34655",
+                    "endTime" : "56.50645",
+                    "duration" : "159.8969",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "56.50645",
+                    "endTime" : "58.05843",
+                    "duration" : "1551.987",
+                
+                 
+                    "type" : "Action",
+                    "action" : "End Turn",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "58.05843",
+                    "endTime" : "58.19156",
+                    "duration" : "133.1253",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "58.19156",
+                    "endTime" : "58.35162",
+                    "duration" : "160.0647",
+                
+                 
+                    "type" : "EventCard",
+                    "event" : "Resource Planning",
+                    "eventID" : "27"
+                
+                },
+{
+                
+                    "startTime" : "58.35162",
+                    "endTime" : "58.74818",
+                    "duration" : "396.5607",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "58.74818",
+                    "endTime" : "59.01733",
+                    "duration" : "269.1422",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "London",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "59.01733",
+                    "endTime" : "65.53353",
+                    "duration" : "6516.205",
+                
+                 
+                    "type" : "EventCard",
+                    "event" : "Resource Planning",
+                    "eventID" : "27",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "65.53353",
+                    "endTime" : "65.70109",
+                    "duration" : "167.5568",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "65.70109",
+                    "endTime" : "65.74684",
+                    "duration" : "45.75348",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Warsaw",
+                    "virus" : "Red",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "65.74684",
+                    "endTime" : "65.79168",
+                    "duration" : "44.83795",
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : "65.79168",
+                    "endTime" : "65.86352",
+                    "duration" : "71.83838",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Athens",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "65.86352",
+                    "endTime" : "65.98224",
+                    "duration" : "118.721",
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Warsaw",
+                    "virus" : "Red",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : "65.98224",
+                    "endTime" : "66.15546",
+                    "duration" : "173.2178",
+                
+                 
+                    "type" : "Board"
+                
+                },

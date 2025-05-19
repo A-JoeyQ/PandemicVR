@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 487b7a403a4dc194c82cb2822edf07a9
+timeCreated: 1512342515
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Materials/Ground grey.mat
+  uploadId: 226932

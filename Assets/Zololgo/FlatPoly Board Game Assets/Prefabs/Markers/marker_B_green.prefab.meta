@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 767276d0ec6930a4793e11d5f0cf1174
+timeCreated: 1517178481
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Markers/marker_B_green.prefab
+  uploadId: 226932

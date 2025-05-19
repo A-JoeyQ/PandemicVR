@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48d6690bf783e964182c7a6afdc74764
+timeCreated: 1517178730
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Pawns/pawn_A_purple.prefab
+  uploadId: 226932

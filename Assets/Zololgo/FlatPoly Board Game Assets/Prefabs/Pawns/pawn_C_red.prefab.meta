@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c266d1c466f7ab49a7473bbee4cd807
+timeCreated: 1517178799
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Pawns/pawn_C_red.prefab
+  uploadId: 226932

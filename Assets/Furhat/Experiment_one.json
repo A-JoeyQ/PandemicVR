@@ -1,0 +1,2972 @@
+[
+    {
+        "timestamp": "0",
+        "eventType": "EResetGame"
+    },
+    {
+        "timestamp": "0.0166769",
+        "eventType": "EAddPlayer",
+        "tablePositionId": 0,
+        "playerRole": "QuarantineSpecialist",
+        "playerName": "Alpha"
+    },
+    {
+        "timestamp": "0.0333271",
+        "eventType": "EAddPlayer",
+        "tablePositionId": 1,
+        "playerRole": "Pilot",
+        "playerName": "Bravo"
+    },
+    {
+        "timestamp": "0.1833391",
+        "eventType": "EAddPlayer",
+        "tablePositionId": 2,
+        "playerRole": "ContainmentSpecialist",
+        "playerName": "Charlie"
+    },
+    {
+        "timestamp": "0.2000074",
+        "eventType": "EAddPlayer",
+        "tablePositionId": 3,
+        "playerRole": "Virologist",
+        "playerName": "Delta"
+    },
+    {
+        "timestamp": "0.2166576",
+        "eventType": "EInitialize",
+        "seeds": {
+            "playerCards": "1509680898",
+            "infectionCards": "1509680898"
+        },
+        "playerCount": "4",
+        "cities": [
+            {
+                "id": 0,
+                "name": "Moscow",
+                "virusColor": "Red",
+                "connectedCities": [
+                    1,
+                    2,
+                    4
+                ]
+            },
+            {
+                "id": 1,
+                "name": "Kiev",
+                "virusColor": "Red",
+                "connectedCities": [
+                    0,
+                    2,
+                    3
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Minsk",
+                "virusColor": "Red",
+                "connectedCities": [
+                    0,
+                    1,
+                    5,
+                    10
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Bucharest",
+                "virusColor": "Red",
+                "connectedCities": [
+                    1,
+                    8,
+                    9
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Helsinki",
+                "virusColor": "Red",
+                "connectedCities": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Warsaw",
+                "virusColor": "Red",
+                "connectedCities": [
+                    2,
+                    6,
+                    7,
+                    16,
+                    17
+                ]
+            },
+            {
+                "id": 6,
+                "name": "Stockholm",
+                "virusColor": "Red",
+                "connectedCities": [
+                    4,
+                    5,
+                    7
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Copenhagen",
+                "virusColor": "Red",
+                "connectedCities": [
+                    5,
+                    6,
+                    18
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Athens",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    3,
+                    9,
+                    12
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Sofia",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    3,
+                    8,
+                    10,
+                    11
+                ]
+            },
+            {
+                "id": 10,
+                "name": "Budapest",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    2,
+                    9,
+                    11
+                ]
+            },
+            {
+                "id": 11,
+                "name": "Vienna",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    9,
+                    10,
+                    12,
+                    13,
+                    16
+                ]
+            },
+            {
+                "id": 12,
+                "name": "Rome",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    8,
+                    11,
+                    13
+                ]
+            },
+            {
+                "id": 13,
+                "name": "Geneva",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    11,
+                    12,
+                    14,
+                    16,
+                    20
+                ]
+            },
+            {
+                "id": 14,
+                "name": "Madrid",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    13,
+                    15,
+                    20
+                ]
+            },
+            {
+                "id": 15,
+                "name": "Lisbon",
+                "virusColor": "Yellow",
+                "connectedCities": [
+                    14
+                ]
+            },
+            {
+                "id": 16,
+                "name": "Prague",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    5,
+                    11,
+                    13,
+                    17
+                ]
+            },
+            {
+                "id": 17,
+                "name": "Berlin",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    5,
+                    16,
+                    18,
+                    20
+                ]
+            },
+            {
+                "id": 18,
+                "name": "Hamburg",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    7,
+                    17,
+                    19
+                ]
+            },
+            {
+                "id": 19,
+                "name": "Amsterdam",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    18,
+                    20,
+                    21
+                ]
+            },
+            {
+                "id": 20,
+                "name": "Paris",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    13,
+                    14,
+                    17,
+                    19,
+                    21
+                ]
+            },
+            {
+                "id": 21,
+                "name": "London",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    19,
+                    20,
+                    22,
+                    23
+                ]
+            },
+            {
+                "id": 22,
+                "name": "Glasgow",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    21,
+                    23
+                ]
+            },
+            {
+                "id": 23,
+                "name": "Dublin",
+                "virusColor": "Blue",
+                "connectedCities": [
+                    21,
+                    22
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": "0.2333403",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 17
+    },
+    {
+        "timestamp": "1.983346",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 19
+    },
+    {
+        "timestamp": "3.733357",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 7
+    },
+    {
+        "timestamp": "5.483366",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 25
+    },
+    {
+        "timestamp": "7.233377",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 5,
+        "dialog": {
+            "Charlie": " for forecasting."
+        }
+    },
+    {
+        "timestamp": "8.983387",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 9
+    },
+    {
+        "timestamp": "10.7334",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 6,
+        "dialog": {
+            "Bravo": " What is that?"
+        }
+    },
+    {
+        "timestamp": "12.48341",
+        "eventType": "PDealCard",
+        "epidemicPopped": false,
+        "cardToAdd": 8,
+        "dialog": {
+            "Bravo": " Thank you.",
+            "Charlie": " That's the one to control the future."
+        }
+    },
+    {
+        "timestamp": "14.23342",
+        "eventType": "EAddEpidemicCards"
+    },
+    {
+        "timestamp": "15.23343",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 13,
+        "dialog": {
+            "Bravo": " Oh, okay.  And I can do it."
+        }
+    },
+    {
+        "timestamp": "20.73346",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 18,
+        "dialog": {
+            "Bravo": " Yeah.  Ok, je n'y vais pas.",
+            "Charlie": " Oh, that's so lucky.",
+            "Delta": " That's really nice."
+        }
+    },
+    {
+        "timestamp": "26.23349",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 15,
+        "dialog": {
+            "Bravo": " Thank you."
+        }
+    },
+    {
+        "timestamp": "31.73351",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 22
+    },
+    {
+        "timestamp": "37.23356",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 5,
+        "dialog": {
+            "Alpha": " Thank you.",
+            "Charlie": " God bless you.  Yeah."
+        }
+    },
+    {
+        "timestamp": "42.73359",
+        "eventType": "EDrawInfectionCard",
+        "cityToInfect": 1,
+        "dialog": {
+            "Bravo": " Yeah, but let's not forget that our main purpose is to cure, I mean to find the cures. Like it's not like just treat places.",
+            "Delta": " Thank you."
+        }
+    },
+    {
+        "timestamp": "48.23361",
+        "eventType": "EInitializeFirstPlayer",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "startPlayer": "QuarantineSpecialist"
+    },
+    {
+        "timestamp": "48.2503",
+        "eventType": "EStartRound",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "dialog": {
+            "Alpha": " but you know like this",
+            "Bravo": " Yeah, okay. Yeah.",
+            "Charlie": " Emma 3 means that you earn turns. Earning turns, you earn cards."
+        }
+    },
+    {
+        "timestamp": "54.60032",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "58.93368",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "city": 13,
+        "virusName": "Yellow"
+    },
+    {
+        "timestamp": "65.46706",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Charlie": " you",
+            "Delta": " Thank you."
+        }
+    },
+    {
+        "timestamp": "66.70041",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "city": 13,
+        "virusName": "Yellow",
+        "dialog": {
+            "Alpha": " I will go to Paris, okay? So I will stay there.",
+            "Bravo": " Yeah, you should proceed."
+        }
+    },
+    {
+        "timestamp": "73.58379",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Charlie": " We have to move."
+        }
+    },
+    {
+        "timestamp": "78.41713",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " I will just do one.",
+            "Bravo": " You got a dragon."
+        }
+    },
+    {
+        "timestamp": "80.83382",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 20,
+        "oldCity": 13,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "82.23383",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "EndTurn"
+    },
+    {
+        "timestamp": "82.25051",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 2
+    },
+    {
+        "timestamp": "84.01717",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": true,
+        "cardToAdd": 28
+    },
+    {
+        "timestamp": "84.03385",
+        "eventType": "EEpidemicInitiate",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "dialog": {
+            "Charlie": " All right."
+        }
+    },
+    {
+        "timestamp": "87.53387",
+        "eventType": "EIncreaseInfectionRate",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        }
+    },
+    {
+        "timestamp": "88.55054",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 0,
+        "dialog": {
+            "Alpha": " Maybe we lost already.  Let's get it. Be moving.",
+            "Bravo": " Thank you.",
+            "Charlie": " Yeah.",
+            "Delta": " oh no"
+        }
+    },
+    {
+        "timestamp": "94.05055",
+        "eventType": "EIntensify",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        }
+    },
+    {
+        "timestamp": "98.05058",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 15
+    },
+    {
+        "timestamp": "103.5506",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 22
+    },
+    {
+        "timestamp": "109.0507",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "dialog": {
+            "Alpha": " No, but we don't lose if there are four cubes. They have to spread three times. Then we lose. That's fine. You see what I mean.  Thank you.",
+            "Bravo": " Okay.  Maybe I could go to Copenhagen and then to Hamburg and go home.  Right. Should I bring some of you or not?",
+            "Charlie": " Yeah, but we get one of the  That's good. Yeah.  You can also bring the friend if you want.",
+            "Delta": " Go to...  Thank you.  Grazie."
+        }
+    },
+    {
+        "timestamp": "134.8175",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Alpha": " Yeah, bring Adriano. Adriano will clean one for you on the flight.",
+            "Bravo": " Okay."
+        }
+    },
+    {
+        "timestamp": "137.1675",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Fly",
+        "dialog": {
+            "Alpha": " Ah, Amber, what's your fly's thingy? That's not...  Yeah, okay. Then just go by yourself.  But exactly, exactly. So that's not your ability. Your ability is another one.",
+            "Bravo": " Yeah, but it's not asking me to bring other people. Yeah, but it's just not asking me. It should, but it's not.",
+            "Charlie": " In Copenhagen, yeah. He's true, actually.",
+            "Delta": " But Adriana will stay in Copenhagen.  so you will not cure anything.  No.  Is she?  Because then anyone can fly with the cards, so that is not your power.  So maybe you need to press some other button."
+        }
+    },
+    {
+        "timestamp": "167.0343",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "170.3677",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Alpha": " which is fly.  Okay.  Maybe.",
+            "Charlie": " Thank you.",
+            "Delta": " or  Maybe."
+        }
+    },
+    {
+        "timestamp": "176.3677",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Fly",
+        "dialog": {
+            "Alpha": " And not...  What's written there? What's written there? If you look. Follow me.  Thank you.  Okay.",
+            "Bravo": " maybe it is like this pilot then I should fly pilot then I should fly to Copenhagen  No.  No. Yeah, but you may take  Yeah, one other poem we use. So maybe it's something like this.",
+            "Charlie": " Mm-hmm.  Maybe he asks you later.  you may think,",
+            "Delta": " No.  Do you need something to be able to do that?  Thank you."
+        }
+    },
+    {
+        "timestamp": "195.9012",
+        "eventType": "PFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "flyFrom": 13,
+        "flyTo": 7,
+        "dialog": {
+            "Alpha": " I mean, it's fine. Don't, don't, don't.  Just move.",
+            "Bravo": " Nope. Nope. Okay.  So now I can go to Hamburg.",
+            "Charlie": " Thank you.  Okay.  And you also discarded the card.",
+            "Delta": " Or not.  Thank you."
+        }
+    },
+    {
+        "timestamp": "209.9513",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " moved to Hamburg and",
+            "Delta": " It's okay. So now you can fly to Hamburg or walk or whatever."
+        }
+    },
+    {
+        "timestamp": "213.7013",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "newCity": 18,
+        "oldCity": 7,
+        "numberOfActionsSpent": 1,
+        "dialog": {
+            "Alpha": " Tout.",
+            "Charlie": " Twice. Yeah.",
+            "Delta": " and cure that. You can cure two"
+        }
+    },
+    {
+        "timestamp": "215.718",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Bravo": " Yeah.",
+            "Delta": " So that's good enough."
+        }
+    },
+    {
+        "timestamp": "219.0013",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "city": 18,
+        "virusName": "Blue",
+        "dialog": {
+            "Charlie": " Press again."
+        }
+    },
+    {
+        "timestamp": "221.4013",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "222.6847",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "city": 18,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "222.7014",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 3,
+        "dialog": {
+            "Alpha": " a posto"
+        }
+    },
+    {
+        "timestamp": "224.468",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 24,
+        "dialog": {
+            "Bravo": " Okay.",
+            "Charlie": " Grazie."
+        }
+    },
+    {
+        "timestamp": "226.2347",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 18,
+        "dialog": {
+            "Bravo": "",
+            "Charlie": " I'm"
+        }
+    },
+    {
+        "timestamp": "231.7347",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 1,
+        "dialog": {
+            "Alpha": " No.",
+            "Charlie": " Oh.",
+            "Delta": " before you leave you can cure another one."
+        }
+    },
+    {
+        "timestamp": "237.2348",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "dialog": {
+            "Alpha": " I know. Bye.  Not now.  Uh...  So we could cure Lisbon or not, and cure Glasgow.  You have to?  the song.  Just kill Glasgow. I don't know.  Thank you.  you  But we lose cards. We need cards.  One, two, three, four.  Thank you.  Okay, do that. Okay, you do that.  Yes.  Okay, then do that.",
+            "Bravo": " Yeah, but I didn't get why I couldn't take the call. Like, should I ask?  Thank you.  Yeah, but maybe it was too much so that he can't go to Moscow.  Yeah, but then...  Thank you.  And then you can do it. ",
+            "Charlie": " I'll show you.  The problem is also  I have barsock.  Yeah.  No.  I can go actually to Moscow and do one.  No, I can go by foot.  I can go by foot. One, two, three, four. Two, one.  Yeah, but then I'm in charge of these plates. And then you can cure glass burns.  And you can go to the link.",
+            "Delta": " Yeah, I don't know.  Thank you.  Thank you.  But that's not really useful right now.  far so.  I think we'll actually go to school.  Let's discuss.  Merci.  You lose two, but then you can cure two. Don't you cure like one free one?  Oh, cute one.  Okay.  Yeah, I do."
+        }
+    },
+    {
+        "timestamp": "300.5685",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "301.6185",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " Just  Why not?  Okay.",
+            "Charlie": " Uh-huh. Okay.  Why not?"
+        }
+    },
+    {
+        "timestamp": "309.4352",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "newCity": 0,
+        "oldCity": 13,
+        "numberOfActionsSpent": 4
+    },
+    {
+        "timestamp": "309.4519",
+        "eventType": "PContainSpecialistRemoveWhenEntering",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "city": 0,
+        "cubeRemoved": "Red"
+    },
+    {
+        "timestamp": "309.4686",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 12,
+        "dialog": {
+            "Charlie": " Exactly."
+        }
+    },
+    {
+        "timestamp": "311.2352",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 0,
+        "dialog": {
+            "Alpha": " You also got Rome.",
+            "Bravo": " Rome."
+        }
+    },
+    {
+        "timestamp": "312.9852",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 5,
+        "dialog": {
+            "Bravo": " Yeah.",
+            "Charlie": " I got home.  Two cards."
+        }
+    },
+    {
+        "timestamp": "318.4853",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 0,
+        "dialog": {
+            "Bravo": " Call to move your eyes.",
+            "Charlie": " Watch it again."
+        }
+    },
+    {
+        "timestamp": "323.9853",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "dialog": {
+            "Alpha": " I got Amsterdam.  Yes.",
+            "Bravo": " It's playing.",
+            "Charlie": " Thank you.  That's good.",
+            "Delta": " Okay. Well, that's good.  Um...  So then I can go to Lisbon."
+        }
+    },
+    {
+        "timestamp": "334.2187",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Delta": " Thank you."
+        }
+    },
+    {
+        "timestamp": "337.3687",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "newCity": 15,
+        "oldCity": 13,
+        "numberOfActionsSpent": 2
+    },
+    {
+        "timestamp": "340.2521",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Delta": " Making treats."
+        }
+    },
+    {
+        "timestamp": "344.6354",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "345.4354",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "city": 15,
+        "virusName": "Yellow"
+    },
+    {
+        "timestamp": "347.3188",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Bravo": " Okay."
+        }
+    },
+    {
+        "timestamp": "348.3521",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "city": 15,
+        "virusName": "Yellow"
+    },
+    {
+        "timestamp": "348.3687",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 10,
+        "dialog": {
+            "Alpha": " Okay.",
+            "Delta": " Okay."
+        }
+    },
+    {
+        "timestamp": "350.1188",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 4,
+        "dialog": {
+            "Alpha": " Super nice."
+        }
+    },
+    {
+        "timestamp": "351.8855",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "cityToInfect": 13
+    },
+    {
+        "timestamp": "357.3855",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "cityToInfect": 4,
+        "dialog": {
+            "Bravo": " I'm a general. You should know. It's a new law.",
+            "Charlie": " you  Sounds like Jenna."
+        }
+    },
+    {
+        "timestamp": "362.8855",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "dialog": {
+            "Bravo": " Yeah, yeah.  It's true.",
+            "Charlie": "",
+            "Delta": " Yeah."
+        }
+    },
+    {
+        "timestamp": "372.4023",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " No.",
+            "Bravo": " Thank you.  Are you going to do it? Yeah, let's go.",
+            "Delta": " So maybe Glasgow?"
+        }
+    },
+    {
+        "timestamp": "382.019",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " God bless you.  \u0414\u043e \u0432\u0441\u0442\u0440\u0435\u0447\u0438!"
+        }
+    },
+    {
+        "timestamp": "385.669",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 22,
+        "oldCity": 20,
+        "numberOfActionsSpent": 2
+    },
+    {
+        "timestamp": "388.0523",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Bravo": ""
+        }
+    },
+    {
+        "timestamp": "391.2024",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "city": 22,
+        "virusName": "Blue"
+    },
+    {
+        "timestamp": "392.3524",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Alpha": " No, no, no, no. I don't know if I want to do this. I think I want to go there.",
+            "Charlie": " Very good."
+        }
+    },
+    {
+        "timestamp": "397.6024",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Bravo": " So..."
+        }
+    },
+    {
+        "timestamp": "402.5858",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 21,
+        "oldCity": 22,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "402.6191",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 18
+    },
+    {
+        "timestamp": "404.3691",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 21,
+        "dialog": {
+            "Alpha": " because this can't get the effect, right? Because I am...",
+            "Charlie": " Yeah, exactly.",
+            "Delta": " because this can get into the section, right?"
+        }
+    },
+    {
+        "timestamp": "406.1191",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 6,
+        "dialog": {
+            "Alpha": "  Huh.",
+            "Bravo": " Oh my god.",
+            "Charlie": " Oh, you got four.",
+            "Delta": ""
+        }
+    },
+    {
+        "timestamp": "411.6192",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 12,
+        "dialog": {
+            "Alpha": " I don't need another one, I have four, it's fine. I'll go and cure.",
+            "Charlie": " Now you're poor.  Thank you.",
+            "Delta": " Does any, no one has another?  Oh, you have four, right. Okay, good."
+        }
+    },
+    {
+        "timestamp": "417.1192",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "dialog": {
+            "Alpha": " yeah yeah in time in time in time  What are you?  Hey Bucharest, I think you could go to Bucharest. Where are you? Somewhere here, right?  ha, more, 2 sub 2 karesta,  We need to figure out her ability to fly.",
+            "Bravo": " So now you can put it.  Okay.  So what can I do now?  And that's it.  yeah i have cultural realizes which player may immediately drop to two dry pair reactions  you  Yeah.",
+            "Charlie": " Yeah, exactly. You can go back to Geneva. And cure also.  Where are you now? What are your cards? Hopefully, they are good.  I think you can also wait to use that.  You can cure.  Thank you.  Why book it as...",
+            "Delta": " Nice.  you  Thank you.  I have a question.  Gracias.  She's in this Hamburg.  Thank you.  We need to figure out how to do this.  Mm-hmm."
+        }
+    },
+    {
+        "timestamp": "459.0861",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "460.9528",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Alpha": " How can she fly? Rihanna, can you read that? Also, I can't read."
+        }
+    },
+    {
+        "timestamp": "467.8695",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Bravo": " Apply to any city within two connections of your city. Skip any cities in between.  you may take one other poem with you.",
+            "Delta": " you"
+        }
+    },
+    {
+        "timestamp": "473.2195",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Fly",
+        "dialog": {
+            "Alpha": " OK, so you should just do flight.  Then it doesn't work.",
+            "Bravo": " Yes.  Yeah, I couldn't. No, no.",
+            "Charlie": " Last time she threw a card. Yeah, it doesn't work.",
+            "Delta": " No, porque es ten..."
+        }
+    },
+    {
+        "timestamp": "481.0529",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "481.8196",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Delta": " no try to click on the card and then on like a place that you want to go to like"
+        }
+    },
+    {
+        "timestamp": "486.4863",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 5,
+        "dialog": {
+            "Alpha": " Bravo. Bravo.",
+            "Bravo": " Okay.  Okay, Trevor, no. Okay.",
+            "Delta": " Oh, you see? And now you can probably...  Thank you."
+        }
+    },
+    {
+        "timestamp": "494.7363",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Alpha": " Excuse me.  Yes, but next turn they may be  this turn, there might be other ads, right?  We can take the risk. I don't know.  No, just go by yourself.",
+            "Bravo": " Thank you.  Okay, so where could I go now?  Moscow.  Okay.  Okay.  Okay, so should I go?",
+            "Charlie": " I can take care of our children. So they can go through those. And kill them.  I'm the next one.  I'm the next one.  I can't do.",
+            "Delta": " Okay.  I think we should do something about Moscow, because one more and we're done.  Yes.  Where are you? Oh, because you're... Right, okay. You can do two. But then what if... Yeah.  I think you should go to Moscow.  No, we already have enough people."
+        }
+    },
+    {
+        "timestamp": "526.9199",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Bravo": " Should I go to Moscow and cure Moscow? OK, should I take somebody else's women or no? OK. OK. So.",
+            "Delta": " And then Moscow."
+        }
+    },
+    {
+        "timestamp": "532.0032",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 5,
+        "dialog": {
+            "Alpha": " So just, no, it's just, first you need to go here. Then can she go directly here?",
+            "Bravo": " No.  Wait.",
+            "Delta": " No, why?"
+        }
+    },
+    {
+        "timestamp": "537.5533",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Alpha": " Okay. Okay. Cool.",
+            "Charlie": " She's fine.",
+            "Delta": " If she clicks on it."
+        }
+    },
+    {
+        "timestamp": "540.4532",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Bravo": " E state buoni!",
+            "Delta": " No, no, I did just a bit. Okay, then maybe not."
+        }
+    },
+    {
+        "timestamp": "544.72",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Bravo": " No.  Wait."
+        }
+    },
+    {
+        "timestamp": "548.27",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Charlie": " But Moscow is not connected."
+        }
+    },
+    {
+        "timestamp": "550.0034",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Bravo": " Yeah, okay.",
+            "Delta": " But it's every two connections. Oh, no, so like one, two, and then two. All right."
+        }
+    },
+    {
+        "timestamp": "554.3367",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 5,
+        "dialog": {
+            "Alpha": " Only one. Yes.",
+            "Bravo": " Thank you.",
+            "Charlie": " She can skip only two.",
+            "Delta": " Yeah."
+        }
+    },
+    {
+        "timestamp": "561.8534",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 17,
+        "dialog": {
+            "Bravo": " Yes. Do you want me to take somebody? Wait.",
+            "Delta": ""
+        }
+    },
+    {
+        "timestamp": "564.7867",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 5
+    },
+    {
+        "timestamp": "565.0034",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 5,
+        "dialog": {
+            "Alpha": " Yes. No. There is no one. But there needs to be someone with her, otherwise she cannot bring it with her. So, go on.  Just play Yes.  Thank you.",
+            "Bravo": " \u0412\u043e\u0442.  Oh.  No, mira, chiss\u00e0 se le astrughe.  Oh.  Okay, because there's need to be.",
+            "Delta": " We don't want anyone in our barstow.  Oh, right. That's why it doesn't ask.  That makes sense.  You can take anyone with you because there's no one with you.  But there's nothing to select."
+        }
+    },
+    {
+        "timestamp": "592.4536",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 5,
+        "otherPlayer": null,
+        "dialog": {
+            "Alpha": " Now, should I do...  If you just want to move, now she can fly again, right?  So  Yeah, exactly. So you can queue and fly again. Or just one fly per time.  Okay, just...  Yes.",
+            "Bravo": " Okay. Now, should I cure Warsaw or should I go to Moscow and cure from Moscow?  Yeah.  Yeah, yeah, I can.  Thank you.  No, I can't cure one, then I'm gonna get one other fly and I can cure one.  Okay.",
+            "Charlie": " So it's one, three. One, two, three, four.  She can cure and walk through your fear.  I don't know.",
+            "Delta": " Alright, you're in Barso, and now...  Because you wasted one. Yeah.  She can. But if she  No, ci scelgevo."
+        }
+    },
+    {
+        "timestamp": "619.8538",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Alpha": " Yes.",
+            "Charlie": " Mm-hmm.",
+            "Delta": " Yeah, yeah, because then Adriano can cure the rest."
+        }
+    },
+    {
+        "timestamp": "622.3704",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "city": 5,
+        "virusName": "Red"
+    },
+    {
+        "timestamp": "624.4705",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Bravo": " So I'm going to do this. Then I'm going to"
+        }
+    },
+    {
+        "timestamp": "626.8538",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 0,
+        "dialog": {
+            "Bravo": " Like, there.",
+            "Delta": " Yes."
+        }
+    },
+    {
+        "timestamp": "630.7205",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 0,
+        "otherPlayer": null,
+        "dialog": {
+            "Alpha": " Okay, so now because you're at Moscow,  No, share would mean to share still time.  Then, OK. No, no, no, no. Just treat it.",
+            "Bravo": " Yes. And then share.  Yes.  No, I have Bucharest.  But we hope.",
+            "Charlie": " share  Try to share.  Try to share.",
+            "Delta": " It's no treats.  Oh, shit.  Thank you.  I am  Okay.  But..."
+        }
+    },
+    {
+        "timestamp": "650.504",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Alpha": " you will lose an action. Post.",
+            "Bravo": " Okay.",
+            "Delta": " treats because then you will lose a turn and she won't be able to treat"
+        }
+    },
+    {
+        "timestamp": "652.204",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "city": 0,
+        "virusName": "Red"
+    },
+    {
+        "timestamp": "652.2206",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 15,
+        "dialog": {
+            "Alpha": " Okay."
+        }
+    },
+    {
+        "timestamp": "653.9706",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 27,
+        "dialog": {
+            "Charlie": " Maybe it asks you to share something.",
+            "Delta": " Thank you."
+        }
+    },
+    {
+        "timestamp": "655.7206",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 21,
+        "dialog": {
+            "Alpha": " Yes, Moscow with you.",
+            "Bravo": " Okay, I have another car here.",
+            "Charlie": " Ah, she gains Moscow.",
+            "Delta": " Yes.  Tchau."
+        }
+    },
+    {
+        "timestamp": "661.2206",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 2,
+        "dialog": {
+            "Charlie": " means",
+            "Delta": " Thank you.  Thank you."
+        }
+    },
+    {
+        "timestamp": "666.7207",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "dialog": {
+            "Alpha": " Now, for instance, you can  which was this chart.  OK, share, chart.  I mean, just...  I think like clean one of these, then go here, walk, and get clean, and then you just do.",
+            "Bravo": " Resource planning. Look at the range and return the top four cards of the player's deck.  Sure.   What's  We can probably ask.",
+            "Charlie": " Yeah.  I can do a math section. Because I don't know.  Thank you.  What?",
+            "Delta": " soon  Okay, now we'll do something.  Vielen Dank.  charter so it would probably to get right with her.  But you can probably, I don't know.  you  Thank you."
+        }
+    },
+    {
+        "timestamp": "696.6876",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Charlie": " Yeah.",
+            "Delta": " Obrigado.  \u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435 \u0441\u043b\u0435\u0434\u0443\u0435\u0442..."
+        }
+    },
+    {
+        "timestamp": "702.421",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "city": 0,
+        "virusName": "Red"
+    },
+    {
+        "timestamp": "704.3043",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " Or if you come to Minsk, maybe. OK, yes. Clean this, go this way, and I will give you Minsk. If I can.",
+            "Bravo": " Thank you."
+        }
+    },
+    {
+        "timestamp": "707.0043",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "newCity": 1,
+        "oldCity": 0,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "707.021",
+        "eventType": "PContainSpecialistRemoveWhenEntering",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "city": 1,
+        "cubeRemoved": "Red",
+        "dialog": {
+            "Charlie": " Maybe clear some. Exactly.",
+            "Delta": ""
+        }
+    },
+    {
+        "timestamp": "708.671",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " Yes, if you clear out one, then you go to me, or you"
+        }
+    },
+    {
+        "timestamp": "710.321",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "newCity": 2,
+        "oldCity": 1,
+        "numberOfActionsSpent": 1,
+        "dialog": {
+            "Alpha": " because there had to be two. So now you can treat it.",
+            "Bravo": " Thank you.",
+            "Charlie": " Indeed and clear.",
+            "Delta": " you"
+        }
+    },
+    {
+        "timestamp": "717.421",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Alpha": " Okay?"
+        }
+    },
+    {
+        "timestamp": "719.7544",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "city": 2,
+        "virusName": "Red"
+    },
+    {
+        "timestamp": "719.771",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 13,
+        "dialog": {
+            "Alpha": " Nice."
+        }
+    },
+    {
+        "timestamp": "721.5211",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 26
+    },
+    {
+        "timestamp": "723.2711",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 16,
+        "dialog": {
+            "Alpha": " What are you?",
+            "Charlie": " Always.",
+            "Delta": " I'm home"
+        }
+    },
+    {
+        "timestamp": "728.7711",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 14,
+        "dialog": {
+            "Charlie": " Thank you."
+        }
+    },
+    {
+        "timestamp": "734.2711",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "dialog": {
+            "Alpha": " Hmm.  Thank you.  That's your turn, right?  but you can't get any more cards so we should try I don't know we should try if you go to for instance, can you go to some, where's the other yellow one?  Now they are all so far. Because I don't know if you go to a place you can get this card directly.  Like, you could try and, like,  go here to Geneva.  and see if you can get the card.  I'm not sure about that.  Knife, she goes. He goes,  Bye.  I'll meet you there.  Because you need just one other color, right? So you are the biologist.",
+            "Bravo": " you  Yeah, exactly. You have three yellows. So...  Thank you.  Thank you.  Obrigado.  Thank you.  Thank you.  Thank you.",
+            "Charlie": " I got three yellows, actually.  Thank you.  It's too far.  Sophia.  Oggi Niva.  Yeah, if they go to Geneva, yes.  Yeah.  I mean, I could be in Geneva, actually.  I can meet you there.  You find the cure.",
+            "Delta": " Thank you.  so oh okay yes you have three yellows i have two where are you  Thank you.  Thank you.  Um, Athens?  Thank you.  I don't know.  like you could try and like,  We'll be right back.  Thank you.  Thank you.  If he goes to Geneva, no, we need to be in the same one.  Thank you.  But then what would I do with a Geneva card? It's better...  Oh, uh, right. Then I can do that. Okay. That makes sense."
+        }
+    },
+    {
+        "timestamp": "806.4049",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "contextButtonSelected": "CloseButton",
+        "dialog": {
+            "Alpha": " move to Madrid",
+            "Delta": " So I move."
+        }
+    },
+    {
+        "timestamp": "809.8049",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Bravo": " Gracias.",
+            "Charlie": " can also cure something with it.",
+            "Delta": " Yeah, maybe you already talked to him about it."
+        }
+    },
+    {
+        "timestamp": "812.5716",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " Yeah, maybe Cure Lisbon, which is the farthest one to reach.",
+            "Bravo": " Thank you.",
+            "Charlie": " Yeah, exactly.",
+            "Delta": " Okay."
+        }
+    },
+    {
+        "timestamp": "813.9216",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "817.4883",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "city": 15,
+        "virusName": "Yellow",
+        "dialog": {
+            "Alpha": " Ok, 1, then you go to Madrid.",
+            "Delta": " Okay."
+        }
+    },
+    {
+        "timestamp": "820.4883",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " Just go to Geneva. Yeah, just maybe. No.  you",
+            "Bravo": " Madrid or Geneva?  One, two, three.  you  Okay, cure Madrid.",
+            "Charlie": " No, we...  One, two, three. Okay, yeah. Pure also Madrid.",
+            "Delta": " And then I can cure Madrid.  No, because I have three left. Then I go, if I, wait, if I go to Madrid, yeah."
+        }
+    },
+    {
+        "timestamp": "833.4384",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "newCity": 14,
+        "oldCity": 15,
+        "numberOfActionsSpent": 1,
+        "dialog": {
+            "Bravo": ""
+        }
+    },
+    {
+        "timestamp": "835.8884",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Treat"
+    },
+    {
+        "timestamp": "836.7217",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "city": 14,
+        "virusName": "Yellow"
+    },
+    {
+        "timestamp": "838.8051",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Delta": " Treat. Okay. And then move."
+        }
+    },
+    {
+        "timestamp": "840.7385",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "newCity": 13,
+        "oldCity": 14,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "840.7551",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "epidemicPopped": true,
+        "cardToAdd": 28
+    },
+    {
+        "timestamp": "840.7718",
+        "eventType": "EEpidemicInitiate",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "dialog": {
+            "Alpha": " Well done.",
+            "Bravo": " Epidemic.",
+            "Delta": " Okay."
+        }
+    },
+    {
+        "timestamp": "844.2718",
+        "eventType": "EIncreaseInfectionRate",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        }
+    },
+    {
+        "timestamp": "845.2885",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "cityToInfect": 19,
+        "dialog": {
+            "Bravo": " No, I think it's the first one.  Hey, keep calm.",
+            "Charlie": " Again.",
+            "Delta": " Oh.  The level of the dead."
+        }
+    },
+    {
+        "timestamp": "850.7885",
+        "eventType": "EIntensify",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "dialog": {
+            "Alpha": " No, no, that's just the level of epidemic. That's just the level of epidemic. Maximum is four, but we are still at level one. So we are good.",
+            "Charlie": " Okay, now."
+        }
+    },
+    {
+        "timestamp": "854.7885",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 11
+    },
+    {
+        "timestamp": "856.5385",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "cityToInfect": 6,
+        "dialog": {
+            "Alpha": " No, but this is the level of everything.",
+            "Bravo": " I don't know yet, sir.",
+            "Charlie": " Yeah, you have a cure.  Yeah."
+        }
+    },
+    {
+        "timestamp": "862.0386",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "cityToInfect": 18,
+        "dialog": {
+            "Charlie": " We really need the blue",
+            "Delta": " Okay, I already have it. I don't need you anymore."
+        }
+    },
+    {
+        "timestamp": "867.5386",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "cityToInfect": 21,
+        "dialog": {
+            "Alpha": " I'm getting sick.  I have the blue cure, don't worry.",
+            "Bravo": " Yeah.",
+            "Charlie": " If you have the blue...",
+            "Delta": " He has four, so you go to the Geneva."
+        }
+    },
+    {
+        "timestamp": "873.0386",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "dialog": {
+            "Alpha": " I'm going to go to Geneva.  What's the character?  I will just go to Geneva.",
+            "Charlie": " Okay.",
+            "Delta": " Bye.  Thank you."
+        }
+    },
+    {
+        "timestamp": "880.4553",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "883.0887",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 13,
+        "oldCity": 21,
+        "numberOfActionsSpent": 2
+    },
+    {
+        "timestamp": "884.6887",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "FindCure",
+        "dialog": {
+            "Charlie": " Thank you."
+        }
+    },
+    {
+        "timestamp": "891.5221",
+        "eventType": "PCureDisease",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "curedDisease": "Blue",
+        "dialog": {
+            "Alpha": " Chao.  I have just one action left.  Wait, wait, let me think, let me think.  I don't know, but wait, can there be also other...  blow cubes now, don't remember. There can be other cubes.",
+            "Bravo": " I can do one, two.  Yeah.",
+            "Charlie": " Good. And now you can go to Amstel.  I know you have one much.  Maybe you can go to Paris.  But the cure is for everybody.  She can fly it.  1, 2, 3, 4.  Yeah, that means that we'll be in ICO.",
+            "Delta": " Yas!  Oh, we really should take care of that.  Where is...  Oh. No, but she's super far away. Oh, but she can go one...  what  Thank you.  Grazie.  Mm-hmm."
+        }
+    },
+    {
+        "timestamp": "929.239",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " Okay, so we'll move here.  No, just in Paris. But then Amsterdam can be infected. No, no, no.",
+            "Charlie": " Thank you.  Now to Paris. He has one action.  Yeah, it's the outbreak of Amsterdam.",
+            "Delta": " Oh, you can go to, yeah, you can go to Amsterdam.  Oh, oh."
+        }
+    },
+    {
+        "timestamp": "944.8724",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "newCity": 20,
+        "oldCity": 13,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "944.9224",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 22
+    },
+    {
+        "timestamp": "946.6891",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 1,
+        "dialog": {
+            "Charlie": " Glasgow."
+        }
+    },
+    {
+        "timestamp": "948.4391",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 5,
+        "dialog": {
+            "Alpha": " Okay, next time I will go to Glasgow and give you Glasgow so you can find out.",
+            "Bravo": " Okay, so I'll share it with you now.",
+            "Charlie": " or so",
+            "Delta": " Thank you.  Okay."
+        }
+    },
+    {
+        "timestamp": "953.9391",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 13
+    },
+    {
+        "timestamp": "959.4391",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "QuarantineSpecialist",
+            "name": "Alpha"
+        },
+        "cityToInfect": 2,
+        "dialog": {
+            "Bravo": " Thank you.  card",
+            "Charlie": " You can also use a card.",
+            "Delta": " I think you should try and go to one of the blue ones to do something about it.  Thank you."
+        }
+    },
+    {
+        "timestamp": "964.9392",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "dialog": {
+            "Alpha": " Yeah, blue card. Ah, no, yes. What are these special cards?  action  Thank you.  Thoughts we are almost losing.  which is the capacity of the Internet.  Thank you.  Okay, no.  No, but you need a blue one. You can't do this.  Three plus two?  I think she needs a blue one. No? Okay. Then you don't need this.  Yeah, but we only have like five. We don't, I guess. It's like...  number of cards to be picked.  Then game over.  Let's see. I think one, maybe.  Okay.  Thank you.  We just fly to Warsaw, queue Warsaw, go to Stockholm, queue Stockholm, that's it.  Okay, then going to Hamburg and Kiram.  Right.  No, no, we have not yet. OK, no, it's correct. OK, just, OK, just, OK, no, no, no. OK, if I go here, then you fly here, you go here, you go here, you go there. That's it.  Bueno, entonces...  One, two. One, two. You can fly.  That's two moves, you could do everything, you could do there.  means Benoit can't. Why? She can fly.  Ah. Oh, that's pretty good.  Just drop the card.  We'll have one more.  or  Thank you.  We need the red one.   Thank you.  Okay, replant the cards.",
+            "Bravo": " yeah like one each player may immediately yeah one card is each player may immediately drop to two drive very options  I dream.  actions then i have forecast which is look at the range look at rearrange and return the top six cards of the infection deck  Thank you.  ok and then I have resource planning which is look at rearrange and return to top four cards of the player deck  Thank you.  Thank you.  Yeah. Two plus two.  Yeah, but I mean, like, I can use these ones whenever I want.  Okay, I should probably get more in the center so I could go to Borsa and kill Borsa.  Yeah.  Thank you.  Merci.  Okay, should I use this one?  But I mean, those ones, I can always use them. Not just in my church. I can use whenever I want.  Then I could use this one.  \u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435 \u0441\u043b\u0435\u0434\u0443\u0435\u0442...  Well, I'm in. I'm in.  No, I can't call him.  was a spy.  Oh, okay, yeah. Okay, I could go.  One.  Okay, so maybe if we use this, could I use this one?  Okay.  I mean, I could probably go to your place.  Wait, where are you? You're in the . Okay. So.  No, I was thinking that maybe I could come to you, share  Share this book to you.  No, no, we need y'all to be on the same page.  Oh, I know some of these. Oh, okay.  Yeah.  Thank you.  Thank you.  Thank you.  Thank you.  The player.  Thank you.",
+            "Charlie": " because you are reaching the limit of cards.  actions, not steps. Ah, no, great.  could use that one to give me one yellow and then  I know.  He goes,  Yeah, yeah, sure. Why not?  I've  Why the blue one?  Really.  Depends.  I mean, if you move...  But you could use this one to move, to gain two steps, you and him to cure, for instance.  Like the two, three steps for everybody, right?  Because you have to spend one card at least. Because otherwise you have to throw it out.  In English terms...  Yeah, exactly.  But, yeah.  Because if you step into this, for instance, you immediately cure everything. We have the cure. We don't have the cure.  We have the cure.  Yes, she has to spend another card.  She has to spend one time.  because she is reaching the limit of cards in the hand.  That's why I was saying, also this one, if you plan to have one car that is good for us,  I am here.  you can't turn this morning means you have to be in this   and  We need the red ones.  You can plant me to pick a rat.  Actually.  Yeah. If you,  the one with the stock. Yeah, this is plenty.  No, that's...  You're welcome.",
+            "Delta": " Thank you.  action  that  And then I have the first one, which is, go back to the ArrangeMX.com.  Thank you.  for the cards on the player set.  I already have the others.  Also,  Why do I need a blue one? Why do I need a blue one?  Thank you.  How do we get more of these?  And then so and how many of these do we draw when  are done.  So then we have five more people that can play.  Thank you.  Thank you.  Thank you.  you have to spend one time  Just pray for us.  But then what if something comes up in these ones?  Thank you.  Thank you.  We have the other one.   Thank you.  That's two minutes.   Thank you.  Thank you.  I mean, I could probably go to your place.  Wait, where are you?  What is that garden?  shirt  Thank you.  You need to be.  And yeah, it's the same one and the one in the car. But also Lisbon is the yellow one. We don't really need him to have four yellows. We need him to have four reds. Or any one.  Thank you.  Thank you.  Okay."
+        }
+    },
+    {
+        "timestamp": "1227.941",
+        "eventType": "GEventCardClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "eventName": "Resource Planning",
+        "eventID": "27",
+        "dialog": {
+            "Alpha": " Do you want to replant cards? Okay, replant the cards. So you will get the yellow one second. You will use some cards. You will get the yellow one.",
+            "Bravo": " Okay.  Okay.  \u0414\u043e \u0441\u0432\u0438\u0434\u0430\u043d\u0438\u044f.",
+            "Charlie": " Yellow. The red ones.",
+            "Delta": ""
+        }
+    },
+    {
+        "timestamp": "1235.557",
+        "eventType": "PResourcePlanningCardPlayed",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cardsToSort": [
+            16,
+            23,
+            14,
+            28
+        ],
+        "dialog": {
+            "Alpha": " and now we have just one card.  Yes? OK, I think now we can fly there and clear everything.  No.  Okay. Swipe them.  Oh, they're good.  and then we have already that we don't need this which doesn't need that  Thank you.",
+            "Bravo": " Okay, but now I can choose something.  Thank you.  and that was   Yeah, exactly.",
+            "Charlie": " Resource planning means that you plan the  No, we don't have one. She actually has to...  and there was an issue with this black okay this one comes forth okay because otherwise  Maybe you can give me a yellow one. I use a yellow. I use a red.",
+            "Delta": " I know we have just one card.  Oh, no.   Okay.   Okay."
+        }
+    },
+    {
+        "timestamp": "1277.358",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "contextButtonSelected": "RightArrowButton",
+        "dialog": {
+            "Alpha": " Yeah, yeah, yeah, yeah. Because for you, it's much closer. But now you will get the next one, right?  So you..."
+        }
+    },
+    {
+        "timestamp": "1281.474",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "contextButtonSelected": "LeftArrowButton",
+        "dialog": {
+            "Bravo": " Thank you.",
+            "Charlie": " Ah, wait. I mean, she's not going to have any wasted energy.",
+            "Delta": " Thank you."
+        }
+    },
+    {
+        "timestamp": "1284.641",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "contextButtonSelected": "LeftArrowButton",
+        "dialog": {
+            "Alpha": " You can give it, no, because now the first one will go to you, right? Once you finish the...  She can get that one.  I mean, then, okay, just let's go here and take this out. And then, I don't know.  Muchas gracias.",
+            "Bravo": " you know  Yeah, but it's not that we get to do that. Because there is no red.  Okay, you gave me that Madrid, right?  No, I'm getting...  Thank you.  I'm not sure I have.  I think, okay.",
+            "Charlie": " Yeah, but she's not getting the red one. Because there is no red one. We have to be in the red one to get the red one.  Okay, you gave me Madrid, right?  Are you getting my dream?  That's cool.  Yeah, yeah, yeah, yeah. Sure. Okay, maybe you can get also a card that",
+            "Delta": " Okay.  Maybe you can get a little bit harder."
+        }
+    },
+    {
+        "timestamp": "1321.208",
+        "eventType": "PResourcePlanning",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "topPlayerCards": [
+            14,
+            23,
+            16,
+            28
+        ],
+        "dialog": {
+            "Alpha": " Okay, done.  Yeah, exactly. I'll just go there.  Yes. Yes.",
+            "Bravo": " No, no, no, I still have the four actions left. Okay, so what should I do now? Should I go to Volkswagen Q? No, I should go to Hamburg. Hamburg.",
+            "Charlie": " not cure",
+            "Delta": "  No, no, no. I still have to do four hours. Yeah, yeah, I got it. Okay.  Thank you. "
+        }
+    },
+    {
+        "timestamp": "1336.641",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Bravo": " Thank you.  Okay.",
+            "Charlie": " Yeah, but Hamburg is not an actual city.",
+            "Delta": " Thank you."
+        }
+    },
+    {
+        "timestamp": "1342.608",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 5,
+        "dialog": {
+            "Bravo": " Thank you.",
+            "Charlie": " Hamburg is durable with no action."
+        }
+    },
+    {
+        "timestamp": "1348.308",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 5,
+        "otherPlayer": null,
+        "dialog": {
+            "Alpha": " Yes.  No, no. Yeah, yes.  OK, thank you, Varsav.  reactions",
+            "Bravo": " Now should I cure Warsaw or go to Hamburg and core Hamburg?  you  Thank you.  Yeah.",
+            "Charlie": " These weren't cures without action.  Because we have the vaccine. What's that?  The.",
+            "Delta": " Thank you.  Mm-hmm."
+        }
+    },
+    {
+        "timestamp": "1364.358",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Alpha": " Then we go also to Glasgow.",
+            "Bravo": " Thank you.",
+            "Charlie": " Sure. We choose one action left.",
+            "Delta": " No, but she will... Wait. Yeah, no, but she just did one action. Another action. And then she will also have to go to Amsterdam."
+        }
+    },
+    {
+        "timestamp": "1369.642",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 18,
+        "dialog": {
+            "Alpha": " I don't know.",
+            "Bravo": " Right?",
+            "Charlie": " You should accept it.",
+            "Delta": " So there's one. Okay, so then she.  I don't know."
+        }
+    },
+    {
+        "timestamp": "1374.392",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 18,
+        "otherPlayer": null,
+        "dialog": {
+            "Alpha": " cure, you need to treat, yes you don't go there",
+            "Bravo": " okay so now i should cure so all of the blue are gonna disappear",
+            "Delta": " I just cure?"
+        }
+    },
+    {
+        "timestamp": "1381.642",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Alpha": " Yes.",
+            "Delta": " Hopefully."
+        }
+    },
+    {
+        "timestamp": "1383.742",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "city": 18,
+        "virusName": "Blue",
+        "dialog": {
+            "Alpha": " But you see, that's an action. Now you only have one left.  So just...  Stay there. It's okay.  I would go before her. Like, maybe she's going to go to Stockholm or something.",
+            "Bravo": " okay now i just got one left so where do i go now  Merci.  Okay, yeah.",
+            "Charlie": " Good.  That's how anyone as Amsterdam.",
+            "Delta": " Bye.  Thank you.  Well, if she can just go to Amsterdam.  because then she's already there.  Why will she waste an option?  Thank you."
+        }
+    },
+    {
+        "timestamp": "1405.609",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "actionSelected": "CharacterAction",
+        "dialog": {
+            "Alpha": " Okay.",
+            "Bravo": " Yeah, I can go to Amsterdam. I can go to Amsterdam.",
+            "Delta": " Oh. "
+        }
+    },
+    {
+        "timestamp": "1409.242",
+        "eventType": "GCityClicked",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityID": 19,
+        "dialog": {
+            "Alpha": " Okay, goes on.",
+            "Charlie": " You can fly whenever you want actually."
+        }
+    },
+    {
+        "timestamp": "1412.542",
+        "eventType": "PPilotFlyToCity",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "pilotCitySelected": 19,
+        "otherPlayer": null
+    },
+    {
+        "timestamp": "1412.559",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 14,
+        "dialog": {
+            "Alpha": " Thank you.",
+            "Bravo": " I think we'll talk."
+        }
+    },
+    {
+        "timestamp": "1414.309",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 23
+    },
+    {
+        "timestamp": "1416.059",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 16,
+        "dialog": {
+            "Alpha": " No, it's okay.",
+            "Charlie": " Pr\u00e1tica."
+        }
+    },
+    {
+        "timestamp": "1421.559",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 0,
+        "dialog": {
+            "Charlie": " Okay."
+        }
+    },
+    {
+        "timestamp": "1427.059",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "Pilot",
+            "name": "Bravo"
+        },
+        "cityToInfect": 19,
+        "dialog": {
+            "Charlie": " Okay.",
+            "Delta": " Oh, no. Yep. There we go."
+        }
+    },
+    {
+        "timestamp": "1432.559",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "dialog": {
+            "Alpha": " We also sold the card.  Wow.  Okay.  Yes, but apparently there is not, so.  Okay, now it's Adriano's turn.  The current players are  Okay. Good.",
+            "Bravo": " you  Thank you.  Thank you.  Yeah, but we can use those ones in any moment. I mean, like, I could use mine, but now it's too... Yeah, yeah, yeah. Maybe it's a turn.",
+            "Charlie": " There was nothing.  No, we didn't see this one. We didn't see the forecast.  Let's meet.  This turn we need one key for each city the current players  Right.  That's like me.  You sure about that?  You can see.",
+            "Delta": " But then...  There was supposed to go one to Amsterdam.  Wasn't there supposed to be one more enough to them?  Yay. Good.  Thank you.  All right.  Okay. Yeah, but we can... That's like..."
+        }
+    },
+    {
+        "timestamp": "1474.759",
+        "eventType": "GEventCardClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "eventName": "Call to Mobilize",
+        "eventID": "24",
+        "dialog": {
+            "Alpha": " You have six cards though, right?",
+            "Bravo": " Yeah, I can use this one whenever.  Yeah, and you too, and yeah.",
+            "Charlie": " Perfect. So I won't use it now.",
+            "Delta": " Yeah. "
+        }
+    },
+    {
+        "timestamp": "1482.759",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "contextButtonSelected": "CloseButton",
+        "dialog": {
+            "Alpha": " the red ones  Thank you.  Thank you.  Okay.  Um.  I'm here.  They didn't go because I was there. That's why. They can't spread close to me.  I need the purpose.  So I guess.  Yeah, yeah, just go. Good. Thank you.  Yes.  So you go one,  One, two, three, four. OK, you do that. OK, nice.  Which card?  Yeah, that's why I said use  OK, but then if you lose the red one, use that one and do this one.  Yes, but if you use that one, then you will not see it.  Los varsity practices.  okay, but if we lose Varsav, it's also useful.  I'll bet. Okay.  OK, go to Geneva. She doesn't do much in Geneva.  Okay, go there. Do that.  since you got that good.  Cheese.  And then she will... Okay, bye. Nice, bye.  Okay.",
+            "Bravo": " Thank you.  Thank you.  Thank you.  Thank you.  I will be back.   Wait, I mean...  Wait.  Thank you.  Wait.  Thank you.  Wait, but you could go to the beach and share a...  Ja nikogo odpuszczy\u0142am.  Yeah, I mean, she will have to find the cure for the yellow. \u3054\u8996\u8074\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f  Gracias.",
+            "Charlie": " Thank you.  Yeah, we need the red ones the same.  Zach.  which would be one of us actually. Because we have two each.  He's in the blue part.  Maybe.  Okay, so I guess I can go all around.  Otomatis.  I count one, two, three, four. Perfect. Because that's not an action.  I will lose a card.  I don't know. One kind.  because that's the limit of cards.  No, this one doesn't matter. This one is like for you to be like me.  is not useful because you can't move.  I can choose.  I have Geneva.  Yes, she's not going to lose the red ones that we need.  You sure you got it?  Because I can give you my Jesus.  And then you don't lose these ones that we need.",
+            "Delta": " the red ones  Thank you.  So you have all the limit of cards, but he doesn't. So you can't. Where are you?  Oh, you're here. And you're here.  Good job.  So you...  And then you should maybe end in Varso or something, because it's kind of in between the two of you. So then you can give him Varso.  It's not an action. Okay.  Okay.  How will you lose one card?  This one doesn't have this one. Like, they're going to be like, you use that one.  Thank you.  Okay, but you just lost it.  Wait.   I have to move on.  Grazie.  Yes. She is not going to lose her head. I mean, she will have...  Thank you.  Thank you.  What are you doing in Geneva?  Oh, okay. That makes sense. Mm-hmm."
+        }
+    },
+    {
+        "timestamp": "1619.993",
+        "eventType": "GContextButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "contextButtonSelected": "CloseButton"
+    },
+    {
+        "timestamp": "1622.243",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move"
+    },
+    {
+        "timestamp": "1626.327",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "newCity": 5,
+        "oldCity": 2,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "1626.343",
+        "eventType": "PContainSpecialistRemoveWhenEntering",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "city": 5,
+        "cubeRemoved": "Red",
+        "dialog": {
+            "Alpha": " Okay.",
+            "Charlie": " I'll wait."
+        }
+    },
+    {
+        "timestamp": "1627.843",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Alpha": " Bye."
+        }
+    },
+    {
+        "timestamp": "1630.393",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "newCity": 16,
+        "oldCity": 5,
+        "numberOfActionsSpent": 1
+    },
+    {
+        "timestamp": "1630.41",
+        "eventType": "PContainSpecialistRemoveWhenEntering",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "city": 16,
+        "cubeRemoved": "Blue",
+        "dialog": {
+            "Alpha": " Okay. Super nice.  One Geneva, the other one is which cards?",
+            "Bravo": " Yeah.",
+            "Charlie": " Oh, I can't.  God bless you.  Thank you.",
+            "Delta": " Nice.  Switch cards."
+        }
+    },
+    {
+        "timestamp": "1641.343",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Bravo": " Yeah."
+        }
+    },
+    {
+        "timestamp": "1642.427",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "newCity": 13,
+        "oldCity": 16,
+        "numberOfActionsSpent": 1,
+        "dialog": {
+            "Charlie": " Clever boy."
+        }
+    },
+    {
+        "timestamp": "1644.193",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "actionSelected": "Share",
+        "dialog": {
+            "Alpha": " Sure.  You see, you can share. You just need to save the same spot to share cards.  Mm-hmm.  Okay.",
+            "Bravo": " Thank you.  Thank you.  you",
+            "Charlie": " I can share all of these ones.  What's going on here?",
+            "Delta": " Thank you.  No, because it should come automatically, actually. Because when I shared it with Francesca and the child, I didn't select it.  So."
+        }
+    },
+    {
+        "timestamp": "1660.66",
+        "eventType": "PShareKnowledge",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityId": 13,
+        "playerFrom": "ContainmentSpecialist",
+        "playerTo": "Virologist"
+    },
+    {
+        "timestamp": "1661.66",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 16,
+        "dialog": {
+            "Charlie": " Thank you.",
+            "Delta": " Oh, except card. Sorry."
+        }
+    },
+    {
+        "timestamp": "1663.427",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "epidemicPopped": true,
+        "cardToAdd": 28
+    },
+    {
+        "timestamp": "1663.443",
+        "eventType": "EEpidemicInitiate",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        }
+    },
+    {
+        "timestamp": "1666.943",
+        "eventType": "EIncreaseInfectionRate",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "dialog": {
+            "Delta": " Oh, we only have one. Oh, epidemic."
+        }
+    },
+    {
+        "timestamp": "1667.943",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 15,
+        "dialog": {
+            "Charlie": " Is that bad?",
+            "Delta": " oh no  It's not good."
+        }
+    },
+    {
+        "timestamp": "1673.443",
+        "eventType": "EIntensify",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "dialog": {
+            "Alpha": " We are covered. We are clear. We are clear.",
+            "Bravo": ""
+        }
+    },
+    {
+        "timestamp": "1677.443",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 19,
+        "dialog": {
+            "Charlie": " which is still the one",
+            "Delta": "  Okay."
+        }
+    },
+    {
+        "timestamp": "1682.944",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 16,
+        "dialog": {
+            "Alpha": " It's fine. No, but during the epidemic, no, it's fine.",
+            "Bravo": " Yeah, I'm going to cure later.  Thank you.",
+            "Charlie": " No, it's fine because we are all there.",
+            "Delta": " Thank you."
+        }
+    },
+    {
+        "timestamp": "1688.444",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 21,
+        "dialog": {
+            "Bravo": " Thank you.  Thank you.",
+            "Delta": " Thank you."
+        }
+    },
+    {
+        "timestamp": "1693.944",
+        "eventType": "EDrawInfectionCard",
+        "currentPlayer": {
+            "role": "ContainmentSpecialist",
+            "name": "Charlie"
+        },
+        "cityToInfect": 5,
+        "dialog": {
+            "Charlie": " ah, she's the, why Amsterdam didn't spread. She's not, so that's her job."
+        }
+    },
+    {
+        "timestamp": "1699.444",
+        "eventType": "PEndTurn",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "dialog": {
+            "Alpha": " No, no, no. I cannot go from one neighborhood with respect to where I am. That's why I was here.",
+            "Bravo": " Okay, so we are teaching now on the cure.",
+            "Charlie": " That's your job.",
+            "Delta": " why  Okay, so..."
+        }
+    },
+    {
+        "timestamp": "1706.694",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "FindCure",
+        "dialog": {
+            "Alpha": " this okay now it's your turn you cure everything"
+        }
+    },
+    {
+        "timestamp": "1710.294",
+        "eventType": "PCureDisease",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "curedDisease": "Yellow",
+        "dialog": {
+            "Alpha": " Nice.  Then you go to Lisbon, I think. I think you're Lisbon, maybe.  Three more. So just say one, two, and then you're cute.",
+            "Bravo": " Thank you.  Okay, so now we just need to find the...",
+            "Charlie": " Thank you.",
+            "Delta": " Thank you.  national hero.  Okay, so then I have three, so one, two, keyword."
+        }
+    },
+    {
+        "timestamp": "1725.194",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Move",
+        "dialog": {
+            "Charlie": "\u86db court"
+        }
+    },
+    {
+        "timestamp": "1729.044",
+        "eventType": "PMoveEvent",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "newCity": 15,
+        "oldCity": 13,
+        "numberOfActionsSpent": 2,
+        "dialog": {
+            "Bravo": " tree"
+        }
+    },
+    {
+        "timestamp": "1731.527",
+        "eventType": "GActionButtonClicked",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "actionSelected": "Treat",
+        "dialog": {
+            "Delta": " and treat."
+        }
+    },
+    {
+        "timestamp": "1732.277",
+        "eventType": "PTreatDisease",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "city": 15,
+        "virusName": "Yellow"
+    },
+    {
+        "timestamp": "1732.294",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": 20
+    },
+    {
+        "timestamp": "1734.044",
+        "eventType": "PDealCard",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "epidemicPopped": false,
+        "cardToAdd": -1
+    },
+    {
+        "timestamp": "1734.061",
+        "eventType": "EGameOver",
+        "currentPlayer": {
+            "role": "Virologist",
+            "name": "Delta"
+        },
+        "reason": "NoMorePlayerCards"
+    }
+]

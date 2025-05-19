@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 87388beb9914c9b42a9a4fafb0365290
+timeCreated: 1515971902
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Post Processing Profiles/FlatPoly
+    Board Game Assets.asset
+  uploadId: 226932

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 44cd1ed9f9cd1914088a969a4e59b367
+timeCreated: 1517178907
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Spaces/space_circle_purple.prefab
+  uploadId: 226932

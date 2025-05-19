@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 42bc7d3be9a45534183d6ceb55be1cc1
+timeCreated: 1517178499
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Markers/marker_C_black.prefab
+  uploadId: 226932

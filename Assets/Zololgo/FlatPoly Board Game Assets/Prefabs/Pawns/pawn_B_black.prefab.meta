@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e98367579c6da9643962c7d8a082433e
+timeCreated: 1517178748
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Pawns/pawn_B_black.prefab
+  uploadId: 226932

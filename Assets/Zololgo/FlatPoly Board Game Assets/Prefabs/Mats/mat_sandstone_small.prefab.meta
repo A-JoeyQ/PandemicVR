@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ac93d0efee518e4e81944e524498ef2
+timeCreated: 1517178590
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85330
+  packageName: 'FlatPoly: Board Game Assets'
+  packageVersion: 1.0
+  assetPath: Assets/Zololgo/FlatPoly Board Game Assets/Prefabs/Mats/mat_sandstone_small.prefab
+  uploadId: 226932
