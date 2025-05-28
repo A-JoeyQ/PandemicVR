@@ -26,6 +26,9 @@ public class FaceTrackingLogger : MonoBehaviour
     private float interval = 0.1f;
     private float timer = 0f;
 
+    private bool warnedNoFaceExpressions = false;
+    private bool warnedTrackingDisabled = false;
+    private bool warnedInvalidExpressions = false;
     void Start()
     {
         faceExpressions = GetComponent<OVRFaceExpressions>();
@@ -43,24 +46,40 @@ public class FaceTrackingLogger : MonoBehaviour
 
     void Update()
     {
-       
         if (faceExpressions == null)
+        {
+            if (!warnedNoFaceExpressions)
             {
                 Debug.LogWarning("FaceExpressions is null");
-                return;
+                warnedNoFaceExpressions = true;
             }
+            return;
+        }
 
         if (!faceExpressions.FaceTrackingEnabled)
         {
-            Debug.LogWarning("Face Tracking not enabled");
+            if (!warnedTrackingDisabled)
+            {
+                Debug.LogWarning("Face Tracking not enabled");
+                warnedTrackingDisabled = true;
+            }
             return;
         }
 
         if (!faceExpressions.ValidExpressions)
         {
-            Debug.LogWarning("Face Expressions invalid");
+            if (!warnedInvalidExpressions)
+            {
+                Debug.LogWarning("Face Expressions invalid");
+                warnedInvalidExpressions = true;
+            }
             return;
         }
+
+        // 重置标志位（因为当前一切正常）
+        warnedNoFaceExpressions = false;
+        warnedTrackingDisabled = false;
+        warnedInvalidExpressions = false;
 
         timer += Time.deltaTime;
         if (timer >= interval)
@@ -68,8 +87,39 @@ public class FaceTrackingLogger : MonoBehaviour
             timer = 0f;
             RecordDataPoint();
         }
-        // Tracking is valid here
     }
+    /*  void Update()
+      {
+
+          if (faceExpressions == null)
+              {
+                  Debug.LogWarning("FaceExpressions is null");
+                  return;
+              }
+
+
+          if (!faceExpressions.FaceTrackingEnabled)
+              {
+
+                  Debug.LogWarning("Face Tracking not enabled");
+                  return;
+
+              }
+
+          if (!faceExpressions.ValidExpressions)
+          {
+              Debug.LogWarning("Face Expressions invalid");
+              return;
+          }
+
+          timer += Time.deltaTime;
+          if (timer >= interval)
+          {
+              timer = 0f;
+              RecordDataPoint();
+          }
+          // Tracking is valid here
+      }*/
 
     void RecordDataPoint()
     {
@@ -107,60 +157,60 @@ public class FaceTrackingLogger : MonoBehaviour
         Debug.Log($"[FaceTrackingLogger] Data saved: {filePath}");
     }
 
-   /* void SaveToCsv()
-    {
-        string csvPath = filePath.Replace(".json", ".csv");
+    /* void SaveToCsv()
+     {
+         string csvPath = filePath.Replace(".json", ".csv");
 
-        if (dataPoints.Count == 0 || dataPoints[0].expressionWeights.Count == 0)
-        {
-            Debug.LogWarning("[FaceTrackingLogger] No data to save to CSV.");
-            return;
-        }
+         if (dataPoints.Count == 0 || dataPoints[0].expressionWeights.Count == 0)
+         {
+             Debug.LogWarning("[FaceTrackingLogger] No data to save to CSV.");
+             return;
+         }
 
-        using (StreamWriter writer = new StreamWriter(csvPath))
-        {
-           
-            writer.Write("timeStamp");
-            foreach (var expr in dataPoints[0].expressionWeights)
-            {
-                writer.Write($",{expr.name}");
-            }
-            writer.WriteLine();
+         using (StreamWriter writer = new StreamWriter(csvPath))
+         {
 
-            
-            foreach (var point in dataPoints)
-            {
-                writer.Write($"{point.timeStamp}");
-                foreach (var expr in point.expressionWeights)
-                {
-                    writer.Write($",{expr.value}");
-                }
-                writer.WriteLine();
-            }
-        }
-
-        Debug.Log($"[FaceTrackingLogger] CSV saved in matrix format: {csvPath}");
-    }*/
+             writer.Write("timeStamp");
+             foreach (var expr in dataPoints[0].expressionWeights)
+             {
+                 writer.Write($",{expr.name}");
+             }
+             writer.WriteLine();
 
 
-   /* void SaveToCsv()
-    {
-        string csvPath = filePath.Replace(".json", ".csv");
+             foreach (var point in dataPoints)
+             {
+                 writer.Write($"{point.timeStamp}");
+                 foreach (var expr in point.expressionWeights)
+                 {
+                     writer.Write($",{expr.value}");
+                 }
+                 writer.WriteLine();
+             }
+         }
 
-        using (StreamWriter writer = new StreamWriter(csvPath))
-        {
+         Debug.Log($"[FaceTrackingLogger] CSV saved in matrix format: {csvPath}");
+     }*/
 
-            writer.Write("timeStamp,expressionName,value\n");
 
-            foreach (var point in dataPoints)
-            {
-                foreach (var expr in point.expressionWeights)
-                {
-                    writer.WriteLine($"{point.timeStamp},{expr.name},{expr.value}");
-                }
-            }
-        }
+    /* void SaveToCsv()
+     {
+         string csvPath = filePath.Replace(".json", ".csv");
 
-        Debug.Log($"[FaceTrackingLogger] CSV saved: {csvPath}");
-    }*/
+         using (StreamWriter writer = new StreamWriter(csvPath))
+         {
+
+             writer.Write("timeStamp,expressionName,value\n");
+
+             foreach (var point in dataPoints)
+             {
+                 foreach (var expr in point.expressionWeights)
+                 {
+                     writer.WriteLine($"{point.timeStamp},{expr.name},{expr.value}");
+                 }
+             }
+         }
+
+         Debug.Log($"[FaceTrackingLogger] CSV saved: {csvPath}");
+     }*/
 }
