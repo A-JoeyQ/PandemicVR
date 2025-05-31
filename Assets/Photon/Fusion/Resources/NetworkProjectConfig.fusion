@@ -64,7 +64,8 @@
         "Fusion.Addons.Physics",
         "Fusion.Addons.FSM",
         "Meta.XR.MultiplayerBlocks.Fusion",
-        "PhotonVoice.Fusion"
+        "PhotonVoice.Fusion",
+        "Meta.XR.Movement.Networking.Fusion"
     ],
     "UseSerializableDictionary": true,
     "NullChecksForNetworkedProperties": true,
