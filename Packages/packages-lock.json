@@ -1,18 +1,5 @@
 {
   "dependencies": {
-    "com.meta.movement": {
-      "version": "file:D:/Study/Unity/UnityProject/Unity-Movement-5.2.1",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "com.meta.xr.sdk.core": "63.0.0",
-        "com.meta.xr.sdk.interaction": "63.0.0",
-        "com.meta.xr.sdk.interaction.ovr": "63.0.0",
-        "com.unity.textmeshpro": "3.0.6",
-        "com.unity.animation.rigging": "1.2.1",
-        "com.unity.burst": "1.4.1"
-      }
-    },
     "com.meta.xr.mrutilitykit": {
       "version": "76.0.1",
       "depth": 1,
@@ -106,6 +93,16 @@
         "com.meta.xr.sdk.interaction": "76.0.1"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.sdk.movement": {
+      "version": "file:../Otherasset/Unity-Movement-main",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.burst": "1.8.18",
+        "com.unity.textmeshpro": "3.0.6",
+        "com.unity.ugui": "1.0.0"
+      }
     },
     "com.meta.xr.sdk.platform": {
       "version": "76.0.0",
@@ -232,16 +229,6 @@
       "source": "registry",
       "dependencies": {
         "com.unity.modules.ai": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.animation.rigging": {
-      "version": "1.3.0",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.burst": "1.4.1",
-        "com.unity.test-framework": "1.1.24"
       },
       "url": "https://packages.unity.com"
     },
