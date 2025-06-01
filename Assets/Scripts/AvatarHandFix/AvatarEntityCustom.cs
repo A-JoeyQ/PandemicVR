@@ -127,6 +127,7 @@ namespace Meta.XR.MultiplayerBlocks.Shared
                 _creationInfo.features = CAPI.ovrAvatar2EntityFeatures.Preset_Default;
                 var entityInputManager = OvrAvatarManager.Instance.gameObject.GetComponent<EntityInputManager>();
                 SetBodyTracking(entityInputManager);
+                //SetFaceTracking(entityInputManager); //0601
                 var lipSyncInput = FindObjectOfType<OvrAvatarLipSyncContext>();
                 SetLipSync(lipSyncInput);
                 gameObject.name = "LocalAvatar";
