@@ -15,6 +15,18 @@ public class AutoFaceTrackingAttacher : MonoBehaviour
         if (localEntity == null || !localEntity.IsLocal) return;
 
         var faceTracking = localEntity.GetComponent<OvrAvatarFaceTrackingBehaviorOvrPlugin>();
+        var eyeTracking = localEntity.GetComponent<OvrAvatarEyeTrackingBehaviorOvrPlugin>();
+
+        if (eyeTracking == null)
+        {
+            eyeTracking = localEntity.gameObject.AddComponent<OvrAvatarEyeTrackingBehaviorOvrPlugin>();
+            Debug.Log("已挂载 EyeTracking 组件");
+        }
+
+        localEntity.SetEyePoseProvider(eyeTracking);
+        Debug.Log("已设置 EyePoseProvider");
+
+
         if (faceTracking == null)
         {
             faceTracking = localEntity.gameObject.AddComponent<OvrAvatarFaceTrackingBehaviorOvrPlugin>();

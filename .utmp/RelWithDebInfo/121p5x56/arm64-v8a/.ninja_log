@@ -1,12 +1,12 @@
 # ninja log v5
-796	1690	7704359817502840	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	50cb3c363d0964d
-1692	2657	7704359826273879	D:/Study/Unity/UnityProject/PandemicVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/121p5x56/obj/arm64-v8a/libswappywrapper.so	a297edc7726c1a3b
-79	3407	7704359835375063	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fa7b5a6d1928389b
-136	3546	7704359837001718	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	312c2697316f96cd
-415	3724	7704359839174972	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3cf42812b243f84f
-478	3960	7704359841431757	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4b397bb0240062ee
-336	4039	7704359842317914	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6512749fa57c534d
-604	4278	7704359844785453	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c592153e60d8cc52
-1	4303	7704359844988465	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	13f041211f9b2131
-216	4333	7704359845279127	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d5cd4db39e92841d
-4333	4538	7704359847412024	D:/Study/Unity/UnityProject/PandemicVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/121p5x56/obj/arm64-v8a/libgame.so	471fec0df78dcf06
+255	420	7704935127227372	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	50cb3c363d0964d
+422	626	7704935128927643	D:/Study/Unity/UnityProject/PandemicVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/121p5x56/obj/arm64-v8a/libswappywrapper.so	a297edc7726c1a3b
+73	1144	7704935134397592	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	312c2697316f96cd
+0	1172	7704935134687781	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fa7b5a6d1928389b
+161	1190	7704935134880685	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6512749fa57c534d
+101	1195	7704935134916079	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3cf42812b243f84f
+222	1325	7704935136236641	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4b397bb0240062ee
+192	1363	7704935136598310	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c592153e60d8cc52
+42	1459	7704935137563925	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	13f041211f9b2131
+131	1468	7704935137615554	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d5cd4db39e92841d
+1469	1589	7704935138868510	D:/Study/Unity/UnityProject/PandemicVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/121p5x56/obj/arm64-v8a/libgame.so	471fec0df78dcf06
