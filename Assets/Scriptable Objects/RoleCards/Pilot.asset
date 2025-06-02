@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b95ba0e539c82364298972c9169b4bb3, type: 3}
   m_Name: Pilot
   m_EditorClassIdentifier: 
-  roleName: Pilot(Testing)
+  roleName: Pilot
   roleText: 'Action: Fly to any city within 2 connections of your city. Skip any
     cities in between. You may take 1 other pawn with you.'
   roleColor: {r: 0.34509805, g: 0.7882353, b: 0.88235295, a: 1}

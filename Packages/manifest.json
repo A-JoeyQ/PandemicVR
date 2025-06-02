@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.meta.movement": "file:D:/Study/Unity/UnityProject/Unity-Movement-5.2.1",
     "com.meta.xr.sdk.all": "65.0.0",
     "com.meta.xr.sdk.avatars": "24.1.1",
     "com.meta.xr.sdk.avatars.sample.assets": "24.1.1",

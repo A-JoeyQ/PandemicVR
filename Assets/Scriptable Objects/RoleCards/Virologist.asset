@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b95ba0e539c82364298972c9169b4bb3, type: 3}
   m_Name: Virologist
   m_EditorClassIdentifier: 
-  roleName: Virologist(Testing)
+  roleName: Virologist
   roleText: 'When you Discover a Cure, you may replace 1 required card with any 2
     other cards. Action: Once per turn, remove 1 cube matching the color of a card
     in your hand.'
