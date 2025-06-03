@@ -19,15 +19,15 @@ public class Player
     {
         [Description("Containment Specialist")]
         ContainmentSpecialist,
-
+/*
         [Description("Pilot")]
-        Pilot,
+        Pilot,*/
 
         [Description("Quarantine Specialist")]
         QuarantineSpecialist,
 
-        [Description("Virologist")]
-        Virologist
+/*        [Description("Virologist")]
+        Virologist*/
     };
 
     public int Position;
