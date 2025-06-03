@@ -223,7 +223,7 @@ public class PlayerGUI : MonoBehaviour
             case CardGUIStates.CardsExpanded:
             case CardGUIStates.CardsExpandedFlyActionToSelect:
             case CardGUIStates.CardsExpandedCureActionToSelect:
-            case CardGUIStates.CardsExpandedVirologistAction:
+            //case CardGUIStates.CardsExpandedVirologistAction:
                 EnableContextButtons(true, false, false, false, false, false);
                 break;
             
@@ -471,11 +471,11 @@ public class PlayerGUI : MonoBehaviour
                         charterAction = true;
                 }
 
-                if (PlayerModel.GetCurrentCityScript().CubesInCity() || (_player.Role == Player.Roles.Virologist
+/*                if (PlayerModel.GetCurrentCityScript().CubesInCity() || (_player.Role == Player.Roles.Virologist
                                                                          && !_player.secondRoleActionUsed))
                 {
                     treatAction = true;
-                }
+                }*/
 
                 if (ableToFindCure())
                     if (PlayerModel.GetCurrentCity() == game.InitialCityID)
@@ -509,7 +509,7 @@ public class PlayerGUI : MonoBehaviour
                 }
             }
 
-            if (_player.Role == Player.Roles.Virologist || _player.Role == Player.Roles.Pilot)
+/*            if (_player.Role == Player.Roles.Virologist || _player.Role == Player.Roles.Pilot)
             {
 
 
@@ -522,7 +522,7 @@ public class PlayerGUI : MonoBehaviour
                 {
                     roleAction = true;
                 }
-            }
+            }*/
         }
         Dictionary<string, string> result = new Dictionary<string, string>
         {
@@ -569,11 +569,11 @@ public class PlayerGUI : MonoBehaviour
                         charterAction = true;
                 }
 
-                if (PlayerModel.GetCurrentCityScript().CubesInCity() || (_player.Role == Player.Roles.Virologist 
+/*                if (PlayerModel.GetCurrentCityScript().CubesInCity() || (_player.Role == Player.Roles.Virologist 
                                                                          && !_player.secondRoleActionUsed)) 
                 {
                     treatAction = true;
-                }
+                }*/
 
                 if (ableToFindCure())
                     if (PlayerModel.GetCurrentCity() == game.InitialCityID)
@@ -664,18 +664,19 @@ public class PlayerGUI : MonoBehaviour
     {
         return (!game.RedCure && PlayerModel.RedCardsInHand.Count > 3) ||
                (!game.YellowCure && PlayerModel.YellowCardsInHand.Count > 3) ||
-               (!game.BlueCure && PlayerModel.BlueCardsInHand.Count > 3) ||
-               isVirologistAbleToCure();
+               (!game.BlueCure && PlayerModel.BlueCardsInHand.Count > 3);// ||
+              // isVirologistAbleToCure();
+
     }
 
-    private bool isVirologistAbleToCure()
+/*    private bool isVirologistAbleToCure()
     {
         return _player.Role == Player.Roles.Virologist && PlayerModel.CityCardsInHand.Count >= 5 && (
             (!game.RedCure && PlayerModel.RedCardsInHand.Count == 3) ||
             (!game.YellowCure && PlayerModel.YellowCardsInHand.Count == 3) ||
             (!game.BlueCure && PlayerModel.BlueCardsInHand.Count == 3)
         );
-    }
+    }*/
 
     #region Buttons
 
@@ -878,7 +879,7 @@ public class PlayerGUI : MonoBehaviour
 
             /*playersToShareGUI.Clear();*/
         }
-        else if (ActionSelected == ActionTypes.CharacterAction && PlayerModel.Role == Player.Roles.Pilot)
+/*        else if (ActionSelected == ActionTypes.CharacterAction && PlayerModel.Role == Player.Roles.Pilot)
         {
             if (pawnPilotSelected != null)
             {
@@ -888,7 +889,7 @@ public class PlayerGUI : MonoBehaviour
             {
                 Timeline.theTimeline.AddEvent(new PPilotFlyToCity(pilotCitySelected, null));
             }
-        }
+        }*/
     }
 
     private void DiscardButtonClicked()
@@ -959,7 +960,7 @@ public class PlayerGUI : MonoBehaviour
                 break;
             case 6: //character action
 
-                if (_player.Role == Player.Roles.Virologist || _player.Role == Player.Roles.Pilot)
+/*                if (_player.Role == Player.Roles.Virologist || _player.Role == Player.Roles.Pilot)
                 {
                     Debug.Log("Character action clicked: " + _player.Role);
                     bool enableAction = true;
@@ -979,7 +980,7 @@ public class PlayerGUI : MonoBehaviour
                         UpdateCardsState(CardGUIStates.None);
                         roleCardBackground.GetComponent<Outline>().enabled = true;
                     }
-                }
+                }*/
                 break;
 
             case 7: // End turn
@@ -1130,7 +1131,7 @@ public class PlayerGUI : MonoBehaviour
 
             Timeline.theTimeline.AddEvent(new PTreatDisease(city));
 
-        } else if (ActionSelected == ActionTypes.Treat && _player.Role == Player.Roles.Virologist 
+        }/* else if (ActionSelected == ActionTypes.Treat && _player.Role == Player.Roles.Virologist 
                    && _player.ActionsRemaining > 0 && city.CubesInCity() && !_player.secondRoleActionUsed) {
 
             Debug.Log("Treating City :", city);
@@ -1150,12 +1151,12 @@ public class PlayerGUI : MonoBehaviour
                 }
             }
 
-            /*Debug.Log("Red Cards in hand ? " + _player.RedCardsInHand.Any());
+            *//*Debug.Log("Red Cards in hand ? " + _player.RedCardsInHand.Any());
             Debug.Log("Yellow Cards in hand ? " + _player.YellowCardsInHand.Any());
-            Debug.Log("Blue Cards in hand ? " + _player.BlueCardsInHand.Any());*/
-        }
+            Debug.Log("Blue Cards in hand ? " + _player.BlueCardsInHand.Any());*//*
+        }*/
 
-        else if (ActionSelected == ActionTypes.CharacterAction && PlayerModel.Role == Player.Roles.Pilot)
+        /*else if (ActionSelected == ActionTypes.CharacterAction && PlayerModel.Role == Player.Roles.Pilot)
         {
             City cityToMoveTo = game.Cities[city.city.cityID];
             City cityToMoveFrom = game.Cities[_player.GetCurrentCity()];
@@ -1195,7 +1196,7 @@ public class PlayerGUI : MonoBehaviour
                 changeContextText();
             }
 
-        }
+        }*/
     }
 
     internal void CubeClicked(City city, VirusName virusName)
@@ -1206,7 +1207,7 @@ public class PlayerGUI : MonoBehaviour
             AudioPlayer.PlayClip(AudioPlayer.AudioClipEnum.CLICK);
             Timeline.theTimeline.AddEvent(new PTreatDisease(city, virusName));
         }
-        else if( ActionSelected == ActionTypes.Treat && _player.Role == Player.Roles.Virologist 
+/*        else if( ActionSelected == ActionTypes.Treat && _player.Role == Player.Roles.Virologist 
                                                      && _player.ActionsRemaining > 0 
                                                      && city.CubesInCity() 
                                                      && (!PlayerModel.secondRoleActionUsed))
@@ -1221,7 +1222,7 @@ public class PlayerGUI : MonoBehaviour
                     break;
                 }
             }
-        }
+        }*/
     }
 
     internal void PawnClicked(Pawn pawn)
@@ -1291,7 +1292,8 @@ public class PlayerGUI : MonoBehaviour
      */
     private bool AddCardAndTestForCure(CityCardDisplay cardClickedScript)
     {
-        bool isVirologist = PlayerModel.Role == Player.Roles.Virologist;
+        //bool isVirologist = PlayerModel.Role == Player.Roles.Virologist;
+        bool isVirologist = false;
         VirusName cardClickedVirusName = cardClickedScript.CityCardData.virusInfo.virusName;
 
         int cardID = cardClickedScript.CityCardData.cityID;
@@ -1801,7 +1803,7 @@ public class PlayerGUI : MonoBehaviour
         }
         else if (ActionSelected == ActionTypes.CharacterAction)
         {
-            if (PlayerModel.Role == Player.Roles.Virologist)
+            /*if (PlayerModel.Role == Player.Roles.Virologist)
                 additionalMessage += "Remove a cube";
             else if (PlayerModel.Role == Player.Roles.Pilot)
             {
@@ -1820,7 +1822,7 @@ public class PlayerGUI : MonoBehaviour
                         additionalMessage += "Travel <b>alone</b>?";
                     }
                 }
-            }
+            }*/
         }
 
         if (additionalMessage != "")
@@ -1883,7 +1885,7 @@ public enum CardGUIStates
     CardsExpandedFlyActionToSelect,
     CardsExpandedFlyActionSelected,
     CardsExpandedShareAction,
-    CardsExpandedVirologistAction,
+    //CardsExpandedVirologistAction,
     CardsExpandedCharterActionToSelect,
     CardsExpandedCureActionToSelect,
     CardsExpandedCureActionSelected,
