@@ -38,12 +38,20 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+<<<<<<< Updated upstream
+=======
+  m_IndirectSpecularColor: {r: 0.27125674, g: 0.24168938, b: 0.3101159, a: 1}
+>>>>>>> Stashed changes
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
+<<<<<<< Updated upstream
   serializedVersion: 13
   m_BakeOnSceneLoad: 0
+=======
+  serializedVersion: 12
+>>>>>>> Stashed changes
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -119,6 +127,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!1 &168388877
 GameObject:
   m_ObjectHideFlags: 0
@@ -277,6 +286,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a975a19ea46baf448b38e3a8b495351, type: 3}
+=======
+>>>>>>> Stashed changes
 --- !u!1 &305611635
 GameObject:
   m_ObjectHideFlags: 0
@@ -322,11 +333,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _creationInfo:
+<<<<<<< Updated upstream
     features: 382
     renderFilters:
       lodFlags: 31
       manifestationFlags: 2
       viewFlags: 3
+=======
+    features: 374
+    renderFilters:
+      lodFlags: -1
+      manifestationFlags: 2
+      viewFlags: -1
+>>>>>>> Stashed changes
       subMeshInclusionFlags: -1
       quality: 0
       reserved: 0000000000000000000000000000000000000000000000000000000000000000
@@ -337,7 +356,11 @@ MonoBehaviour:
   _bodyTracking: {fileID: 1181170960}
   _facePoseBehavior: {fileID: 1181170959}
   _eyePoseBehavior: {fileID: 1181170958}
+<<<<<<< Updated upstream
   _lipSync: {fileID: 307099418}
+=======
+  _lipSync: {fileID: 0}
+>>>>>>> Stashed changes
   _criticalJointTypes: 
   _useCriticalJointJobs: 0
   _debugDrawing:
@@ -385,6 +408,7 @@ MonoBehaviour:
   _autoCdnRetry: 1
   _autoCheckChanges: 0
   _changeCheckInterval: 8
+<<<<<<< Updated upstream
 --- !u!114 &307099418 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2430523750807860367, guid: c019572605bc29e42b3ed5a058599618, type: 3}
@@ -555,6 +579,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+=======
+>>>>>>> Stashed changes
 --- !u!1 &625919962
 GameObject:
   m_ObjectHideFlags: 0
@@ -588,6 +614,7 @@ Transform:
   - {fileID: 305611636}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!1 &778375652
 GameObject:
   m_ObjectHideFlags: 0
@@ -685,6 +712,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 23.6, y: 180, z: 0}
+=======
+>>>>>>> Stashed changes
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -820,7 +849,11 @@ LightingSettings:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Settings.lighting
+<<<<<<< Updated upstream
   serializedVersion: 9
+=======
+  serializedVersion: 8
+>>>>>>> Stashed changes
   m_EnableBakedLightmaps: 0
   m_EnableRealtimeLightmaps: 0
   m_RealtimeEnvironmentLighting: 1
@@ -845,7 +878,10 @@ LightingSettings:
   m_FilterMode: 1
   m_LightmapParameters: {fileID: 15204, guid: 0000000000000000f000000000000000, type: 0}
   m_ExportTrainingData: 0
+<<<<<<< Updated upstream
   m_EnableWorkerProcessBaking: 1
+=======
+>>>>>>> Stashed changes
   m_TrainingDataDestination: TrainingData
   m_RealtimeResolution: 2
   m_ForceWhiteAlbedo: 0
@@ -1072,11 +1108,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _creationInfo:
+<<<<<<< Updated upstream
     features: 382
     renderFilters:
       lodFlags: 31
       manifestationFlags: 2
       viewFlags: 3
+=======
+    features: 374
+    renderFilters:
+      lodFlags: -1
+      manifestationFlags: 2
+      viewFlags: -1
+>>>>>>> Stashed changes
       subMeshInclusionFlags: -1
       quality: 0
       reserved: 0000000000000000000000000000000000000000000000000000000000000000
@@ -1087,7 +1131,11 @@ MonoBehaviour:
   _bodyTracking: {fileID: 1181170960}
   _facePoseBehavior: {fileID: 1181170959}
   _eyePoseBehavior: {fileID: 1181170958}
+<<<<<<< Updated upstream
   _lipSync: {fileID: 307099418}
+=======
+  _lipSync: {fileID: 0}
+>>>>>>> Stashed changes
   _criticalJointTypes: 0f0000001d00000031000000
   _useCriticalJointJobs: 0
   _debugDrawing:
@@ -1153,6 +1201,7 @@ MonoBehaviour:
   rotationSpeed: 60
   _useKeyboardDebug: 1
   _clickForKeyboardDebug: 1
+<<<<<<< Updated upstream
 --- !u!1001 &2430523750576325525
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1214,10 +1263,13 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c019572605bc29e42b3ed5a058599618, type: 3}
+=======
+>>>>>>> Stashed changes
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+<<<<<<< Updated upstream
   - {fileID: 171261753}
   - {fileID: 168388879}
   - {fileID: 778375654}
@@ -1226,4 +1278,8 @@ SceneRoots:
   - {fileID: 1735107480}
   - {fileID: 482114167}
   - {fileID: 467760009}
+=======
+  - {fileID: 625919963}
+  - {fileID: 1735107480}
+>>>>>>> Stashed changes
   - {fileID: 1181170957}

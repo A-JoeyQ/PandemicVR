@@ -81,6 +81,7 @@ public class SampleInputManager : OvrAvatarInputManager
 #endif
             BodyTracking.InputControlDelegate = new SampleInputControlDelegate();
         }
+<<<<<<< Updated upstream
          // Ìí¼Ó FacePoseBehavior ÉèÖÃ
             
             var entity = GetComponent<OvrAvatarEntity>();
@@ -92,6 +93,8 @@ public class SampleInputManager : OvrAvatarInputManager
             }
 
          ///0601
+=======
+>>>>>>> Stashed changes
 #endif
     }
 
