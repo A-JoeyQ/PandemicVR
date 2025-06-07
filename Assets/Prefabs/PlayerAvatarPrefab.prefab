@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 4281457874427451281}
   - component: {fileID: 8569807889936701234}
   - component: {fileID: 7843489999753813516}
-  - component: {fileID: 4380376055638777388}
   m_Layer: 0
   m_Name: PlayerAvatarPrefab
   m_TagString: Untagged
@@ -102,15 +101,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _OculusId: 0
   _LocalAvatarIndex: 0
---- !u!114 &4380376055638777388
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 225697343597997363}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 852db897867e8a0418e5c20c10cb0cb2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
