@@ -80,7 +80,7 @@ public class MainMenu : MonoBehaviour
 
     public void localPlayerJoined()
     {
-        MultiplayerMenu.SetActive(true);
+        MultiplayerMenu.SetActive(false);
         MainMenuCanvas.SetActive(true);
     }
     public void playerJoined(){
