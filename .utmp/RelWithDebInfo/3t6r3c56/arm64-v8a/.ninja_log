@@ -1,11 +1,11 @@
 # ninja log v5
-0	804	7749042728165720	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fd6201dd78ff012f
-693	886	7749042729515708	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1e5c629ffc3d52ae
-96	1001	7749042730635485	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a3550bdfa8ec4723
-391	1195	7749042732583215	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6891adb1552e39f5
-493	1229	7749042732919327	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c526979c97404c14
-292	1310	7749042733714586	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	681838461cb3ab38
-886	1310	7749042732274334	D:/Study/Unity/UnityProject/PandemicVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3t6r3c56/obj/arm64-v8a/libswappywrapper.so	8666ddaf91361a63
-187	1339	7749042734007511	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	271d0b386725c256
-591	1410	7749042734708737	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e45ba48283704e1c
-1410	1775	7749042737073132	D:/Study/Unity/UnityProject/PandemicVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3t6r3c56/obj/arm64-v8a/libgame.so	867be92e797b5ed0
+1	1233	7749771429072061	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	271d0b386725c256
+144	1235	7749771428382114	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a3550bdfa8ec4723
+288	1236	7749771428649714	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fd6201dd78ff012f
+1072	1317	7749771430923409	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1e5c629ffc3d52ae
+607	1394	7749771431673727	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c526979c97404c14
+452	1541	7749771433102925	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	681838461cb3ab38
+757	1584	7749771433565492	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6891adb1552e39f5
+909	1782	7749771435527864	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e45ba48283704e1c
+1318	1850	7749771434615012	D:/Study/Unity/UnityProject/PandemicVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3t6r3c56/obj/arm64-v8a/libswappywrapper.so	8666ddaf91361a63
+1783	2286	7749771439001285	D:/Study/Unity/UnityProject/PandemicVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3t6r3c56/obj/arm64-v8a/libgame.so	867be92e797b5ed0
