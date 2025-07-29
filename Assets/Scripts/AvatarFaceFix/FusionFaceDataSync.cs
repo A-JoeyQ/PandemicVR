@@ -33,27 +33,41 @@ public class FusionFaceDataSync : NetworkBehaviour
     public override void Spawned()
     {
         _avatarEntity = GetComponent<OvrAvatarEntity>();
+        if (_avatarEntity != null)
+        {
+            // 订阅骨骼加载完成事件
+            _avatarEntity.OnSkeletonLoadedEvent.AddListener(OnAvatarSkeletonLoaded);
+        }
+        else
+        {
+            Debug.LogError("OvrAvatarEntity not found on this object!");
+        }
+    }
 
+    // 这是新的方法，包含了原来 Spawned 中的所有设置逻辑
+    private void OnAvatarSkeletonLoaded(OvrAvatarEntity entity)
+    {
+        // 取消订阅，防止意外的重复调用
+        entity.OnSkeletonLoadedEvent.RemoveListener(OnAvatarSkeletonLoaded);
+
+        // --- 现在，在这里执行我们原来的设置逻辑 ---
         if (Object.HasInputAuthority)
         {
-            // --- This is the LOCAL player ---
-            Debug.Log("Local avatar spawned. Setting up for face data RECORDING.");
-            // We need OVRFaceExpressions to read the local hardware data.
+            // --- 这是本地玩家 ---
+            Debug.Log("本地化身骨骼加载完毕。设置面部数据【录制】模式。");
             _localFaceExpressions = gameObject.AddComponent<OVRFaceExpressions>();
         }
         else
         {
-            // --- This is a REMOTE player ---
-            Debug.Log("Remote avatar spawned. Setting up for face data PLAYBACK.");
-            // Add the behavior component that will apply the received data.
+            // --- 这是远程玩家 ---
+            Debug.Log("远程化身骨骼加载完毕。设置面部数据【播放】模式。");
             _networkedPoseBehavior = gameObject.AddComponent<NetworkedFacePoseBehavior>();
-            // Tell the avatar entity to use our custom behavior as its data source.
-            _avatarEntity.SetFacePoseProvider(_networkedPoseBehavior);
+            _avatarEntity.SetFacePoseProvider(_networkedPoseBehavior); // 在这里设置，时机更晚、更安全
 
-            // Initialize buffers for receiving data.
             _remoteFaceWeights = new float[(int)CAPI.ovrAvatar2FaceExpression.Count];
         }
     }
+
 
     public override void FixedUpdateNetwork()
     {
@@ -101,6 +115,7 @@ public class FusionFaceDataSync : NetworkBehaviour
 
                 // 4. Feed the float[] into our custom provider on the remote avatar.
                 var provider = _networkedPoseBehavior.FacePoseProvider as NetworkedFacePoseProvider;
+                Debug.Log($"准备为 {gameObject.name} 应用数据，Provider是否存在: {provider != null}");
                 provider?.ReceiveFaceData(_remoteFaceWeights);
             }
         }
