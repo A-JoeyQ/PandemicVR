@@ -139,6 +139,8 @@ namespace Meta.XR.MultiplayerBlocks.Shared
             }
         }
 
+
+
         private void LoadAvatar()
         {
             if (_avatarBehaviour.OculusId == 0)

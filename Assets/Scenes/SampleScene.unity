@@ -35394,6 +35394,7 @@ GameObject:
   - component: {fileID: 1146102219}
   - component: {fileID: 1146102218}
   - component: {fileID: 1146102222}
+  - component: {fileID: 1146102224}
   - component: {fileID: 1146102223}
   m_Layer: 0
   m_Name: AvatarSDK
@@ -35590,6 +35591,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0e0330898740b1e4ca2071e639e5ecbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1146102224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1146102216}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a95044baf65b10c4e89b246d2f881ac9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1147136404
