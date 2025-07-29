@@ -1,5 +1,6 @@
 using Oculus.Avatar2;
-
+using UnityEngine;
+using System;
 /// <summary>
 /// A plain C# class that acts as a custom face data source for remote avatars.
 /// It receives expression weights from the network.
@@ -27,6 +28,7 @@ public class NetworkedFacePoseProvider : OvrAvatarFacePoseProviderBase
     /// </summary>
     protected override bool GetFacePose(OvrAvatarFacePose facePose)
     {
+        Debug.Log($"SDK正在向 {this.GetHashCode()} 这个Provider取数据！_hasReceivedData: {_hasReceivedData}");
         if (_hasReceivedData)
         {
             // This is the correct way to apply data, based on the source code you provided:
