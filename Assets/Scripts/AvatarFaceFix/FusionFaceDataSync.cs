@@ -100,62 +100,73 @@ public class FusionFaceDataSync : NetworkBehaviour
     /// <summary>
     /// 由Fusion在每个网络“滴答”(tick)时调用。非常适合发送数据。
     /// </summary>
+    /// <summary>
+    /// 由Fusion在每个网络“滴答”(tick)时调用。
+    /// </summary>
     public override void FixedUpdateNetwork()
     {
-        // 只有拥有输入权限的本地玩家才需要发送数据。
+        // 只有拥有输入权限的本地玩家才需要采集和发送数据。
         if (Object.HasInputAuthority)
         {
-            // 确保数据采集器有效
             if (_localFaceExpressions != null && _localFaceExpressions.ValidExpressions)
             {
                 // 1. 从硬件读取数据到浮点数缓冲区
                 _localFaceExpressions.CopyTo(_localFaceWeights, 0);
 
-                // 2. 将浮点数数组序列化（转换）为字节数组
+                // --- BEGIN CHANGE ---
+                // 2.【本地驱动】立即将数据应用到本地Avatar，实现即时反馈
+                var provider = _networkedPoseBehavior.FacePoseProvider as NetworkedFacePoseProvider;
+                if (provider != null)
+                {
+                    provider.ReceiveFaceData(_localFaceWeights);
+                }
+                // --- END CHANGE ---
+
+                // 3. 将浮点数数组序列化（转换）为字节数组
                 var bytes = MarshalFloatArray(_localFaceWeights);
                 if (bytes != null)
                 {
-                    // 3. 将字节数组和其长度写入到[Networked]属性中，Fusion会自动将这些变化同步给其他客户端。
+                    // 4. 将字节数组写入到[Networked]属性中，Fusion会自动同步给其他客户端。
                     FaceDataLength = bytes.Length;
                     FaceData.CopyFrom(bytes, 0, bytes.Length);
-                    // 取消下面这行注释可以进行高频日志轰炸，用于精细调试
-                    // Debug.Log($"[{gameObject.name}] SENDING > 发送面部数据，长度: {bytes.Length}");
                 }
             }
         }
     }
 
     /// <summary>
-    /// 由Fusion在每一帧渲染前调用。非常适合应用视觉上的更新。
+    /// 由Fusion在每一帧渲染前调用。
     /// </summary>
     public override void Render()
     {
-        // 这段逻辑现在对【所有】玩家（本地和远程）都执行，以实现网络回环。
+        // --- BEGIN CHANGE ---
+        // 这段逻辑现在只对【远程玩家】执行。本地玩家的驱动已在FixedUpdateNetwork中完成。
+        if (Object.HasInputAuthority)
+        {
+            return; // 如果是本地玩家，直接退出
+        }
+        // --- END CHANGE ---
+
         if (FaceDataLength > 0 && _networkedPoseBehavior != null && _avatarEntity != null)
         {
-            // 强制设置Provider，以对抗其他脚本的覆盖，确保我们的数据通道始终畅通。
+            // (The rest of your Render method is perfect and can stay the same)
             _avatarEntity.SetFacePoseProvider(_networkedPoseBehavior);
 
-            // 确保我们的字节缓冲区大小是正确的
             if (_remoteFaceBytes == null || _remoteFaceBytes.Length != FaceDataLength)
             {
                 _remoteFaceBytes = new byte[FaceDataLength];
             }
 
-            // 从[Networked]属性中读取数据到我们的字节缓冲区
             for (int i = 0; i < FaceDataLength; ++i)
             {
                 _remoteFaceBytes[i] = FaceData[i];
             }
 
-            // 将字节数组反序列化（转换）回浮点数数组
             UnmarshalFloatArray(_remoteFaceBytes, ref _remoteFaceWeights);
 
-            // 从驱动器中获取我们自定义的“数据仓库”(Provider)
             var provider = _networkedPoseBehavior.FacePoseProvider as NetworkedFacePoseProvider;
             if (provider != null)
             {
-                // 将最新的浮点数数据喂给“数据仓库”，等待SDK来取用。
                 provider.ReceiveFaceData(_remoteFaceWeights);
                 Debug.Log($"[{gameObject.name}] APPLYING < 正在应用面部数据。长度: {FaceDataLength}, CheekRaiser值: {_remoteFaceWeights[(int)CAPI.ovrAvatar2FaceExpression.CheekRaiserL]}");
             }
