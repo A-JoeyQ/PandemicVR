@@ -471,11 +471,16 @@ public class PlayerGUI : MonoBehaviour
                         charterAction = true;
                 }
 
-/*                if (PlayerModel.GetCurrentCityScript().CubesInCity() || (_player.Role == Player.Roles.Virologist
-                                                                         && !_player.secondRoleActionUsed))
+                if (PlayerModel.GetCurrentCityScript().CubesInCity())
                 {
                     treatAction = true;
-                }*/
+                }
+
+                /*                if (PlayerModel.GetCurrentCityScript().CubesInCity() || (_player.Role == Player.Roles.Virologist
+                                                                                         && !_player.secondRoleActionUsed))
+                                {
+                                    treatAction = true;
+                                }*/
 
                 if (ableToFindCure())
                     if (PlayerModel.GetCurrentCity() == game.InitialCityID)
@@ -568,12 +573,15 @@ public class PlayerGUI : MonoBehaviour
                     else
                         charterAction = true;
                 }
-
-/*                if (PlayerModel.GetCurrentCityScript().CubesInCity() || (_player.Role == Player.Roles.Virologist 
-                                                                         && !_player.secondRoleActionUsed)) 
+                if (PlayerModel.GetCurrentCityScript().CubesInCity())
                 {
                     treatAction = true;
-                }*/
+                }
+                /*                if (PlayerModel.GetCurrentCityScript().CubesInCity() || (_player.Role == Player.Roles.Virologist 
+                                                                                         && !_player.secondRoleActionUsed)) 
+                                {
+                                    treatAction = true;
+                                }*/
 
                 if (ableToFindCure())
                     if (PlayerModel.GetCurrentCity() == game.InitialCityID)
