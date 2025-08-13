@@ -128,7 +128,8 @@ public class EyeTracker : MonoBehaviour
             relativeBoardPosition,
             worldPosition,
             Time.time - MainMenu.startTimestamp,
-            aoiHit
+            combinedHit.collider?.gameObject
+            //aoiHit
         );
 
         eyeTrackingLogger.Save(gazePoint);
