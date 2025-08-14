@@ -1,0 +1,92 @@
+{
+                
+                    "startTime" : 0,
+                    "endTime" : 0.3881903,
+                    "duration" : 388.1903,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.3881903,
+                    "endTime" : 0.8000555,
+                    "duration" : 411.8652,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Stockholm",
+                    "virus" : "Red"
+                
+                },
+{
+                
+                    "startTime" : 2.652763,
+                    "endTime" : 2.667542,
+                    "duration" : 14.77814,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Athens",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : 3.016083,
+                    "endTime" : 3.058819,
+                    "duration" : 42.73605,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "PRoleCard",
+                    "player" : 1,
+                    "playerRole" : "ContainmentSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 3.058819,
+                    "endTime" : 3.908905,
+                    "duration" : 850.0862,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },

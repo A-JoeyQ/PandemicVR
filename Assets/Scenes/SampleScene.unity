@@ -65915,6 +65915,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc841d6b28eaaf44e8581e74cd236b25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  boardCanvas: {fileID: 1677307588}
 --- !u!114 &2053610413
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65939,6 +65940,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30d1b6938dbbdf64f929197cc113744c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  boardCanvas: {fileID: 1677307588}
 --- !u!114 &2053610415
 MonoBehaviour:
   m_ObjectHideFlags: 0

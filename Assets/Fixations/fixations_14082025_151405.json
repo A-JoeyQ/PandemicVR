@@ -1,0 +1,56 @@
+{
+                
+                    "startTime" : 0.3655987,
+                    "endTime" : 0.4155731,
+                    "duration" : 49.97444,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Vienna",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : 0.4558163,
+                    "endTime" : 0.4703083,
+                    "duration" : 14.49203,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Action",
+                    "action" : "PRoleCard",
+                    "player" : 1,
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 0.4703083,
+                    "endTime" : 0.5660191,
+                    "duration" : 95.71075,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },

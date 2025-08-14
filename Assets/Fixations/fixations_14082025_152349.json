@@ -1,0 +1,18 @@
+{
+                
+                    "startTime" : 7.655306,
+                    "endTime" : 7.836218,
+                    "duration" : 180.912,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "InfectionCard",
+                    "city" : "Hamburg"
+                
+                },
