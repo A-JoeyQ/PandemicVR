@@ -55,7 +55,7 @@ public class EyeTrackDataPoint
         this.worldPosition = worldPosition;
         this.timeStamp = timeStamp;
         this.objectHit = objectHit;
-        this.objectHitLog = objectHit == null ? "None" : objectHit.GetAoILog();
+        this.objectHitLog = objectHit == null ? "environment" : objectHit.GetAoILog();
     }
 
     public static string GetHeader()

@@ -61,7 +61,11 @@ public class EyeTrackingLogger : MonoBehaviour
         isLogging = false;
         if (writer != null)
         {
+            writer.Flush();
             writer.Close();
+            writer = null; // 释放引用
+            Debug.Log("[EyeTrackingLogger] 记录已停止，文件已成功关闭。");
+            //0819            writer.Close();
         }
     }
 }
