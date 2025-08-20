@@ -1,0 +1,19 @@
+{
+                
+                    "startTime" : 0.5658188,
+                    "endTime" : 0.9574013,
+                    "duration" : 391.5825,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Glasgow",
+                    "virus" : "Blue"
+                
+                },

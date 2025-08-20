@@ -37,7 +37,7 @@ public class EyeTracker : MonoBehaviour
 
     private FixationLogger fixationLogger;
     public Vector3 lastGazePoint;
-
+    public static bool isTracking = false;
 
     // Fixation tracking
     private AreaOfInterest currentAOI = null;
@@ -278,9 +278,21 @@ public class EyeTracker : MonoBehaviour
     {
         if (boardCanvas.gameObject.activeSelf)
         {
+            // 当追踪开始时，将标志位设为 true
+            if (!isTracking)
+            {
+                isTracking = true;
+                Debug.Log("[EyeTracker] Tracking has started. Speech recording can now begin.");
+            }
+
             visualizerPOG.SetActive(false);
             CombinedTracking();
         }
+/*        if (boardCanvas.gameObject.activeSelf)
+        {
+            visualizerPOG.SetActive(false);
+            CombinedTracking();
+        }*/
     }
 
 
