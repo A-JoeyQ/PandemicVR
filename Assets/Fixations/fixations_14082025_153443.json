@@ -1,0 +1,1795 @@
+{
+                
+                    "startTime" : 0,
+                    "endTime" : 0.4443178,
+                    "duration" : 444.3178,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 0.4443178,
+                    "endTime" : 0.8731842,
+                    "duration" : 428.8664,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Budapest",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : 0.8731842,
+                    "endTime" : 1.068267,
+                    "duration" : 195.0827,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.068267,
+                    "endTime" : 1.179318,
+                    "duration" : 111.0516,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 1.179318,
+                    "endTime" : 1.625597,
+                    "duration" : 446.2786,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Berlin",
+                    "virus" : "Blue"
+                
+                },
+{
+                
+                    "startTime" : 1.625597,
+                    "endTime" : 1.709706,
+                    "duration" : 84.10931,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Paris",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.709706,
+                    "endTime" : 1.920842,
+                    "duration" : 211.1359,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 1.920842,
+                    "endTime" : 2.364797,
+                    "duration" : 443.9545,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Copenhagen",
+                    "virus" : "Red"
+                
+                },
+{
+                
+                    "startTime" : 2.364797,
+                    "endTime" : 2.644893,
+                    "duration" : 280.0961,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 2.644893,
+                    "endTime" : 3.143177,
+                    "duration" : 498.2843,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Glasgow",
+                    "virus" : "Blue"
+                
+                },
+{
+                
+                    "startTime" : 3.143177,
+                    "endTime" : 3.380995,
+                    "duration" : 237.8178,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 3.380995,
+                    "endTime" : 3.896465,
+                    "duration" : 515.4705,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Moscow",
+                    "virus" : "Red"
+                
+                },
+{
+                
+                    "startTime" : 3.896465,
+                    "endTime" : 4.13327,
+                    "duration" : 236.805,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 4.13327,
+                    "endTime" : 4.605297,
+                    "duration" : 472.0268,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow"
+                
+                },
+{
+                
+                    "startTime" : 4.605297,
+                    "endTime" : 4.624882,
+                    "duration" : 19.58466,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Copenhagen",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 4.624882,
+                    "endTime" : 4.659119,
+                    "duration" : 34.23691,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 4.659119,
+                    "endTime" : 4.785824,
+                    "duration" : 126.7052,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 4.785824,
+                    "endTime" : 5.299456,
+                    "duration" : 513.6318,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 5.299456,
+                    "endTime" : 5.340958,
+                    "duration" : 41.502,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Berlin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 5.340958,
+                    "endTime" : 5.425129,
+                    "duration" : 84.1713,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 5.425129,
+                    "endTime" : 5.538994,
+                    "duration" : 113.8649,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 5.538994,
+                    "endTime" : 5.649067,
+                    "duration" : 110.0731,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Glasgow",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 5.649067,
+                    "endTime" : 5.817505,
+                    "duration" : 168.438,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 5.817505,
+                    "endTime" : 5.942543,
+                    "duration" : 125.0381,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Glasgow",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 5.942543,
+                    "endTime" : 6.082449,
+                    "duration" : 139.9059,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "InfectionCard",
+                    "city" : "Budapest"
+                
+                },
+{
+                
+                    "startTime" : 6.082449,
+                    "endTime" : 6.501684,
+                    "duration" : 419.2352,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Glasgow",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 6.501684,
+                    "endTime" : 6.751038,
+                    "duration" : 249.3534,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 6.751038,
+                    "endTime" : 7.239367,
+                    "duration" : 488.3289,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Dublin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 7.239367,
+                    "endTime" : 7.893396,
+                    "duration" : 654.0298,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "InfectionCard",
+                    "city" : "Berlin"
+                
+                },
+{
+                
+                    "startTime" : 7.893396,
+                    "endTime" : 8.230648,
+                    "duration" : 337.2516,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Dublin",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 8.230648,
+                    "endTime" : 8.315485,
+                    "duration" : 84.83696,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 8.315485,
+                    "endTime" : 8.337952,
+                    "duration" : 22.46666,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "1",
+                    "playerRole" : "ContainmentSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 8.450384,
+                    "endTime" : 8.520908,
+                    "duration" : 70.52422,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "1",
+                    "playerRole" : "ContainmentSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 10.45691,
+                    "endTime" : 10.51259,
+                    "duration" : 55.67932,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Sofia",
+                    "virus" : "Yellow",
+                    "player" : "1",
+                    "playerRole" : "ContainmentSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 10.51259,
+                    "endTime" : 10.55538,
+                    "duration" : 42.78374,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.55538,
+                    "endTime" : 10.58184,
+                    "duration" : 26.46446,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Glasgow",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 10.58184,
+                    "endTime" : 10.59591,
+                    "duration" : 14.0667,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.59591,
+                    "endTime" : 10.63915,
+                    "duration" : 43.24341,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Copenhagen",
+                    "color" : "Red",
+                    "cubesRed" : 2,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 10.63915,
+                    "endTime" : 10.72024,
+                    "duration" : 81.08902,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.72024,
+                    "endTime" : 10.80488,
+                    "duration" : 84.63669,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 10.80488,
+                    "endTime" : 10.94111,
+                    "duration" : 136.2324,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 10.94111,
+                    "endTime" : 11.09563,
+                    "duration" : 154.5258,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Budapest",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 11.09563,
+                    "endTime" : 11.1231,
+                    "duration" : 27.46964,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 13.89718,
+                    "endTime" : 13.92471,
+                    "duration" : 27.52876,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 13.92471,
+                    "endTime" : 14.02215,
+                    "duration" : 97.43309,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Berlin",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 14.02215,
+                    "endTime" : 14.06367,
+                    "duration" : 41.52489,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Moscow",
+                    "color" : "Red",
+                    "cubesRed" : 1,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.06367,
+                    "endTime" : 14.13399,
+                    "duration" : 70.32013,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.13399,
+                    "endTime" : 14.23126,
+                    "duration" : 97.27287,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Copenhagen",
+                    "color" : "Red",
+                    "cubesRed" : 2,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.23126,
+                    "endTime" : 14.29159,
+                    "duration" : 60.32181,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Cube",
+                    "virusName" : "Red",
+                    "city" : "Copenhagen"
+                
+                },
+{
+                
+                    "startTime" : 14.29159,
+                    "endTime" : 14.34502,
+                    "duration" : 53.43819,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Copenhagen",
+                    "color" : "Red",
+                    "cubesRed" : 2,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.34502,
+                    "endTime" : 14.37222,
+                    "duration" : 27.2007,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.37222,
+                    "endTime" : 14.44481,
+                    "duration" : 72.58987,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.44481,
+                    "endTime" : 14.45592,
+                    "duration" : 11.10077,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.45592,
+                    "endTime" : 14.48333,
+                    "duration" : 27.41814,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 14.48333,
+                    "endTime" : 14.57944,
+                    "duration" : 96.10176,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 14.57944,
+                    "endTime" : 14.6195,
+                    "duration" : 40.06767,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Glasgow",
+                    "virus" : "Blue",
+                    "player" : "1",
+                    "playerRole" : "ContainmentSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 14.6195,
+                    "endTime" : 14.99542,
+                    "duration" : 375.9155,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    
+                    
+                
+                 
+                    "type" : "InfectionCard",
+                    "city" : "Sofia"
+                
+                },
+{
+                
+                    "startTime" : 19.00485,
+                    "endTime" : 19.06088,
+                    "duration" : 56.02455,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.06088,
+                    "endTime" : 19.0801,
+                    "duration" : 19.22035,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.0801,
+                    "endTime" : 19.10377,
+                    "duration" : 23.66829,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Amsterdam",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.10377,
+                    "endTime" : 19.1315,
+                    "duration" : 27.73094,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.1315,
+                    "endTime" : 19.14578,
+                    "duration" : 14.28795,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.14578,
+                    "endTime" : 19.18572,
+                    "duration" : 39.93988,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.18572,
+                    "endTime" : 19.20078,
+                    "duration" : 15.05852,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.20078,
+                    "endTime" : 19.25559,
+                    "duration" : 54.80385,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Minsk",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 19.25559,
+                    "endTime" : 19.35188,
+                    "duration" : 96.29822,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 19.35188,
+                    "endTime" : 20.02134,
+                    "duration" : 669.4584,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Budapest",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 20.02134,
+                    "endTime" : 20.04934,
+                    "duration" : 27.99606,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 20.04934,
+                    "endTime" : 21.84518,
+                    "duration" : 1795.845,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Berlin",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 21.84518,
+                    "endTime" : 22.5687,
+                    "duration" : 723.5107,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 22.5687,
+                    "endTime" : 22.6943,
+                    "duration" : 125.6027,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Berlin",
+                    "virus" : "Blue",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 22.6943,
+                    "endTime" : 22.70919,
+                    "duration" : 14.88876,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 24.2277,
+                    "endTime" : 24.2555,
+                    "duration" : 27.80151,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 24.2555,
+                    "endTime" : 24.39502,
+                    "duration" : 139.5149,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "CityCard",
+                    "city" : "Budapest",
+                    "virus" : "Yellow",
+                    "player" : "0",
+                    "playerRole" : "QuarantineSpecialist"
+                
+                },
+{
+                
+                    "startTime" : 24.39502,
+                    "endTime" : 24.45095,
+                    "duration" : 55.93491,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 24.45095,
+                    "endTime" : 24.47782,
+                    "duration" : 26.86691,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Warsaw",
+                    "color" : "Red",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 24.47782,
+                    "endTime" : 24.49267,
+                    "duration" : 14.85443,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },
+{
+                
+                    "startTime" : 24.49267,
+                    "endTime" : 24.52006,
+                    "duration" : 27.38953,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Hamburg",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 24.52006,
+                    "endTime" : 24.53424,
+                    "duration" : 14.17923,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "Amsterdam",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 24.53424,
+                    "endTime" : 24.57575,
+                    "duration" : 41.51154,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "City",
+                    "city" : "London",
+                    "color" : "Blue",
+                    "cubesRed" : 0,
+                    "cubesYellow" : 0,
+                    "cubesBlue" : 0
+                
+                },
+{
+                
+                    "startTime" : 24.57575,
+                    "endTime" : 24.71509,
+                    "duration" : 139.3394,
+                    "cures" : {
+                        "red" : false,
+                        "blue" : false,
+                        "yellow" : false
+                    },
+                    "currentPlayer" : {
+                            "role" : "ContainmentSpecialist",
+                            "name" : "Beta",
+                            "currentCity" : "Geneva",
+                            "currentCityID" : 13,
+                            "cardsRed" : 1,
+                            "cardsBlue" : 1,
+                            "cardsYellow" : 1,
+                            "actions" : {"moveAction":"true","flyAction":"true","charterAction":"false","findCureAction":"false","treatAction":"false","shareAction":"false","roleAction":"false","endTurnAction":"true"}
+                        },
+                    
+                
+                 
+                    "type" : "Board"
+                
+                },

@@ -67,6 +67,10 @@ public class PlayerLoginArea : MonoBehaviour
         ChooseRoleText.text = ChooseRoleTextContent;
         ChangePlayerAreaColor(null, GameGUI.gui.playerUIOpacity);
         roleCards = new GameObject[Enum.GetValues(typeof(Player.Roles)).Length];
+
+
+
+
         roleCardsDisplay = new RoleCardDisplay[roleCards.Length];
         for (int i = 0; i < roleCards.Length; i++)
         {

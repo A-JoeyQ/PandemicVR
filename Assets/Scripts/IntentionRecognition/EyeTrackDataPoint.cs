@@ -43,7 +43,7 @@ public class EyeTrackDataPoint
         AreaOfInterest objectHit = null
     )
     {
-       
+
         this.headPosition = headPosition;
         this.headRotation = headRotation;
         this.leftEyeDirection = leftEyeDirection;
@@ -55,15 +55,17 @@ public class EyeTrackDataPoint
         this.worldPosition = worldPosition;
         this.timeStamp = timeStamp;
         this.objectHit = objectHit;
-        this.objectHitLog = objectHit == null ? "None" : objectHit.GetAoILog();
+        this.objectHitLog = objectHit == null ? "environment" : objectHit.GetAoILog();
     }
 
-    public static string GetHeader(){
+    public static string GetHeader()
+    {
         return "dirx,diry,dirz,bx,by,bz,timeStamp,object";
     }
 
-    public string GetLogInfo(){
-        
+    public string GetLogInfo()
+    {
+
         return JsonUtility.ToJson(this);
     }
 }
