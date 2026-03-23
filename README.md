@@ -1,9 +1,10 @@
 # PandemicTouchTable
 This repository holds a clone for the Pandemic - Hot Europe board game designed for a multi touch table. Intended for research.
-**The version on the **main branch** is the latest, and it is the one actually used in the experiments.**
+
+# **The version on the **main branch** is the latest, and it is the one actually used in the experiments.**
 
 
-**Here are the commits logs in English:**
+# **Here are the commits logs in English:**
 Commits on Aug 28, 2025
 Merge pull request #5 from A-JoeyQ/23main
 
